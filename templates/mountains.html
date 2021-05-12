@@ -1,0 +1,1186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Get Outside</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+<!--   <link rel="stylesheet" type="text/css" href="../Assets/css/projectleaf.css"> -->
+    <link rel="stylesheet" type="text/css" href="../static/css/projectleaf.css">
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Get Outside</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+     <!--    <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false"> 
+          Home     
+          </a> -->
+<!--           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="breweries.html">Breweries</a></li>
+            <li><a class="dropdown-item" href="mountains.html">14ers Table</a></li>
+            <li><a class="dropdown-item" href="camping.html">Camping</a></li>
+
+          </ul> -->
+<!--         </li> -->
+        <li class="nav-item">
+          <a class="nav-link" href="/home">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/beer">Breweries</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/fourteeners">14ers Data</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/camping">Camping Data</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+</head>
+<body class="black">
+<div class="container">
+    <div class="row ">
+      <!-- Setting the width and color schemes -->
+      <div class="text-dark">
+        <!-- Defining color and size of text -->
+        <h2 class="page-title text-info">
+          Mountains
+        </h2>
+        <table border="1" class="dataframe">
+          <thead>
+            <tr style="text-align: right;">
+              <th>_id</th>
+              <th>ID</th>
+              <th>Mountain Peak</th>
+              <th>Mountain Range</th>
+              <th>Elevation_ft</th>
+              <th>fourteener</th>
+              <th>Prominence_ft</th>
+              <th>Isolation_mi</th>
+              <th>Peak Longitude</th>
+              <th>Peak Latitude</th>
+              <th>Standard Route</th>
+              <th>Standard Route Distance (miles)</th>
+              <th>Elevation Gain_ft</th>
+              <th>Difficulty</th>
+              <th>Traffic Low</th>
+              <th>Traffic High</th>
+              <th>photo</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>608215be210482538e418ea1</td>
+              <td>1</td>
+              <td>Mt. Elbert</td>
+              <td>Sawatch Range</td>
+              <td>14440</td>
+              <td>Y</td>
+              <td>9093</td>
+              <td>670.00</td>
+              <td>-106.445400</td>
+              <td>39.117800</td>
+              <td>Northeast Ridge</td>
+              <td>9.50</td>
+              <td>4700</td>
+              <td>Class 1</td>
+              <td>20000</td>
+              <td>25000</td>
+              <td>https://www.14ers.com/photos/mtelbert/peakphotos/large/201207_Elbert01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ea2</td>
+              <td>2</td>
+              <td>Mt. Massive</td>
+              <td>Sawatch Range</td>
+              <td>14428</td>
+              <td>Y</td>
+              <td>1961</td>
+              <td>5.06</td>
+              <td>-106.475700</td>
+              <td>39.187500</td>
+              <td>East Slopes</td>
+              <td>14.50</td>
+              <td>4500</td>
+              <td>Class 2</td>
+              <td>7000</td>
+              <td>10000</td>
+              <td>https://www.14ers.com/photos/mtmassive/peakphotos/large/200508_Massive01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ea3</td>
+              <td>3</td>
+              <td>Mt. Harvard</td>
+              <td>Sawatch Range</td>
+              <td>14421</td>
+              <td>Y</td>
+              <td>2360</td>
+              <td>14.93</td>
+              <td>-106.320700</td>
+              <td>38.924400</td>
+              <td>South Slopes</td>
+              <td>14.00</td>
+              <td>4600</td>
+              <td>Class 2</td>
+              <td>5000</td>
+              <td>7000</td>
+              <td>https://www.14ers.com/photos/harvardgroup/peakphotos/large/200706_Harv01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ea4</td>
+              <td>4</td>
+              <td>Blanca Peak</td>
+              <td>Sangre de Cristo Range</td>
+              <td>14351</td>
+              <td>Y</td>
+              <td>5326</td>
+              <td>103.40</td>
+              <td>-105.485600</td>
+              <td>37.577500</td>
+              <td>Northwest Ridge</td>
+              <td>17.00</td>
+              <td>6500</td>
+              <td>Hard Class 2</td>
+              <td>1000</td>
+              <td>3000</td>
+              <td>https://www.14ers.com/photos/blancagroup/peakphotos/large/200607_Blanca01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ea5</td>
+              <td>5</td>
+              <td>La Plata Peak</td>
+              <td>Sawatch Range</td>
+              <td>14343</td>
+              <td>Y</td>
+              <td>1836</td>
+              <td>6.28</td>
+              <td>-106.472900</td>
+              <td>39.029400</td>
+              <td>Northwest Ridge</td>
+              <td>9.25</td>
+              <td>4500</td>
+              <td>Class 2</td>
+              <td>5000</td>
+              <td>7000</td>
+              <td>https://www.14ers.com/photos/laplatapeak/peakphotos/large/201205_Lap01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ea6</td>
+              <td>6</td>
+              <td>Uncompahgre Peak</td>
+              <td>San Juan Mountains</td>
+              <td>14321</td>
+              <td>Y</td>
+              <td>4277</td>
+              <td>85.10</td>
+              <td>-107.462100</td>
+              <td>38.071700</td>
+              <td>South Ridge</td>
+              <td>7.50</td>
+              <td>3000</td>
+              <td>Class 2</td>
+              <td>3000</td>
+              <td>5000</td>
+              <td>https://www.14ers.com/photos/uncompahgrepeak/peakphotos/large/201710_Unco01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ea7</td>
+              <td>7</td>
+              <td>Crestone Peak</td>
+              <td>Sangre de Cristo Range</td>
+              <td>14300</td>
+              <td>Y</td>
+              <td>4554</td>
+              <td>27.40</td>
+              <td>-105.585500</td>
+              <td>37.966900</td>
+              <td>South Face</td>
+              <td>14.00</td>
+              <td>5700</td>
+              <td>Class 3</td>
+              <td>1000</td>
+              <td>3000</td>
+              <td>https://www.14ers.com/photos/crestonegroup/peakphotos/large/201607_Crestones01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ea8</td>
+              <td>8</td>
+              <td>Mt. Lincoln</td>
+              <td>Mosquito Range</td>
+              <td>14293</td>
+              <td>Y</td>
+              <td>3862</td>
+              <td>22.60</td>
+              <td>-106.111600</td>
+              <td>39.351500</td>
+              <td>West Ridge</td>
+              <td>6.00</td>
+              <td>2600</td>
+              <td>Class 2</td>
+              <td>15000</td>
+              <td>20000</td>
+              <td>https://www.14ers.com/photos/lincolngroup/peakphotos/large/200904_LinBro01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ea9</td>
+              <td>9</td>
+              <td>Castle Peak</td>
+              <td>Elk Mountains</td>
+              <td>14279</td>
+              <td>Y</td>
+              <td>2365</td>
+              <td>20.90</td>
+              <td>-106.861400</td>
+              <td>39.009700</td>
+              <td>Northeast Ridge</td>
+              <td>13.50</td>
+              <td>4600</td>
+              <td>Hard Class 2</td>
+              <td>1000</td>
+              <td>3000</td>
+              <td>https://www.14ers.com/photos/castlegroup/peakphotos/large/200807_Cast04.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418eaa</td>
+              <td>10</td>
+              <td>Grays Peak</td>
+              <td>Front Range</td>
+              <td>14278</td>
+              <td>Y</td>
+              <td>2770</td>
+              <td>25.00</td>
+              <td>-105.817600</td>
+              <td>39.633900</td>
+              <td>North Slopes</td>
+              <td>8.00</td>
+              <td>3000</td>
+              <td>Class 1</td>
+              <td>25000</td>
+              <td>30000</td>
+              <td>https://www.14ers.com/photos/graystorreys/peakphotos/large/201211_Grays01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418eab</td>
+              <td>11</td>
+              <td>Mt. Antero</td>
+              <td>Sawatch Range</td>
+              <td>14276</td>
+              <td>Y</td>
+              <td>2503</td>
+              <td>17.75</td>
+              <td>-106.246200</td>
+              <td>38.674100</td>
+              <td>West Slopes</td>
+              <td>16.00</td>
+              <td>5200</td>
+              <td>Class 2</td>
+              <td>3000</td>
+              <td>5000</td>
+              <td>https://www.14ers.com/photos/mtantero/peakphotos/large/201205_Ant01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418eac</td>
+              <td>12</td>
+              <td>Torreys Peak</td>
+              <td>Front Range</td>
+              <td>14275</td>
+              <td>Y</td>
+              <td>560</td>
+              <td>0.65</td>
+              <td>-105.821200</td>
+              <td>39.642800</td>
+              <td>South Slopes</td>
+              <td>8.00</td>
+              <td>3000</td>
+              <td>Class 2</td>
+              <td>25000</td>
+              <td>30000</td>
+              <td>https://www.14ers.com/photos/graystorreys/peakphotos/large/201004_Grays01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ead</td>
+              <td>13</td>
+              <td>Quandary Peak</td>
+              <td>Mosquito Range</td>
+              <td>14271</td>
+              <td>Y</td>
+              <td>1125</td>
+              <td>3.16</td>
+              <td>-106.106400</td>
+              <td>39.397300</td>
+              <td>East Ridge</td>
+              <td>6.75</td>
+              <td>3450</td>
+              <td>Class 1</td>
+              <td>20000</td>
+              <td>25000</td>
+              <td>https://www.14ers.com/photos/quandarypeak/peakphotos/large/200701_Quan02.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418eae</td>
+              <td>14</td>
+              <td>Mt. Evans</td>
+              <td>Front Range</td>
+              <td>14271</td>
+              <td>Y</td>
+              <td>2770</td>
+              <td>9.79</td>
+              <td>-105.643800</td>
+              <td>39.588300</td>
+              <td>West Ridge via Mt. Spalding</td>
+              <td>5.00</td>
+              <td>2000</td>
+              <td>Class 2</td>
+              <td>15000</td>
+              <td>20000</td>
+              <td>https://www.14ers.com/photos/evansgroup/peakphotos/large/200907_Evans01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418eaf</td>
+              <td>15</td>
+              <td>Longs Peak</td>
+              <td>Front Range</td>
+              <td>14259</td>
+              <td>Y</td>
+              <td>2940</td>
+              <td>43.60</td>
+              <td>-105.615100</td>
+              <td>40.255000</td>
+              <td>Keyhole Route</td>
+              <td>14.50</td>
+              <td>5100</td>
+              <td>Class 3</td>
+              <td>15000</td>
+              <td>20000</td>
+              <td>https://www.14ers.com/photos/longspeak/peakphotos/large/200508_Longs01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418eb0</td>
+              <td>16</td>
+              <td>Mt. Wilson</td>
+              <td>San Juan Mountains</td>
+              <td>14252</td>
+              <td>Y</td>
+              <td>4024</td>
+              <td>33.10</td>
+              <td>-107.991600</td>
+              <td>37.839100</td>
+              <td>North Slopes</td>
+              <td>16.00</td>
+              <td>5100</td>
+              <td>Class 4</td>
+              <td>1000</td>
+              <td>3000</td>
+              <td>https://www.14ers.com/photos/wilsongroup/peakphotos/large/200803_Wils01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418eb1</td>
+              <td>17</td>
+              <td>Mt. Shavano</td>
+              <td>Sawatch Range</td>
+              <td>14231</td>
+              <td>Y</td>
+              <td>1619</td>
+              <td>3.78</td>
+              <td>-106.239300</td>
+              <td>38.619200</td>
+              <td>East Slopes</td>
+              <td>9.00</td>
+              <td>4600</td>
+              <td>Class 2</td>
+              <td>5000</td>
+              <td>7000</td>
+              <td>https://www.14ers.com/photos/shavanogroup/peakphotos/large/200804_Shav01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418eb2</td>
+              <td>18</td>
+              <td>Mt. Princeton</td>
+              <td>Sawatch Range</td>
+              <td>14204</td>
+              <td>Y</td>
+              <td>2177</td>
+              <td>5.19</td>
+              <td>-106.242400</td>
+              <td>38.749200</td>
+              <td>East Slopes</td>
+              <td>6.50</td>
+              <td>3200</td>
+              <td>Class 2</td>
+              <td>5000</td>
+              <td>7000</td>
+              <td>https://www.14ers.com/photos/mtprinceton/peakphotos/large/200904_Prin01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418eb3</td>
+              <td>19</td>
+              <td>Mt. Belford</td>
+              <td>Sawatch Range</td>
+              <td>14203</td>
+              <td>Y</td>
+              <td>1337</td>
+              <td>3.30</td>
+              <td>-106.360700</td>
+              <td>38.960700</td>
+              <td>Northwest Ridge</td>
+              <td>8.00</td>
+              <td>4500</td>
+              <td>Class 2</td>
+              <td>5000</td>
+              <td>7000</td>
+              <td>https://www.14ers.com/photos/belfordgroup/peakphotos/large/201204_Belf01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418eb4</td>
+              <td>20</td>
+              <td>Crestone Needle</td>
+              <td>Sangre de Cristo Range</td>
+              <td>14203</td>
+              <td>Y</td>
+              <td>457</td>
+              <td>0.45</td>
+              <td>-105.576600</td>
+              <td>37.964700</td>
+              <td>South Face</td>
+              <td>12.00</td>
+              <td>4400</td>
+              <td>Class 3</td>
+              <td>1000</td>
+              <td>3000</td>
+              <td>https://www.14ers.com/photos/crestonegroup/peakphotos/large/201104_CNeed01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418eb5</td>
+              <td>21</td>
+              <td>Mt. Yale</td>
+              <td>Sawatch Range</td>
+              <td>14200</td>
+              <td>Y</td>
+              <td>1896</td>
+              <td>5.55</td>
+              <td>-106.313800</td>
+              <td>38.844200</td>
+              <td>Southwest Slopes</td>
+              <td>9.50</td>
+              <td>4300</td>
+              <td>Class 2</td>
+              <td>5000</td>
+              <td>7000</td>
+              <td>https://www.14ers.com/photos/mtyale/peakphotos/large/201004_Yale02.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418eb6</td>
+              <td>22</td>
+              <td>Mt. Bross</td>
+              <td>Mosquito Range</td>
+              <td>14178</td>
+              <td>Y</td>
+              <td>312</td>
+              <td>0.99</td>
+              <td>-106.107700</td>
+              <td>39.335400</td>
+              <td>West Slopes</td>
+              <td>3.25</td>
+              <td>2250</td>
+              <td>Class 2</td>
+              <td>15000</td>
+              <td>20000</td>
+              <td>https://www.14ers.com/photos/lincolngroup/peakphotos/large/200505_Bross01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418eb7</td>
+              <td>23</td>
+              <td>Kit Carson Mountain</td>
+              <td>Sangre de Cristo Range</td>
+              <td>14171</td>
+              <td>Y</td>
+              <td>1025</td>
+              <td>1.27</td>
+              <td>-105.602600</td>
+              <td>37.979700</td>
+              <td>Via Challenger Point</td>
+              <td>14.50</td>
+              <td>6250</td>
+              <td>Easy Class 3</td>
+              <td>1000</td>
+              <td>3000</td>
+              <td>https://www.14ers.com/photos/kitcarsongroup/peakphotos/large/201107_kitcar02.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418eb8</td>
+              <td>24</td>
+              <td>Maroon Peak</td>
+              <td>Elk Mountains</td>
+              <td>14163</td>
+              <td>Y</td>
+              <td>2336</td>
+              <td>8.06</td>
+              <td>-106.989000</td>
+              <td>39.070800</td>
+              <td>South ridge</td>
+              <td>11.50</td>
+              <td>4800</td>
+              <td>Class 3</td>
+              <td>1000</td>
+              <td>3000</td>
+              <td>https://www.14ers.com/photos/maroongroup/peakphotos/large/201807_Maro02.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418eb9</td>
+              <td>25</td>
+              <td>Tabeguache Peak</td>
+              <td>Sawatch Range</td>
+              <td>14162</td>
+              <td>Y</td>
+              <td>455</td>
+              <td>0.75</td>
+              <td>-106.250900</td>
+              <td>38.625500</td>
+              <td>Via Mt. Shavano</td>
+              <td>11.00</td>
+              <td>5600</td>
+              <td>Class 2</td>
+              <td>5000</td>
+              <td>7000</td>
+              <td>https://www.14ers.com/photos/shavanogroup/peakphotos/large/201005_Tabe01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418eba</td>
+              <td>26</td>
+              <td>Mt. Oxford (Colorado)</td>
+              <td>Sawatch Range</td>
+              <td>14160</td>
+              <td>Y</td>
+              <td>653</td>
+              <td>1.22</td>
+              <td>-106.338800</td>
+              <td>38.964800</td>
+              <td>Via Mt. Belford</td>
+              <td>11.00</td>
+              <td>5800</td>
+              <td>Class 2</td>
+              <td>5000</td>
+              <td>7000</td>
+              <td>https://www.14ers.com/photos/belfordgroup/peakphotos/large/200508_Oxfo01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ebb</td>
+              <td>27</td>
+              <td>Mt. Sneffels</td>
+              <td>San Juan Mountains</td>
+              <td>14158</td>
+              <td>Y</td>
+              <td>3050</td>
+              <td>15.73</td>
+              <td>-107.792300</td>
+              <td>38.003800</td>
+              <td>South Slopes</td>
+              <td>6.00</td>
+              <td>2900</td>
+              <td>Easy Class 3</td>
+              <td>3000</td>
+              <td>5000</td>
+              <td>https://www.14ers.com/photos/mtsneffels/peakphotos/large/200808_Snef23.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ebc</td>
+              <td>28</td>
+              <td>Mt. Democrat</td>
+              <td>Mosquito Range</td>
+              <td>14155</td>
+              <td>Y</td>
+              <td>768</td>
+              <td>1.27</td>
+              <td>-106.140000</td>
+              <td>39.339600</td>
+              <td>East Slope</td>
+              <td>4.00</td>
+              <td>2150</td>
+              <td>Class 2</td>
+              <td>15000</td>
+              <td>20000</td>
+              <td>https://www.14ers.com/photos/lincolngroup/peakphotos/large/201706_Demo01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ebd</td>
+              <td>29</td>
+              <td>Capitol Peak</td>
+              <td>Elk Mountains</td>
+              <td>14137</td>
+              <td>Y</td>
+              <td>1750</td>
+              <td>7.44</td>
+              <td>-107.082900</td>
+              <td>39.150300</td>
+              <td>Northeast Ridge</td>
+              <td>17.00</td>
+              <td>5300</td>
+              <td>Class 4</td>
+              <td>1000</td>
+              <td>3000</td>
+              <td>https://www.14ers.com/photos/capitolpeak/peakphotos/large/200807_Capi02.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ebe</td>
+              <td>30</td>
+              <td>Pikes Peak</td>
+              <td>Front Range</td>
+              <td>14115</td>
+              <td>Y</td>
+              <td>5530</td>
+              <td>60.80</td>
+              <td>-105.044200</td>
+              <td>38.840500</td>
+              <td>East Slopes</td>
+              <td>26.00</td>
+              <td>7500</td>
+              <td>Class 1</td>
+              <td>15000</td>
+              <td>20000</td>
+              <td>https://www.14ers.com/photos/pikespeak/peakphotos/large/201506_Pikes01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ebf</td>
+              <td>31</td>
+              <td>Snowmass Mountain</td>
+              <td>Elk Mountains</td>
+              <td>14099</td>
+              <td>Y</td>
+              <td>1152</td>
+              <td>2.34</td>
+              <td>-107.066500</td>
+              <td>39.118800</td>
+              <td>East Slopes</td>
+              <td>22.00</td>
+              <td>5800</td>
+              <td>Hard Class 3</td>
+              <td>1000</td>
+              <td>3000</td>
+              <td>https://www.14ers.com/photos/snowmassmtn/peakphotos/large/200907_Snow01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ec0</td>
+              <td>32</td>
+              <td>Windom Peak</td>
+              <td>San Juan Mountains</td>
+              <td>14093</td>
+              <td>Y</td>
+              <td>2187</td>
+              <td>26.40</td>
+              <td>-107.591900</td>
+              <td>37.621200</td>
+              <td>West Ridge</td>
+              <td>17.00</td>
+              <td>6000</td>
+              <td>Hard Class 2</td>
+              <td>3000</td>
+              <td>5000</td>
+              <td>https://www.14ers.com/photos/windomgroup/peakphotos/large/200607_Wind01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ec1</td>
+              <td>33</td>
+              <td>Mt. Eolus</td>
+              <td>San Juan Mountains</td>
+              <td>14090</td>
+              <td>Y</td>
+              <td>1024</td>
+              <td>1.69</td>
+              <td>-107.622700</td>
+              <td>37.621800</td>
+              <td>Northeast Ridge</td>
+              <td>17.00</td>
+              <td>6100</td>
+              <td>Class 3</td>
+              <td>3000</td>
+              <td>5000</td>
+              <td>https://www.14ers.com/photos/windomgroup/peakphotos/large/200607_Eolus01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ec2</td>
+              <td>34</td>
+              <td>Challenger Point</td>
+              <td>Sangre de Cristo Range</td>
+              <td>14087</td>
+              <td>Y</td>
+              <td>301</td>
+              <td>0.22</td>
+              <td>-105.606600</td>
+              <td>37.980400</td>
+              <td>North Slope</td>
+              <td>12.50</td>
+              <td>5400</td>
+              <td>Hard Class 2</td>
+              <td>1000</td>
+              <td>3000</td>
+              <td>https://www.14ers.com/photos/kitcarsongroup/peakphotos/large/200707_chal01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ec3</td>
+              <td>35</td>
+              <td>Mt. Columbia</td>
+              <td>Sawatch Range</td>
+              <td>14077</td>
+              <td>Y</td>
+              <td>893</td>
+              <td>1.90</td>
+              <td>-106.297500</td>
+              <td>38.903900</td>
+              <td>West Slopes</td>
+              <td>11.50</td>
+              <td>4250</td>
+              <td>Class 2</td>
+              <td>3000</td>
+              <td>5000</td>
+              <td>https://www.14ers.com/photos/harvardgroup/peakphotos/large/201005_Colu01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ec4</td>
+              <td>36</td>
+              <td>Missouri Mountain</td>
+              <td>Sawatch Range</td>
+              <td>14074</td>
+              <td>Y</td>
+              <td>847</td>
+              <td>1.31</td>
+              <td>-106.378500</td>
+              <td>38.947600</td>
+              <td>Northwest Ridge</td>
+              <td>10.50</td>
+              <td>4500</td>
+              <td>Class 2</td>
+              <td>3000</td>
+              <td>5000</td>
+              <td>https://www.14ers.com/photos/belfordgroup/peakphotos/large/200706_Miss01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ec5</td>
+              <td>37</td>
+              <td>Humboldt Peak</td>
+              <td>Sangre de Cristo Range</td>
+              <td>14070</td>
+              <td>Y</td>
+              <td>1204</td>
+              <td>1.41</td>
+              <td>-105.555200</td>
+              <td>37.976200</td>
+              <td>West Ridge</td>
+              <td>11.00</td>
+              <td>4200</td>
+              <td>Class 2</td>
+              <td>1000</td>
+              <td>3000</td>
+              <td>https://www.14ers.com/photos/crestonegroup/peakphotos/large/201607_Humb01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ec6</td>
+              <td>38</td>
+              <td>Mt. Bierstadt</td>
+              <td>Front Range</td>
+              <td>14065</td>
+              <td>Y</td>
+              <td>720</td>
+              <td>1.12</td>
+              <td>-105.668800</td>
+              <td>39.582600</td>
+              <td>West Slopes</td>
+              <td>7.00</td>
+              <td>2850</td>
+              <td>Class 2</td>
+              <td>35000</td>
+              <td>40000</td>
+              <td>https://www.14ers.com/photos/evansgroup/peakphotos/large/200607_Bier01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ec7</td>
+              <td>39</td>
+              <td>Sunlight Peak</td>
+              <td>San Juan Mountains</td>
+              <td>14065</td>
+              <td>Y</td>
+              <td>399</td>
+              <td>0.48</td>
+              <td>-107.595900</td>
+              <td>37.627400</td>
+              <td>South Face</td>
+              <td>17.00</td>
+              <td>6000</td>
+              <td>Class 4</td>
+              <td>3000</td>
+              <td>5000</td>
+              <td>https://www.14ers.com/photos/windomgroup/peakphotos/large/200708_Sunl01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ec8</td>
+              <td>40</td>
+              <td>Handies Peak</td>
+              <td>San Juan Mountains</td>
+              <td>14058</td>
+              <td>Y</td>
+              <td>1908</td>
+              <td>11.18</td>
+              <td>-107.504400</td>
+              <td>37.913000</td>
+              <td>Southwest Slopes</td>
+              <td>5.75</td>
+              <td>2500</td>
+              <td>Class 1</td>
+              <td>5000</td>
+              <td>7000</td>
+              <td>https://www.14ers.com/photos/handiespeak/peakphotos/large/200707_Hand03.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ec9</td>
+              <td>41</td>
+              <td>Culebra Peak</td>
+              <td>Sangre de Cristo Range</td>
+              <td>14053</td>
+              <td>Y</td>
+              <td>4827</td>
+              <td>35.50</td>
+              <td>-105.185800</td>
+              <td>37.122400</td>
+              <td>Northwest Ridge</td>
+              <td>5.00</td>
+              <td>2700</td>
+              <td>Class 2</td>
+              <td>1000</td>
+              <td>3000</td>
+              <td>https://www.14ers.com/photos/culebrapeak/peakphotos/large/201508_Cule01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418eca</td>
+              <td>42</td>
+              <td>Ellingwood Point</td>
+              <td>Sangre de Cristo Range</td>
+              <td>14048</td>
+              <td>Y</td>
+              <td>342</td>
+              <td>0.52</td>
+              <td>-105.492700</td>
+              <td>37.582600</td>
+              <td>South Face</td>
+              <td>17.00</td>
+              <td>6200</td>
+              <td>Hard Class 2</td>
+              <td>1000</td>
+              <td>3000</td>
+              <td>https://www.14ers.com/photos/blancagroup/peakphotos/large/200607_Elli01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ecb</td>
+              <td>43</td>
+              <td>Mt. Lindsey</td>
+              <td>Sangre de Cristo Range</td>
+              <td>14048</td>
+              <td>Y</td>
+              <td>1542</td>
+              <td>2.26</td>
+              <td>-105.444900</td>
+              <td>37.583700</td>
+              <td>Northwest Gully</td>
+              <td>8.25</td>
+              <td>3500</td>
+              <td>Easy Class 3</td>
+              <td>1000</td>
+              <td>3000</td>
+              <td>https://www.14ers.com/photos/mtlindsey/peakphotos/large/200606_Lind01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ecc</td>
+              <td>44</td>
+              <td>Little Bear Peak</td>
+              <td>Sangre de Cristo Range</td>
+              <td>14043</td>
+              <td>Y</td>
+              <td>377</td>
+              <td>0.98</td>
+              <td>-105.497200</td>
+              <td>37.566600</td>
+              <td>West Ridge and Southwest Face</td>
+              <td>14.00</td>
+              <td>6200</td>
+              <td>Class 4</td>
+              <td>1000</td>
+              <td>3000</td>
+              <td>https://www.14ers.com/photos/blancagroup/peakphotos/large/200607_Litt01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ecd</td>
+              <td>45</td>
+              <td>Mt. Sherman</td>
+              <td>Mosquito Range</td>
+              <td>14043</td>
+              <td>Y</td>
+              <td>850</td>
+              <td>8.06</td>
+              <td>-106.169900</td>
+              <td>39.225000</td>
+              <td>Southwest Ridge</td>
+              <td>5.25</td>
+              <td>2100</td>
+              <td>Class 2</td>
+              <td>20000</td>
+              <td>25000</td>
+              <td>https://www.14ers.com/photos/mtsherman/peakphotos/large/201207_Sher02.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ece</td>
+              <td>46</td>
+              <td>Redcloud Peak</td>
+              <td>San Juan Mountains</td>
+              <td>14041</td>
+              <td>Y</td>
+              <td>1436</td>
+              <td>4.91</td>
+              <td>-107.421900</td>
+              <td>37.941000</td>
+              <td>Northeast Ridge</td>
+              <td>9.00</td>
+              <td>3700</td>
+              <td>Class 2</td>
+              <td>3000</td>
+              <td>5000</td>
+              <td>https://www.14ers.com/photos/redcloudgroup/peakphotos/large/201610_Redc02.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ecf</td>
+              <td>47</td>
+              <td>Pyramid Peak</td>
+              <td>Elk Mountains</td>
+              <td>14025</td>
+              <td>Y</td>
+              <td>1638</td>
+              <td>2.09</td>
+              <td>-106.950200</td>
+              <td>39.071700</td>
+              <td>Northeast Ridge</td>
+              <td>8.25</td>
+              <td>4500</td>
+              <td>Class 4</td>
+              <td>1000</td>
+              <td>3000</td>
+              <td>https://www.14ers.com/photos/maroongroup/peakphotos/large/200807_Pyra01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ed0</td>
+              <td>48</td>
+              <td>Wilson Peak</td>
+              <td>San Juan Mountains</td>
+              <td>14023</td>
+              <td>Y</td>
+              <td>857</td>
+              <td>1.51</td>
+              <td>-107.984700</td>
+              <td>37.860300</td>
+              <td>Southwest Ridge</td>
+              <td>10.00</td>
+              <td>5000</td>
+              <td>Class 3</td>
+              <td>1000</td>
+              <td>3000</td>
+              <td>https://www.14ers.com/photos/wilsongroup/peakphotos/large/200604_Wils01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ed1</td>
+              <td>49</td>
+              <td>San Luis Peak</td>
+              <td>San Juan Mountains</td>
+              <td>14022</td>
+              <td>Y</td>
+              <td>3113</td>
+              <td>27.00</td>
+              <td>-106.931300</td>
+              <td>37.986800</td>
+              <td>Northeast Ridge</td>
+              <td>13.50</td>
+              <td>3600</td>
+              <td>Class 1</td>
+              <td>3000</td>
+              <td>5000</td>
+              <td>https://www.14ers.com/photos/sanluispeak/peakphotos/large/201807_San01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ed2</td>
+              <td>50</td>
+              <td>Wetterhorn Peak</td>
+              <td>San Juan Mountains</td>
+              <td>14021</td>
+              <td>Y</td>
+              <td>1635</td>
+              <td>2.77</td>
+              <td>-107.510900</td>
+              <td>38.060700</td>
+              <td>Southeast Ridge</td>
+              <td>7.00</td>
+              <td>3300</td>
+              <td>Class 3</td>
+              <td>3000</td>
+              <td>5000</td>
+              <td>https://www.14ers.com/photos/wetterhornpeak/peakphotos/large/201106_Wett01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ed3</td>
+              <td>51</td>
+              <td>Mt. of the Holy Cross</td>
+              <td>Sawatch Range</td>
+              <td>14011</td>
+              <td>Y</td>
+              <td>2113</td>
+              <td>18.52</td>
+              <td>-106.481700</td>
+              <td>39.466800</td>
+              <td>North Ridge</td>
+              <td>12.00</td>
+              <td>5600</td>
+              <td>Class 2</td>
+              <td>3000</td>
+              <td>5000</td>
+              <td>https://www.14ers.com/photos/mtholycross/peakphotos/large/200706_Holy01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ed4</td>
+              <td>52</td>
+              <td>Huron Peak</td>
+              <td>Sawatch Range</td>
+              <td>14010</td>
+              <td>Y</td>
+              <td>1423</td>
+              <td>3.21</td>
+              <td>-106.438100</td>
+              <td>38.945500</td>
+              <td>Northwest Slopes</td>
+              <td>6.50</td>
+              <td>3500</td>
+              <td>Class 2</td>
+              <td>5000</td>
+              <td>7000</td>
+              <td>https://www.14ers.com/photos/huronpeak/peakphotos/large/201607_Huro01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ed5</td>
+              <td>53</td>
+              <td>Sunshine Peak</td>
+              <td>San Juan Mountains</td>
+              <td>14007</td>
+              <td>Y</td>
+              <td>501</td>
+              <td>1.27</td>
+              <td>-107.425600</td>
+              <td>37.922800</td>
+              <td>Via Redcloud Peak</td>
+              <td>12.25</td>
+              <td>4800</td>
+              <td>Class 2</td>
+              <td>3000</td>
+              <td>5000</td>
+              <td>https://www.14ers.com/photos/redcloudgroup/peakphotos/large/200606_Sun01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ed6</td>
+              <td>54</td>
+              <td>Mt. Cameron</td>
+              <td>Mosquito Range</td>
+              <td>14238</td>
+              <td>N</td>
+              <td>158</td>
+              <td>0.48</td>
+              <td>-106.118501</td>
+              <td>39.347165</td>
+              <td>West Ridge</td>
+              <td>4.75</td>
+              <td>2250</td>
+              <td>Class 2</td>
+              <td>15000</td>
+              <td>20000</td>
+              <td>https://www.14ers.com/photos/lincolngroup/peakphotos/large/200505_Linc01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ed7</td>
+              <td>55</td>
+              <td>El Diente Peak</td>
+              <td>San Juan Mountains</td>
+              <td>14159</td>
+              <td>N</td>
+              <td>239</td>
+              <td>0.75</td>
+              <td>-108.005335</td>
+              <td>37.839383</td>
+              <td>North Slopes</td>
+              <td>15.00</td>
+              <td>5000</td>
+              <td>Class 3</td>
+              <td>1000</td>
+              <td>3000</td>
+              <td>https://www.14ers.com/photos/wilsongroup/peakphotos/large/201007_ElD01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ed8</td>
+              <td>56</td>
+              <td>Conundrum Peak</td>
+              <td>Elk Mountains</td>
+              <td>14060</td>
+              <td>N</td>
+              <td>280</td>
+              <td>0.40</td>
+              <td>-106.862749</td>
+              <td>39.015682</td>
+              <td>Via Castle Peak</td>
+              <td>14.50</td>
+              <td>4850</td>
+              <td>Hard Class 2</td>
+              <td>1000</td>
+              <td>3000</td>
+              <td>https://www.14ers.com/photos/castlegroup/peakphotos/large/200807_Cast01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418ed9</td>
+              <td>57</td>
+              <td>North Eolus</td>
+              <td>San Juan Mountains</td>
+              <td>14039</td>
+              <td>N</td>
+              <td>199</td>
+              <td>0.25</td>
+              <td>-107.621187</td>
+              <td>37.625192</td>
+              <td>South Ridge</td>
+              <td>16.75</td>
+              <td>6000</td>
+              <td>Class 3</td>
+              <td>3000</td>
+              <td>5000</td>
+              <td>https://www.14ers.com/photos/windomgroup/peakphotos/large/200607_Eolus01.jpg</td>
+            </tr>
+            <tr>
+              <td>608215be210482538e418eda</td>
+              <td>58</td>
+              <td>North Maroon Peak</td>
+              <td>Elk Mountains</td>
+              <td>14014</td>
+              <td>N</td>
+              <td>254</td>
+              <td>0.37</td>
+              <td>-106.987058</td>
+              <td>39.076007</td>
+              <td>Northeast Ridge</td>
+              <td>9.25</td>
+              <td>4500</td>
+              <td>Class 4</td>
+              <td>1000</td>
+              <td>3000</td>
+              <td>https://www.14ers.com/photos/maroongroup/peakphotos/large/200807_NMar01.jpg</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</body>

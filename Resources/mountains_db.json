@@ -1,0 +1,1161 @@
+[{
+  "_id": {
+    "$oid": "6081dc9486def72d477624f2"
+  },
+  "ID": 1,
+  "Mountain Peak": "Mt. Elbert",
+  "Mountain Range": "Sawatch Range",
+  "Elevation_ft": 14440,
+  "fourteener": "Y",
+  "Prominence_ft": 9093,
+  "Isolation_mi": 670,
+  "Peak Longitude": -106.4454,
+  "Peak Latitude": 39.1178,
+  "Standard Route": "Northeast Ridge ",
+  "Standard Route Distance (miles)": 9.5,
+  "Elevation Gain_ft": 4700,
+  "Difficulty": "Class 1",
+  "Traffic Low": 20000,
+  "Traffic High": 25000,
+  "photo": "https://www.14ers.com/photos/mtelbert/peakphotos/large/201207_Elbert01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d477624f3"
+  },
+  "ID": 2,
+  "Mountain Peak": "Mt. Massive",
+  "Mountain Range": "Sawatch Range",
+  "Elevation_ft": 14428,
+  "fourteener": "Y",
+  "Prominence_ft": 1961,
+  "Isolation_mi": 5.06,
+  "Peak Longitude": -106.4757,
+  "Peak Latitude": 39.1875,
+  "Standard Route": "East Slopes ",
+  "Standard Route Distance (miles)": 14.5,
+  "Elevation Gain_ft": 4500,
+  "Difficulty": "Class 2",
+  "Traffic Low": 7000,
+  "Traffic High": 10000,
+  "photo": "https://www.14ers.com/photos/mtmassive/peakphotos/large/200508_Massive01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d477624f4"
+  },
+  "ID": 3,
+  "Mountain Peak": "Mt. Harvard",
+  "Mountain Range": "Sawatch Range",
+  "Elevation_ft": 14421,
+  "fourteener": "Y",
+  "Prominence_ft": 2360,
+  "Isolation_mi": 14.93,
+  "Peak Longitude": -106.3207,
+  "Peak Latitude": 38.9244,
+  "Standard Route": "South Slopes ",
+  "Standard Route Distance (miles)": 14,
+  "Elevation Gain_ft": 4600,
+  "Difficulty": "Class 2",
+  "Traffic Low": 5000,
+  "Traffic High": 7000,
+  "photo": "https://www.14ers.com/photos/harvardgroup/peakphotos/large/200706_Harv01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d477624f5"
+  },
+  "ID": 4,
+  "Mountain Peak": "Blanca Peak",
+  "Mountain Range": "Sangre de Cristo Range",
+  "Elevation_ft": 14351,
+  "fourteener": "Y",
+  "Prominence_ft": 5326,
+  "Isolation_mi": 103.4,
+  "Peak Longitude": -105.4856,
+  "Peak Latitude": 37.5775,
+  "Standard Route": "Northwest Ridge ",
+  "Standard Route Distance (miles)": 17,
+  "Elevation Gain_ft": 6500,
+  "Difficulty": "Hard Class 2",
+  "Traffic Low": 1000,
+  "Traffic High": 3000,
+  "photo": "https://www.14ers.com/photos/blancagroup/peakphotos/large/200607_Blanca01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d477624f6"
+  },
+  "ID": 5,
+  "Mountain Peak": "La Plata Peak",
+  "Mountain Range": "Sawatch Range",
+  "Elevation_ft": 14343,
+  "fourteener": "Y",
+  "Prominence_ft": 1836,
+  "Isolation_mi": 6.28,
+  "Peak Longitude": -106.4729,
+  "Peak Latitude": 39.0294,
+  "Standard Route": "Northwest Ridge ",
+  "Standard Route Distance (miles)": 9.25,
+  "Elevation Gain_ft": 4500,
+  "Difficulty": "Class 2",
+  "Traffic Low": 5000,
+  "Traffic High": 7000,
+  "photo": "https://www.14ers.com/photos/laplatapeak/peakphotos/large/201205_Lap01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d477624f7"
+  },
+  "ID": 6,
+  "Mountain Peak": "Uncompahgre Peak",
+  "Mountain Range": "San Juan Mountains",
+  "Elevation_ft": 14321,
+  "fourteener": "Y",
+  "Prominence_ft": 4277,
+  "Isolation_mi": 85.1,
+  "Peak Longitude": -107.4621,
+  "Peak Latitude": 38.0717,
+  "Standard Route": "South Ridge ",
+  "Standard Route Distance (miles)": 7.5,
+  "Elevation Gain_ft": 3000,
+  "Difficulty": "Class 2",
+  "Traffic Low": 3000,
+  "Traffic High": 5000,
+  "photo": "https://www.14ers.com/photos/uncompahgrepeak/peakphotos/large/201710_Unco01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d477624f8"
+  },
+  "ID": 7,
+  "Mountain Peak": "Crestone Peak",
+  "Mountain Range": "Sangre de Cristo Range",
+  "Elevation_ft": 14300,
+  "fourteener": "Y",
+  "Prominence_ft": 4554,
+  "Isolation_mi": 27.4,
+  "Peak Longitude": -105.5855,
+  "Peak Latitude": 37.9669,
+  "Standard Route": "South Face ",
+  "Standard Route Distance (miles)": 14,
+  "Elevation Gain_ft": 5700,
+  "Difficulty": "Class 3",
+  "Traffic Low": 1000,
+  "Traffic High": 3000,
+  "photo": "https://www.14ers.com/photos/crestonegroup/peakphotos/large/201607_Crestones01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d477624f9"
+  },
+  "ID": 8,
+  "Mountain Peak": "Mt. Lincoln",
+  "Mountain Range": "Mosquito Range",
+  "Elevation_ft": 14293,
+  "fourteener": "Y",
+  "Prominence_ft": 3862,
+  "Isolation_mi": 22.6,
+  "Peak Longitude": -106.1116,
+  "Peak Latitude": 39.3515,
+  "Standard Route": "West Ridge ",
+  "Standard Route Distance (miles)": 6,
+  "Elevation Gain_ft": 2600,
+  "Difficulty": "Class 2",
+  "Traffic Low": 15000,
+  "Traffic High": 20000,
+  "photo": "https://www.14ers.com/photos/lincolngroup/peakphotos/large/200904_LinBro01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d477624fa"
+  },
+  "ID": 9,
+  "Mountain Peak": "Castle Peak",
+  "Mountain Range": "Elk Mountains",
+  "Elevation_ft": 14279,
+  "fourteener": "Y",
+  "Prominence_ft": 2365,
+  "Isolation_mi": 20.9,
+  "Peak Longitude": -106.8614,
+  "Peak Latitude": 39.0097,
+  "Standard Route": "Northeast Ridge ",
+  "Standard Route Distance (miles)": 13.5,
+  "Elevation Gain_ft": 4600,
+  "Difficulty": "Hard Class 2",
+  "Traffic Low": 1000,
+  "Traffic High": 3000,
+  "photo": "https://www.14ers.com/photos/castlegroup/peakphotos/large/200807_Cast04.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d477624fb"
+  },
+  "ID": 10,
+  "Mountain Peak": "Grays Peak",
+  "Mountain Range": "Front Range",
+  "Elevation_ft": 14278,
+  "fourteener": "Y",
+  "Prominence_ft": 2770,
+  "Isolation_mi": 25,
+  "Peak Longitude": -105.8176,
+  "Peak Latitude": 39.6339,
+  "Standard Route": "North Slopes ",
+  "Standard Route Distance (miles)": 8,
+  "Elevation Gain_ft": 3000,
+  "Difficulty": "Class 1",
+  "Traffic Low": 25000,
+  "Traffic High": 30000,
+  "photo": "https://www.14ers.com/photos/graystorreys/peakphotos/large/201211_Grays01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d477624fc"
+  },
+  "ID": 11,
+  "Mountain Peak": "Mt. Antero",
+  "Mountain Range": "Sawatch Range",
+  "Elevation_ft": 14276,
+  "fourteener": "Y",
+  "Prominence_ft": 2503,
+  "Isolation_mi": 17.75,
+  "Peak Longitude": -106.2462,
+  "Peak Latitude": 38.6741,
+  "Standard Route": "West Slopes ",
+  "Standard Route Distance (miles)": 16,
+  "Elevation Gain_ft": 5200,
+  "Difficulty": "Class 2",
+  "Traffic Low": 3000,
+  "Traffic High": 5000,
+  "photo": "https://www.14ers.com/photos/mtantero/peakphotos/large/201205_Ant01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d477624fd"
+  },
+  "ID": 12,
+  "Mountain Peak": "Torreys Peak",
+  "Mountain Range": "Front Range",
+  "Elevation_ft": 14275,
+  "fourteener": "Y",
+  "Prominence_ft": 560,
+  "Isolation_mi": 0.65,
+  "Peak Longitude": -105.8212,
+  "Peak Latitude": 39.6428,
+  "Standard Route": "South Slopes ",
+  "Standard Route Distance (miles)": 8,
+  "Elevation Gain_ft": 3000,
+  "Difficulty": "Class 2",
+  "Traffic Low": 25000,
+  "Traffic High": 30000,
+  "photo": "https://www.14ers.com/photos/graystorreys/peakphotos/large/201004_Grays01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d477624fe"
+  },
+  "ID": 13,
+  "Mountain Peak": "Quandary Peak",
+  "Mountain Range": "Mosquito Range",
+  "Elevation_ft": 14271,
+  "fourteener": "Y",
+  "Prominence_ft": 1125,
+  "Isolation_mi": 3.16,
+  "Peak Longitude": -106.1064,
+  "Peak Latitude": 39.3973,
+  "Standard Route": "East Ridge ",
+  "Standard Route Distance (miles)": 6.75,
+  "Elevation Gain_ft": 3450,
+  "Difficulty": "Class 1",
+  "Traffic Low": 20000,
+  "Traffic High": 25000,
+  "photo": "https://www.14ers.com/photos/quandarypeak/peakphotos/large/200701_Quan02.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d477624ff"
+  },
+  "ID": 14,
+  "Mountain Peak": "Mt. Evans",
+  "Mountain Range": "Front Range",
+  "Elevation_ft": 14271,
+  "fourteener": "Y",
+  "Prominence_ft": 2770,
+  "Isolation_mi": 9.79,
+  "Peak Longitude": -105.6438,
+  "Peak Latitude": 39.5883,
+  "Standard Route": "West Ridge via Mt. Spalding ",
+  "Standard Route Distance (miles)": 5,
+  "Elevation Gain_ft": 2000,
+  "Difficulty": "Class 2",
+  "Traffic Low": 15000,
+  "Traffic High": 20000,
+  "photo": "https://www.14ers.com/photos/evansgroup/peakphotos/large/200907_Evans01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762500"
+  },
+  "ID": 15,
+  "Mountain Peak": "Longs Peak",
+  "Mountain Range": "Front Range",
+  "Elevation_ft": 14259,
+  "fourteener": "Y",
+  "Prominence_ft": 2940,
+  "Isolation_mi": 43.6,
+  "Peak Longitude": -105.6151,
+  "Peak Latitude": 40.255,
+  "Standard Route": "Keyhole Route ",
+  "Standard Route Distance (miles)": 14.5,
+  "Elevation Gain_ft": 5100,
+  "Difficulty": "Class 3",
+  "Traffic Low": 15000,
+  "Traffic High": 20000,
+  "photo": "https://www.14ers.com/photos/longspeak/peakphotos/large/200508_Longs01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762501"
+  },
+  "ID": 16,
+  "Mountain Peak": "Mt. Wilson",
+  "Mountain Range": "San Juan Mountains",
+  "Elevation_ft": 14252,
+  "fourteener": "Y",
+  "Prominence_ft": 4024,
+  "Isolation_mi": 33.1,
+  "Peak Longitude": -107.9916,
+  "Peak Latitude": 37.8391,
+  "Standard Route": "North Slopes ",
+  "Standard Route Distance (miles)": 16,
+  "Elevation Gain_ft": 5100,
+  "Difficulty": "Class 4",
+  "Traffic Low": 1000,
+  "Traffic High": 3000,
+  "photo": "https://www.14ers.com/photos/wilsongroup/peakphotos/large/200803_Wils01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762502"
+  },
+  "ID": 17,
+  "Mountain Peak": "Mt. Shavano",
+  "Mountain Range": "Sawatch Range",
+  "Elevation_ft": 14231,
+  "fourteener": "Y",
+  "Prominence_ft": 1619,
+  "Isolation_mi": 3.78,
+  "Peak Longitude": -106.2393,
+  "Peak Latitude": 38.6192,
+  "Standard Route": "East Slopes ",
+  "Standard Route Distance (miles)": 9,
+  "Elevation Gain_ft": 4600,
+  "Difficulty": "Class 2",
+  "Traffic Low": 5000,
+  "Traffic High": 7000,
+  "photo": "https://www.14ers.com/photos/shavanogroup/peakphotos/large/200804_Shav01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762503"
+  },
+  "ID": 18,
+  "Mountain Peak": "Mt. Princeton",
+  "Mountain Range": "Sawatch Range",
+  "Elevation_ft": 14204,
+  "fourteener": "Y",
+  "Prominence_ft": 2177,
+  "Isolation_mi": 5.19,
+  "Peak Longitude": -106.2424,
+  "Peak Latitude": 38.7492,
+  "Standard Route": "East Slopes ",
+  "Standard Route Distance (miles)": 6.5,
+  "Elevation Gain_ft": 3200,
+  "Difficulty": "Class 2",
+  "Traffic Low": 5000,
+  "Traffic High": 7000,
+  "photo": "https://www.14ers.com/photos/mtprinceton/peakphotos/large/200904_Prin01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762504"
+  },
+  "ID": 19,
+  "Mountain Peak": "Mt. Belford",
+  "Mountain Range": "Sawatch Range",
+  "Elevation_ft": 14203,
+  "fourteener": "Y",
+  "Prominence_ft": 1337,
+  "Isolation_mi": 3.3,
+  "Peak Longitude": -106.3607,
+  "Peak Latitude": 38.9607,
+  "Standard Route": "Northwest Ridge ",
+  "Standard Route Distance (miles)": 8,
+  "Elevation Gain_ft": 4500,
+  "Difficulty": "Class 2",
+  "Traffic Low": 5000,
+  "Traffic High": 7000,
+  "photo": "https://www.14ers.com/photos/belfordgroup/peakphotos/large/201204_Belf01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762505"
+  },
+  "ID": 20,
+  "Mountain Peak": "Crestone Needle",
+  "Mountain Range": "Sangre de Cristo Range",
+  "Elevation_ft": 14203,
+  "fourteener": "Y",
+  "Prominence_ft": 457,
+  "Isolation_mi": 0.45,
+  "Peak Longitude": -105.5766,
+  "Peak Latitude": 37.9647,
+  "Standard Route": "South Face ",
+  "Standard Route Distance (miles)": 12,
+  "Elevation Gain_ft": 4400,
+  "Difficulty": "Class 3",
+  "Traffic Low": 1000,
+  "Traffic High": 3000,
+  "photo": "https://www.14ers.com/photos/crestonegroup/peakphotos/large/201104_CNeed01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762506"
+  },
+  "ID": 21,
+  "Mountain Peak": "Mt. Yale",
+  "Mountain Range": "Sawatch Range",
+  "Elevation_ft": 14200,
+  "fourteener": "Y",
+  "Prominence_ft": 1896,
+  "Isolation_mi": 5.55,
+  "Peak Longitude": -106.3138,
+  "Peak Latitude": 38.8442,
+  "Standard Route": "Southwest Slopes ",
+  "Standard Route Distance (miles)": 9.5,
+  "Elevation Gain_ft": 4300,
+  "Difficulty": "Class 2",
+  "Traffic Low": 5000,
+  "Traffic High": 7000,
+  "photo": "https://www.14ers.com/photos/mtyale/peakphotos/large/201004_Yale02.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762507"
+  },
+  "ID": 22,
+  "Mountain Peak": "Mt. Bross",
+  "Mountain Range": "Mosquito Range",
+  "Elevation_ft": 14178,
+  "fourteener": "Y",
+  "Prominence_ft": 312,
+  "Isolation_mi": 0.99,
+  "Peak Longitude": -106.1077,
+  "Peak Latitude": 39.3354,
+  "Standard Route": "West Slopes ",
+  "Standard Route Distance (miles)": 3.25,
+  "Elevation Gain_ft": 2250,
+  "Difficulty": "Class 2",
+  "Traffic Low": 15000,
+  "Traffic High": 20000,
+  "photo": "https://www.14ers.com/photos/lincolngroup/peakphotos/large/200505_Bross01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762508"
+  },
+  "ID": 23,
+  "Mountain Peak": "Kit Carson Mountain",
+  "Mountain Range": "Sangre de Cristo Range",
+  "Elevation_ft": 14171,
+  "fourteener": "Y",
+  "Prominence_ft": 1025,
+  "Isolation_mi": 1.27,
+  "Peak Longitude": -105.6026,
+  "Peak Latitude": 37.9797,
+  "Standard Route": "Via Challenger Point ",
+  "Standard Route Distance (miles)": 14.5,
+  "Elevation Gain_ft": 6250,
+  "Difficulty": "Easy Class 3",
+  "Traffic Low": 1000,
+  "Traffic High": 3000,
+  "photo": "https://www.14ers.com/photos/kitcarsongroup/peakphotos/large/201107_kitcar02.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762509"
+  },
+  "ID": 24,
+  "Mountain Peak": "Maroon Peak",
+  "Mountain Range": "Elk Mountains",
+  "Elevation_ft": 14163,
+  "fourteener": "Y",
+  "Prominence_ft": 2336,
+  "Isolation_mi": 8.06,
+  "Peak Longitude": -106.98899999999999,
+  "Peak Latitude": 39.0708,
+  "Standard Route": "South ridge ",
+  "Standard Route Distance (miles)": 11.5,
+  "Elevation Gain_ft": 4800,
+  "Difficulty": "Class 3",
+  "Traffic Low": 1000,
+  "Traffic High": 3000,
+  "photo": "https://www.14ers.com/photos/maroongroup/peakphotos/large/201807_Maro02.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d4776250a"
+  },
+  "ID": 25,
+  "Mountain Peak": "Tabeguache Peak",
+  "Mountain Range": "Sawatch Range",
+  "Elevation_ft": 14162,
+  "fourteener": "Y",
+  "Prominence_ft": 455,
+  "Isolation_mi": 0.75,
+  "Peak Longitude": -106.2509,
+  "Peak Latitude": 38.6255,
+  "Standard Route": "Via Mt. Shavano ",
+  "Standard Route Distance (miles)": 11,
+  "Elevation Gain_ft": 5600,
+  "Difficulty": "Class 2",
+  "Traffic Low": 5000,
+  "Traffic High": 7000,
+  "photo": "https://www.14ers.com/photos/shavanogroup/peakphotos/large/201005_Tabe01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d4776250b"
+  },
+  "ID": 26,
+  "Mountain Peak": "Mt. Oxford (Colorado)",
+  "Mountain Range": "Sawatch Range",
+  "Elevation_ft": 14160,
+  "fourteener": "Y",
+  "Prominence_ft": 653,
+  "Isolation_mi": 1.22,
+  "Peak Longitude": -106.3388,
+  "Peak Latitude": 38.9648,
+  "Standard Route": "Via Mt. Belford ",
+  "Standard Route Distance (miles)": 11,
+  "Elevation Gain_ft": 5800,
+  "Difficulty": "Class 2",
+  "Traffic Low": 5000,
+  "Traffic High": 7000,
+  "photo": "https://www.14ers.com/photos/belfordgroup/peakphotos/large/200508_Oxfo01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d4776250c"
+  },
+  "ID": 27,
+  "Mountain Peak": "Mt. Sneffels",
+  "Mountain Range": "San Juan Mountains",
+  "Elevation_ft": 14158,
+  "fourteener": "Y",
+  "Prominence_ft": 3050,
+  "Isolation_mi": 15.73,
+  "Peak Longitude": -107.7923,
+  "Peak Latitude": 38.0038,
+  "Standard Route": "South Slopes ",
+  "Standard Route Distance (miles)": 6,
+  "Elevation Gain_ft": 2900,
+  "Difficulty": "Easy Class 3",
+  "Traffic Low": 3000,
+  "Traffic High": 5000,
+  "photo": "https://www.14ers.com/photos/mtsneffels/peakphotos/large/200808_Snef23.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d4776250d"
+  },
+  "ID": 28,
+  "Mountain Peak": "Mt. Democrat",
+  "Mountain Range": "Mosquito Range",
+  "Elevation_ft": 14155,
+  "fourteener": "Y",
+  "Prominence_ft": 768,
+  "Isolation_mi": 1.27,
+  "Peak Longitude": -106.14,
+  "Peak Latitude": 39.3396,
+  "Standard Route": "East Slope ",
+  "Standard Route Distance (miles)": 4,
+  "Elevation Gain_ft": 2150,
+  "Difficulty": "Class 2",
+  "Traffic Low": 15000,
+  "Traffic High": 20000,
+  "photo": "https://www.14ers.com/photos/lincolngroup/peakphotos/large/201706_Demo01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d4776250e"
+  },
+  "ID": 29,
+  "Mountain Peak": "Capitol Peak",
+  "Mountain Range": "Elk Mountains",
+  "Elevation_ft": 14137,
+  "fourteener": "Y",
+  "Prominence_ft": 1750,
+  "Isolation_mi": 7.44,
+  "Peak Longitude": -107.0829,
+  "Peak Latitude": 39.1503,
+  "Standard Route": "Northeast Ridge ",
+  "Standard Route Distance (miles)": 17,
+  "Elevation Gain_ft": 5300,
+  "Difficulty": "Class 4",
+  "Traffic Low": 1000,
+  "Traffic High": 3000,
+  "photo": "https://www.14ers.com/photos/capitolpeak/peakphotos/large/200807_Capi02.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d4776250f"
+  },
+  "ID": 30,
+  "Mountain Peak": "Pikes Peak",
+  "Mountain Range": "Front Range",
+  "Elevation_ft": 14115,
+  "fourteener": "Y",
+  "Prominence_ft": 5530,
+  "Isolation_mi": 60.8,
+  "Peak Longitude": -105.0442,
+  "Peak Latitude": 38.8405,
+  "Standard Route": "East Slopes ",
+  "Standard Route Distance (miles)": 26,
+  "Elevation Gain_ft": 7500,
+  "Difficulty": "Class 1",
+  "Traffic Low": 15000,
+  "Traffic High": 20000,
+  "photo": "https://www.14ers.com/photos/pikespeak/peakphotos/large/201506_Pikes01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762510"
+  },
+  "ID": 31,
+  "Mountain Peak": "Snowmass Mountain",
+  "Mountain Range": "Elk Mountains",
+  "Elevation_ft": 14099,
+  "fourteener": "Y",
+  "Prominence_ft": 1152,
+  "Isolation_mi": 2.34,
+  "Peak Longitude": -107.0665,
+  "Peak Latitude": 39.1188,
+  "Standard Route": "East Slopes ",
+  "Standard Route Distance (miles)": 22,
+  "Elevation Gain_ft": 5800,
+  "Difficulty": "Hard Class 3",
+  "Traffic Low": 1000,
+  "Traffic High": 3000,
+  "photo": "https://www.14ers.com/photos/snowmassmtn/peakphotos/large/200907_Snow01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762511"
+  },
+  "ID": 32,
+  "Mountain Peak": "Windom Peak",
+  "Mountain Range": "San Juan Mountains",
+  "Elevation_ft": 14093,
+  "fourteener": "Y",
+  "Prominence_ft": 2187,
+  "Isolation_mi": 26.4,
+  "Peak Longitude": -107.5919,
+  "Peak Latitude": 37.6212,
+  "Standard Route": "West Ridge ",
+  "Standard Route Distance (miles)": 17,
+  "Elevation Gain_ft": 6000,
+  "Difficulty": "Hard Class 2",
+  "Traffic Low": 3000,
+  "Traffic High": 5000,
+  "photo": "https://www.14ers.com/photos/windomgroup/peakphotos/large/200607_Wind01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762512"
+  },
+  "ID": 33,
+  "Mountain Peak": "Mt. Eolus",
+  "Mountain Range": "San Juan Mountains",
+  "Elevation_ft": 14090,
+  "fourteener": "Y",
+  "Prominence_ft": 1024,
+  "Isolation_mi": 1.69,
+  "Peak Longitude": -107.6227,
+  "Peak Latitude": 37.6218,
+  "Standard Route": "Northeast Ridge ",
+  "Standard Route Distance (miles)": 17,
+  "Elevation Gain_ft": 6100,
+  "Difficulty": "Class 3",
+  "Traffic Low": 3000,
+  "Traffic High": 5000,
+  "photo": "https://www.14ers.com/photos/windomgroup/peakphotos/large/200607_Eolus01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762513"
+  },
+  "ID": 34,
+  "Mountain Peak": "Challenger Point",
+  "Mountain Range": "Sangre de Cristo Range",
+  "Elevation_ft": 14087,
+  "fourteener": "Y",
+  "Prominence_ft": 301,
+  "Isolation_mi": 0.22,
+  "Peak Longitude": -105.6066,
+  "Peak Latitude": 37.9804,
+  "Standard Route": "North Slope ",
+  "Standard Route Distance (miles)": 12.5,
+  "Elevation Gain_ft": 5400,
+  "Difficulty": "Hard Class 2",
+  "Traffic Low": 1000,
+  "Traffic High": 3000,
+  "photo": "https://www.14ers.com/photos/kitcarsongroup/peakphotos/large/200707_chal01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762514"
+  },
+  "ID": 35,
+  "Mountain Peak": "Mt. Columbia",
+  "Mountain Range": "Sawatch Range",
+  "Elevation_ft": 14077,
+  "fourteener": "Y",
+  "Prominence_ft": 893,
+  "Isolation_mi": 1.9,
+  "Peak Longitude": -106.2975,
+  "Peak Latitude": 38.9039,
+  "Standard Route": "West Slopes ",
+  "Standard Route Distance (miles)": 11.5,
+  "Elevation Gain_ft": 4250,
+  "Difficulty": "Class 2",
+  "Traffic Low": 3000,
+  "Traffic High": 5000,
+  "photo": "https://www.14ers.com/photos/harvardgroup/peakphotos/large/201005_Colu01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762515"
+  },
+  "ID": 36,
+  "Mountain Peak": "Missouri Mountain",
+  "Mountain Range": "Sawatch Range",
+  "Elevation_ft": 14074,
+  "fourteener": "Y",
+  "Prominence_ft": 847,
+  "Isolation_mi": 1.31,
+  "Peak Longitude": -106.3785,
+  "Peak Latitude": 38.9476,
+  "Standard Route": "Northwest Ridge ",
+  "Standard Route Distance (miles)": 10.5,
+  "Elevation Gain_ft": 4500,
+  "Difficulty": "Class 2",
+  "Traffic Low": 3000,
+  "Traffic High": 5000,
+  "photo": "https://www.14ers.com/photos/belfordgroup/peakphotos/large/200706_Miss01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762516"
+  },
+  "ID": 37,
+  "Mountain Peak": "Humboldt Peak",
+  "Mountain Range": "Sangre de Cristo Range",
+  "Elevation_ft": 14070,
+  "fourteener": "Y",
+  "Prominence_ft": 1204,
+  "Isolation_mi": 1.41,
+  "Peak Longitude": -105.5552,
+  "Peak Latitude": 37.9762,
+  "Standard Route": "West Ridge ",
+  "Standard Route Distance (miles)": 11,
+  "Elevation Gain_ft": 4200,
+  "Difficulty": "Class 2",
+  "Traffic Low": 1000,
+  "Traffic High": 3000,
+  "photo": "https://www.14ers.com/photos/crestonegroup/peakphotos/large/201607_Humb01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762517"
+  },
+  "ID": 38,
+  "Mountain Peak": "Mt. Bierstadt",
+  "Mountain Range": "Front Range",
+  "Elevation_ft": 14065,
+  "fourteener": "Y",
+  "Prominence_ft": 720,
+  "Isolation_mi": 1.12,
+  "Peak Longitude": -105.6688,
+  "Peak Latitude": 39.5826,
+  "Standard Route": "West Slopes ",
+  "Standard Route Distance (miles)": 7,
+  "Elevation Gain_ft": 2850,
+  "Difficulty": "Class 2",
+  "Traffic Low": 35000,
+  "Traffic High": 40000,
+  "photo": "https://www.14ers.com/photos/evansgroup/peakphotos/large/200607_Bier01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762518"
+  },
+  "ID": 39,
+  "Mountain Peak": "Sunlight Peak",
+  "Mountain Range": "San Juan Mountains",
+  "Elevation_ft": 14065,
+  "fourteener": "Y",
+  "Prominence_ft": 399,
+  "Isolation_mi": 0.48,
+  "Peak Longitude": -107.5959,
+  "Peak Latitude": 37.6274,
+  "Standard Route": "South Face ",
+  "Standard Route Distance (miles)": 17,
+  "Elevation Gain_ft": 6000,
+  "Difficulty": "Class 4",
+  "Traffic Low": 3000,
+  "Traffic High": 5000,
+  "photo": "https://www.14ers.com/photos/windomgroup/peakphotos/large/200708_Sunl01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762519"
+  },
+  "ID": 40,
+  "Mountain Peak": "Handies Peak",
+  "Mountain Range": "San Juan Mountains",
+  "Elevation_ft": 14058,
+  "fourteener": "Y",
+  "Prominence_ft": 1908,
+  "Isolation_mi": 11.18,
+  "Peak Longitude": -107.5044,
+  "Peak Latitude": 37.913000000000004,
+  "Standard Route": "Southwest Slopes ",
+  "Standard Route Distance (miles)": 5.75,
+  "Elevation Gain_ft": 2500,
+  "Difficulty": "Class 1",
+  "Traffic Low": 5000,
+  "Traffic High": 7000,
+  "photo": "https://www.14ers.com/photos/handiespeak/peakphotos/large/200707_Hand03.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d4776251a"
+  },
+  "ID": 41,
+  "Mountain Peak": "Culebra Peak",
+  "Mountain Range": "Sangre de Cristo Range",
+  "Elevation_ft": 14053,
+  "fourteener": "Y",
+  "Prominence_ft": 4827,
+  "Isolation_mi": 35.5,
+  "Peak Longitude": -105.1858,
+  "Peak Latitude": 37.1224,
+  "Standard Route": "Northwest Ridge ",
+  "Standard Route Distance (miles)": 5,
+  "Elevation Gain_ft": 2700,
+  "Difficulty": "Class 2",
+  "Traffic Low": 1000,
+  "Traffic High": 3000,
+  "photo": "https://www.14ers.com/photos/culebrapeak/peakphotos/large/201508_Cule01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d4776251b"
+  },
+  "ID": 42,
+  "Mountain Peak": "Ellingwood Point",
+  "Mountain Range": "Sangre de Cristo Range",
+  "Elevation_ft": 14048,
+  "fourteener": "Y",
+  "Prominence_ft": 342,
+  "Isolation_mi": 0.52,
+  "Peak Longitude": -105.4927,
+  "Peak Latitude": 37.5826,
+  "Standard Route": "South Face ",
+  "Standard Route Distance (miles)": 17,
+  "Elevation Gain_ft": 6200,
+  "Difficulty": "Hard Class 2",
+  "Traffic Low": 1000,
+  "Traffic High": 3000,
+  "photo": "https://www.14ers.com/photos/blancagroup/peakphotos/large/200607_Elli01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d4776251c"
+  },
+  "ID": 43,
+  "Mountain Peak": "Mt. Lindsey",
+  "Mountain Range": "Sangre de Cristo Range",
+  "Elevation_ft": 14048,
+  "fourteener": "Y",
+  "Prominence_ft": 1542,
+  "Isolation_mi": 2.26,
+  "Peak Longitude": -105.4449,
+  "Peak Latitude": 37.5837,
+  "Standard Route": "Northwest Gully ",
+  "Standard Route Distance (miles)": 8.25,
+  "Elevation Gain_ft": 3500,
+  "Difficulty": "Easy Class 3",
+  "Traffic Low": 1000,
+  "Traffic High": 3000,
+  "photo": "https://www.14ers.com/photos/mtlindsey/peakphotos/large/200606_Lind01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d4776251d"
+  },
+  "ID": 44,
+  "Mountain Peak": "Little Bear Peak",
+  "Mountain Range": "Sangre de Cristo Range",
+  "Elevation_ft": 14043,
+  "fourteener": "Y",
+  "Prominence_ft": 377,
+  "Isolation_mi": 0.98,
+  "Peak Longitude": -105.4972,
+  "Peak Latitude": 37.5666,
+  "Standard Route": "West Ridge and Southwest Face ",
+  "Standard Route Distance (miles)": 14,
+  "Elevation Gain_ft": 6200,
+  "Difficulty": "Class 4",
+  "Traffic Low": 1000,
+  "Traffic High": 3000,
+  "photo": "https://www.14ers.com/photos/blancagroup/peakphotos/large/200607_Litt01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d4776251e"
+  },
+  "ID": 45,
+  "Mountain Peak": "Mt. Sherman",
+  "Mountain Range": "Mosquito Range",
+  "Elevation_ft": 14043,
+  "fourteener": "Y",
+  "Prominence_ft": 850,
+  "Isolation_mi": 8.06,
+  "Peak Longitude": -106.1699,
+  "Peak Latitude": 39.225,
+  "Standard Route": "Southwest Ridge ",
+  "Standard Route Distance (miles)": 5.25,
+  "Elevation Gain_ft": 2100,
+  "Difficulty": "Class 2",
+  "Traffic Low": 20000,
+  "Traffic High": 25000,
+  "photo": "https://www.14ers.com/photos/mtsherman/peakphotos/large/201207_Sher02.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d4776251f"
+  },
+  "ID": 46,
+  "Mountain Peak": "Redcloud Peak",
+  "Mountain Range": "San Juan Mountains",
+  "Elevation_ft": 14041,
+  "fourteener": "Y",
+  "Prominence_ft": 1436,
+  "Isolation_mi": 4.91,
+  "Peak Longitude": -107.4219,
+  "Peak Latitude": 37.941,
+  "Standard Route": "Northeast Ridge ",
+  "Standard Route Distance (miles)": 9,
+  "Elevation Gain_ft": 3700,
+  "Difficulty": "Class 2",
+  "Traffic Low": 3000,
+  "Traffic High": 5000,
+  "photo": "https://www.14ers.com/photos/redcloudgroup/peakphotos/large/201610_Redc02.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762520"
+  },
+  "ID": 47,
+  "Mountain Peak": "Pyramid Peak",
+  "Mountain Range": "Elk Mountains",
+  "Elevation_ft": 14025,
+  "fourteener": "Y",
+  "Prominence_ft": 1638,
+  "Isolation_mi": 2.09,
+  "Peak Longitude": -106.9502,
+  "Peak Latitude": 39.0717,
+  "Standard Route": "Northeast Ridge ",
+  "Standard Route Distance (miles)": 8.25,
+  "Elevation Gain_ft": 4500,
+  "Difficulty": "Class 4",
+  "Traffic Low": 1000,
+  "Traffic High": 3000,
+  "photo": "https://www.14ers.com/photos/maroongroup/peakphotos/large/200807_Pyra01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762521"
+  },
+  "ID": 48,
+  "Mountain Peak": "Wilson Peak",
+  "Mountain Range": "San Juan Mountains",
+  "Elevation_ft": 14023,
+  "fourteener": "Y",
+  "Prominence_ft": 857,
+  "Isolation_mi": 1.51,
+  "Peak Longitude": -107.9847,
+  "Peak Latitude": 37.8603,
+  "Standard Route": "Southwest Ridge ",
+  "Standard Route Distance (miles)": 10,
+  "Elevation Gain_ft": 5000,
+  "Difficulty": "Class 3",
+  "Traffic Low": 1000,
+  "Traffic High": 3000,
+  "photo": "https://www.14ers.com/photos/wilsongroup/peakphotos/large/200604_Wils01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762522"
+  },
+  "ID": 49,
+  "Mountain Peak": "San Luis Peak",
+  "Mountain Range": "San Juan Mountains",
+  "Elevation_ft": 14022,
+  "fourteener": "Y",
+  "Prominence_ft": 3113,
+  "Isolation_mi": 27,
+  "Peak Longitude": -106.9313,
+  "Peak Latitude": 37.9868,
+  "Standard Route": "Northeast Ridge ",
+  "Standard Route Distance (miles)": 13.5,
+  "Elevation Gain_ft": 3600,
+  "Difficulty": "Class 1",
+  "Traffic Low": 3000,
+  "Traffic High": 5000,
+  "photo": "https://www.14ers.com/photos/sanluispeak/peakphotos/large/201807_San01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762523"
+  },
+  "ID": 50,
+  "Mountain Peak": "Wetterhorn Peak",
+  "Mountain Range": "San Juan Mountains",
+  "Elevation_ft": 14021,
+  "fourteener": "Y",
+  "Prominence_ft": 1635,
+  "Isolation_mi": 2.77,
+  "Peak Longitude": -107.5109,
+  "Peak Latitude": 38.0607,
+  "Standard Route": "Southeast Ridge ",
+  "Standard Route Distance (miles)": 7,
+  "Elevation Gain_ft": 3300,
+  "Difficulty": "Class 3",
+  "Traffic Low": 3000,
+  "Traffic High": 5000,
+  "photo": "https://www.14ers.com/photos/wetterhornpeak/peakphotos/large/201106_Wett01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762524"
+  },
+  "ID": 51,
+  "Mountain Peak": "Mt. of the Holy Cross",
+  "Mountain Range": "Sawatch Range",
+  "Elevation_ft": 14011,
+  "fourteener": "Y",
+  "Prominence_ft": 2113,
+  "Isolation_mi": 18.52,
+  "Peak Longitude": -106.4817,
+  "Peak Latitude": 39.4668,
+  "Standard Route": "North Ridge ",
+  "Standard Route Distance (miles)": 12,
+  "Elevation Gain_ft": 5600,
+  "Difficulty": "Class 2",
+  "Traffic Low": 3000,
+  "Traffic High": 5000,
+  "photo": "https://www.14ers.com/photos/mtholycross/peakphotos/large/200706_Holy01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762525"
+  },
+  "ID": 52,
+  "Mountain Peak": "Huron Peak",
+  "Mountain Range": "Sawatch Range",
+  "Elevation_ft": 14010,
+  "fourteener": "Y",
+  "Prominence_ft": 1423,
+  "Isolation_mi": 3.21,
+  "Peak Longitude": -106.4381,
+  "Peak Latitude": 38.9455,
+  "Standard Route": "Northwest Slopes ",
+  "Standard Route Distance (miles)": 6.5,
+  "Elevation Gain_ft": 3500,
+  "Difficulty": "Class 2",
+  "Traffic Low": 5000,
+  "Traffic High": 7000,
+  "photo": "https://www.14ers.com/photos/huronpeak/peakphotos/large/201607_Huro01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762526"
+  },
+  "ID": 53,
+  "Mountain Peak": "Sunshine Peak",
+  "Mountain Range": "San Juan Mountains",
+  "Elevation_ft": 14007,
+  "fourteener": "Y",
+  "Prominence_ft": 501,
+  "Isolation_mi": 1.27,
+  "Peak Longitude": -107.4256,
+  "Peak Latitude": 37.9228,
+  "Standard Route": "Via Redcloud Peak ",
+  "Standard Route Distance (miles)": 12.25,
+  "Elevation Gain_ft": 4800,
+  "Difficulty": "Class 2",
+  "Traffic Low": 3000,
+  "Traffic High": 5000,
+  "photo": "https://www.14ers.com/photos/redcloudgroup/peakphotos/large/200606_Sun01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762527"
+  },
+  "ID": 54,
+  "Mountain Peak": "Mt. Cameron",
+  "Mountain Range": "Mosquito Range",
+  "Elevation_ft": 14238,
+  "fourteener": "N",
+  "Prominence_ft": 158,
+  "Isolation_mi": 0.48,
+  "Peak Longitude": -106.118501,
+  "Peak Latitude": 39.347165000000004,
+  "Standard Route": "West Ridge ",
+  "Standard Route Distance (miles)": 4.75,
+  "Elevation Gain_ft": 2250,
+  "Difficulty": "Class 2",
+  "Traffic Low": 15000,
+  "Traffic High": 20000,
+  "photo": "https://www.14ers.com/photos/lincolngroup/peakphotos/large/200505_Linc01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762528"
+  },
+  "ID": 55,
+  "Mountain Peak": "El Diente Peak",
+  "Mountain Range": "San Juan Mountains",
+  "Elevation_ft": 14159,
+  "fourteener": "N",
+  "Prominence_ft": 239,
+  "Isolation_mi": 0.75,
+  "Peak Longitude": -108.005335,
+  "Peak Latitude": 37.839383000000005,
+  "Standard Route": "North Slopes ",
+  "Standard Route Distance (miles)": 15,
+  "Elevation Gain_ft": 5000,
+  "Difficulty": "Class 3",
+  "Traffic Low": 1000,
+  "Traffic High": 3000,
+  "photo": "https://www.14ers.com/photos/wilsongroup/peakphotos/large/201007_ElD01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d47762529"
+  },
+  "ID": 56,
+  "Mountain Peak": "Conundrum Peak",
+  "Mountain Range": "Elk Mountains",
+  "Elevation_ft": 14060,
+  "fourteener": "N",
+  "Prominence_ft": 280,
+  "Isolation_mi": 0.4,
+  "Peak Longitude": -106.862749,
+  "Peak Latitude": 39.015682,
+  "Standard Route": "Via Castle Peak ",
+  "Standard Route Distance (miles)": 14.5,
+  "Elevation Gain_ft": 4850,
+  "Difficulty": "Hard Class 2",
+  "Traffic Low": 1000,
+  "Traffic High": 3000,
+  "photo": "https://www.14ers.com/photos/castlegroup/peakphotos/large/200807_Cast01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d4776252a"
+  },
+  "ID": 57,
+  "Mountain Peak": "North Eolus",
+  "Mountain Range": "San Juan Mountains",
+  "Elevation_ft": 14039,
+  "fourteener": "N",
+  "Prominence_ft": 199,
+  "Isolation_mi": 0.25,
+  "Peak Longitude": -107.621187,
+  "Peak Latitude": 37.625192,
+  "Standard Route": "South Ridge ",
+  "Standard Route Distance (miles)": 16.75,
+  "Elevation Gain_ft": 6000,
+  "Difficulty": "Class 3",
+  "Traffic Low": 3000,
+  "Traffic High": 5000,
+  "photo": "https://www.14ers.com/photos/windomgroup/peakphotos/large/200607_Eolus01.jpg"
+},{
+  "_id": {
+    "$oid": "6081dc9486def72d4776252b"
+  },
+  "ID": 58,
+  "Mountain Peak": "North Maroon Peak",
+  "Mountain Range": "Elk Mountains",
+  "Elevation_ft": 14014,
+  "fourteener": "N",
+  "Prominence_ft": 254,
+  "Isolation_mi": 0.37,
+  "Peak Longitude": -106.987058,
+  "Peak Latitude": 39.076007000000004,
+  "Standard Route": "Northeast Ridge ",
+  "Standard Route Distance (miles)": 9.25,
+  "Elevation Gain_ft": 4500,
+  "Difficulty": "Class 4",
+  "Traffic Low": 1000,
+  "Traffic High": 3000,
+  "photo": "https://www.14ers.com/photos/maroongroup/peakphotos/large/200807_NMar01.jpg"
+}]

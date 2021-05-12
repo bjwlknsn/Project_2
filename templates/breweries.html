@@ -1,0 +1,1732 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Get Outside</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+<!--   <link rel="stylesheet" type="text/css" href="../Assets/css/projectleaf.css"> -->
+<link rel="stylesheet" type="text/css" href="../static/css/projectleaf.css">
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Get Outside</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+     <!--    <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false"> 
+          Home     
+          </a> -->
+<!--           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="breweries.html">Breweries</a></li>
+            <li><a class="dropdown-item" href="mountains.html">14ers Table</a></li>
+            <li><a class="dropdown-item" href="camping.html">Camping</a></li>
+
+          </ul> -->
+<!--         </li> -->
+        <li class="nav-item">
+          <a class="nav-link" href="/">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/beer">Breweries</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/fourteeners">14ers Data</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/camping">Camping Data</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+</head>
+
+<body class= "black">
+<div class="container">
+    <div class="row ">
+      <!-- Setting the width and color schemes -->
+      <div class="text-dark">
+        <!-- Defining color and size of text -->
+        <h2 class="page-title text-info">
+          Colorado Breweries
+        </h2>
+        <table border="1" class="dataframe">
+            <thead>
+              <tr style="text-align: right;">
+                <th>Brewery</th>
+                <th>Address</th>
+                <th>Website</th>
+                <th>Latitudes</th>
+                <th>Longitudes</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Equinox Brewing</td>
+                <td>133 Remington Street, Fort Collins, CO 80524</td>
+                <td>http://www.equinoxbrewing.com</td>
+                <td>40.586343</td>
+                <td>-105.075875</td>
+              </tr>
+              <tr>
+                <td>Pug Ryan's Steak House Brewery</td>
+                <td>104 Village Pl., Dillon, CO 80435</td>
+                <td>https://www.pugryans.com</td>
+                <td>39.628010</td>
+                <td>-106.046430</td>
+              </tr>
+              <tr>
+                <td>Blue Moon Brewing Co. at the Sandlot</td>
+                <td>2161 Blake Street, Denver, CO 80205</td>
+                <td>http://millercoorsblog.com</td>
+                <td>39.755701</td>
+                <td>-104.992736</td>
+              </tr>
+              <tr>
+                <td>Odell Brewing Company</td>
+                <td>800 E. Lincoln Ave, Fort Collins, CO 80524</td>
+                <td>http://www.odellbrewing.com/</td>
+                <td>40.589475</td>
+                <td>-105.063322</td>
+              </tr>
+              <tr>
+                <td>Vail Brewing Company</td>
+                <td>41290 B-2 &amp; B-3 US HWY 6, Vail, CO 81657</td>
+                <td>http://vailbrewingco.com</td>
+                <td>39.620575</td>
+                <td>-106.469623</td>
+              </tr>
+              <tr>
+                <td>5030Local</td>
+                <td>1480 Cascade Ave., Loveland, CO 80538</td>
+                <td>https://www.5030local.com/</td>
+                <td>40.407752</td>
+                <td>-105.129779</td>
+              </tr>
+              <tr>
+                <td>Cabin Creek Brewing</td>
+                <td>577 Twenty-Second Street, Georgetown, CO 80444</td>
+                <td>https://www.cabincreekbrewing.com/</td>
+                <td>39.724918</td>
+                <td>-105.693381</td>
+              </tr>
+              <tr>
+                <td>Yak &amp; Yeti - Westminster</td>
+                <td>8665 N. Sheridan Blvd., Westminster, CO 80003</td>
+                <td>http://theyakandyeti.com</td>
+                <td>39.854161</td>
+                <td>-105.053649</td>
+              </tr>
+              <tr>
+                <td>Avery Brewing Company</td>
+                <td>4910 Nautilus Ct., Boulder, CO 80301</td>
+                <td>http://www.averybrewing.com</td>
+                <td>40.062589</td>
+                <td>-105.204763</td>
+              </tr>
+              <tr>
+                <td>Mother Tucker Brewery</td>
+                <td>1132 W Dillon Road, Louisville, CO 80027</td>
+                <td>https://www.mothertuckerbrewery.com/</td>
+                <td>39.961620</td>
+                <td>-105.167244</td>
+              </tr>
+              <tr>
+                <td>Gravity Brewing</td>
+                <td>1150 Pine Street, Unit B, Louisville, CO 80027</td>
+                <td>http://thegravitybrewing.com/</td>
+                <td>39.976092</td>
+                <td>-105.128682</td>
+              </tr>
+              <tr>
+                <td>Crazy Mountain Brewery</td>
+                <td>471 Kalamath St., Denver, CO 80204</td>
+                <td>http://crazymountainbrewery.com</td>
+                <td>39.723746</td>
+                <td>-105.000498</td>
+              </tr>
+              <tr>
+                <td>Storybook Brewing</td>
+                <td>3121 A North El Paso Street, Colorado Springs, CO 80907</td>
+                <td>http://storybookbrewing.com</td>
+                <td>38.877733</td>
+                <td>-104.812482</td>
+              </tr>
+              <tr>
+                <td>Floodstage Ale Works</td>
+                <td>170 S. Main Street, Brighton, CO 80601</td>
+                <td>https://www.facebook.com/floodstagealeworks/</td>
+                <td>39.984016</td>
+                <td>-104.821887</td>
+              </tr>
+              <tr>
+                <td>Grossen Bart Brewery</td>
+                <td>1025 Delaware Avenue, Longmont, CO 80501</td>
+                <td>http://www.grossenbart.com</td>
+                <td>40.154415</td>
+                <td>-105.109234</td>
+              </tr>
+              <tr>
+                <td>The Colorado Farm Brewery</td>
+                <td>2070 County Road 12 South, Alamosa, CO 81101</td>
+                <td>https://www.cofarmbeer.com/</td>
+                <td>37.399617</td>
+                <td>-105.997744</td>
+              </tr>
+              <tr>
+                <td>Dry Dock-North Dock</td>
+                <td>2801 Tower Road, Aurora, CO 80011</td>
+                <td>http://drydockbrewing.com</td>
+                <td>39.756631</td>
+                <td>-104.772969</td>
+              </tr>
+              <tr>
+                <td>Hogshead Brewery</td>
+                <td>4460 West 29th Avenue, Denver, CO 80212</td>
+                <td>https://www.hogshead54.com/</td>
+                <td>39.758209</td>
+                <td>-105.045034</td>
+              </tr>
+              <tr>
+                <td>Bakers' Brewery</td>
+                <td>531 Silverthorne Lane, Silverthorne, CO 80498</td>
+                <td>http://thebakersbrewery.com</td>
+                <td>39.629754</td>
+                <td>-106.067462</td>
+              </tr>
+              <tr>
+                <td>Cannonball Creek Brewing Co.</td>
+                <td>393 N Washington Ave, Golden, CO 80403</td>
+                <td>http://cannonballcreekbrewing.com</td>
+                <td>39.768699</td>
+                <td>-105.234885</td>
+              </tr>
+              <tr>
+                <td>CB &amp; Potts</td>
+                <td>6575 S Greenwood Plaza Blvd., Englewood, CO 80111</td>
+                <td>http://cbpotts.com</td>
+                <td>39.597295</td>
+                <td>-104.895771</td>
+              </tr>
+              <tr>
+                <td>Horsefly Brewing Company</td>
+                <td>846 East Main, Montrose, CO 81041</td>
+                <td>http://www.horseflybrewing.com</td>
+                <td>38.482761</td>
+                <td>-107.871369</td>
+              </tr>
+              <tr>
+                <td>Brewability</td>
+                <td>3445 S Broadway, Englewood, CO 80110</td>
+                <td>https://www.brew-ability.com/</td>
+                <td>39.654104</td>
+                <td>-104.987946</td>
+              </tr>
+              <tr>
+                <td>Crow Hop Brewing</td>
+                <td>217 E. 3rd St., Loveland, CO 80537</td>
+                <td>http://crowhopbrewing.com</td>
+                <td>40.394593</td>
+                <td>-105.074076</td>
+              </tr>
+              <tr>
+                <td>Whistle Pig Brewing Company</td>
+                <td>1840 Dominion Way, Colorado Springs, CO 80918</td>
+                <td>https://www.facebook.com/whistlepigbrewing/</td>
+                <td>38.924256</td>
+                <td>-104.792748</td>
+              </tr>
+              <tr>
+                <td>Great Divide Brewing Company</td>
+                <td>2201 Arapahoe St., Denver, CO 80205</td>
+                <td>https://greatdivide.com</td>
+                <td>39.753955</td>
+                <td>-104.988493</td>
+              </tr>
+              <tr>
+                <td>Echo Brewing</td>
+                <td>600 Briggs St., Erie, CO 80516</td>
+                <td>http://echobrewing.com</td>
+                <td>40.050422</td>
+                <td>-105.047773</td>
+              </tr>
+              <tr>
+                <td>Bull and Bush Brewery</td>
+                <td>4700 Cherry Creek Dr. South, Denver, CO 80246</td>
+                <td>http://www.bullandbush.com</td>
+                <td>39.703363</td>
+                <td>-104.932292</td>
+              </tr>
+              <tr>
+                <td>Paradox Beer Company</td>
+                <td>10 Buffalo Court, Divide, CO 80814</td>
+                <td>https://www.facebook.com/ParadoxBeerCompany/</td>
+                <td>38.944410</td>
+                <td>-105.155090</td>
+              </tr>
+              <tr>
+                <td>Coopersmith's Pub and Brewing and Billiards</td>
+                <td>5 Old Town Square, Fort Collins, CO 80524</td>
+                <td>http://coopersmithspub.com/</td>
+                <td>40.587391</td>
+                <td>-105.075629</td>
+              </tr>
+              <tr>
+                <td>HighSide Brewing</td>
+                <td>720 Main St, Frisco, CO 80443</td>
+                <td>https://www.highsidebrewing.com/</td>
+                <td>39.576325</td>
+                <td>-106.092878</td>
+              </tr>
+              <tr>
+                <td>Colorado Boy Pub &amp; Brewery</td>
+                <td>602 Clinton St., Ridgway, CO 81432</td>
+                <td>https://www.coloradoboy.com/ridgway</td>
+                <td>38.152289</td>
+                <td>-107.757814</td>
+              </tr>
+              <tr>
+                <td>Butcher Knife Brewing</td>
+                <td>2875 Elk River Road, Steamboat Springs, CO 80487</td>
+                <td>http://butcherknifebrewing.com/story/</td>
+                <td>40.510776</td>
+                <td>-106.858198</td>
+              </tr>
+              <tr>
+                <td>Lumpy Ridge Brewing Co.</td>
+                <td>531 S. Saint Vrain Ave., Estes Park, CO 80517</td>
+                <td>http://www.lumpyridgebrewing.com/</td>
+                <td>40.369040</td>
+                <td>-105.504692</td>
+              </tr>
+              <tr>
+                <td>Rain Brews</td>
+                <td>104 Adams St, Monte Vista, CO 81144</td>
+                <td>http://www.rainbre.ws</td>
+                <td>37.580398</td>
+                <td>-106.146377</td>
+              </tr>
+              <tr>
+                <td>WeldWerks Brewing Company</td>
+                <td>508 8th Ave., Greeley, CO 80631</td>
+                <td>http://www.weldwerksbrewing.com/</td>
+                <td>40.428113</td>
+                <td>-104.690513</td>
+              </tr>
+              <tr>
+                <td>Mobb Mountain Distillers</td>
+                <td>400 Linden Street, Fort Collins, CO 80524</td>
+                <td>http://www.mobbmountain.com</td>
+                <td>40.590092</td>
+                <td>-105.072550</td>
+              </tr>
+              <tr>
+                <td>Baere Brewing Co.</td>
+                <td>320 Broadway, Ste E, Denver, CO 80203</td>
+                <td>http://baerebrewing.com</td>
+                <td>39.721416</td>
+                <td>-104.986999</td>
+              </tr>
+              <tr>
+                <td>Southern Sun Pub &amp; Brewery</td>
+                <td>627 South Broadway, Boulder, CO 80305</td>
+                <td>http://www.mountainsunpub.com</td>
+                <td>39.984318</td>
+                <td>-105.249369</td>
+              </tr>
+              <tr>
+                <td>Batch Emporium</td>
+                <td>380 Main St, Carbondale, CO 81623</td>
+                <td>https://www.batchprovisionsbar.com/</td>
+                <td>39.400308</td>
+                <td>-107.210754</td>
+              </tr>
+              <tr>
+                <td>Brix Brewery &amp; Taphouse</td>
+                <td>813 8th Street, Greeley, CO 80631</td>
+                <td>http://brixbrewtap.com</td>
+                <td>40.425147</td>
+                <td>-104.691626</td>
+              </tr>
+              <tr>
+                <td>Mountain Toad Brewing</td>
+                <td>900 Washington Avenue, Golden, CO 80401</td>
+                <td>http://mountaintoadbrewing.com/</td>
+                <td>39.758065</td>
+                <td>-105.224257</td>
+              </tr>
+              <tr>
+                <td>Platt Park Brewing Co.</td>
+                <td>1875 S. Pearl St., Denver, CO 80210</td>
+                <td>http://plattparkbrewing.com</td>
+                <td>39.682570</td>
+                <td>-104.980894</td>
+              </tr>
+              <tr>
+                <td>7 Hermits Brewing Co.</td>
+                <td>717 Sylvan Lake Rd. Unit B-1, Eagle, CO 81631</td>
+                <td>http://7hermitsbrewing.com</td>
+                <td>39.640070</td>
+                <td>-106.831992</td>
+              </tr>
+              <tr>
+                <td>Guanella Pass Brewing Company</td>
+                <td>501 Rose Street, Georgetown, CO 80444</td>
+                <td>https://www.guanellapass.com/</td>
+                <td>39.705813</td>
+                <td>-105.697368</td>
+              </tr>
+              <tr>
+                <td>Black Shirt Brewing Co</td>
+                <td>3719 Walnut Street, Denver, CO 80205</td>
+                <td>http://www.blackshirtbrewingco.com</td>
+                <td>39.769853</td>
+                <td>-104.972975</td>
+              </tr>
+              <tr>
+                <td>Never Summer Brewing Co.</td>
+                <td>62 E. AGATE AVENUE, GRANBY, CO 80446</td>
+                <td>https://www.neversummerbrewingco.com/index.html</td>
+                <td>40.085392</td>
+                <td>-105.941577</td>
+              </tr>
+              <tr>
+                <td>Soulcraft Brewing</td>
+                <td>248 W. Hwy 50, Salida, CO 81201</td>
+                <td>https://soulcraftbeer.com/</td>
+                <td>38.524668</td>
+                <td>-106.006300</td>
+              </tr>
+              <tr>
+                <td>Rockyard Brewing Company</td>
+                <td>880 Castleton Rd., Castle Rock, CO 80109</td>
+                <td>http://www.rockyard.com/</td>
+                <td>39.409134</td>
+                <td>-104.869862</td>
+              </tr>
+              <tr>
+                <td>Locavore Beer Works</td>
+                <td>5950 S. Platte Canyon Rd., Littleton, CO 80123</td>
+                <td>http://locavorebeerworks.com</td>
+                <td>39.608931</td>
+                <td>-105.037112</td>
+              </tr>
+              <tr>
+                <td>Left Hand Brewing Co.</td>
+                <td>1265 Boston Ave, Longmont, CO 80501</td>
+                <td>http://lefthandbrewing.com</td>
+                <td>40.158286</td>
+                <td>-105.115023</td>
+              </tr>
+              <tr>
+                <td>Rockslide Brew Pub</td>
+                <td>401 Main St., Grand Junction, CO 81501</td>
+                <td>http://rockslidebrewpub.com</td>
+                <td>39.067015</td>
+                <td>-108.565912</td>
+              </tr>
+              <tr>
+                <td>Denver Beer Co.-Canworks</td>
+                <td>4455 Jason St., Denver, CO 80211</td>
+                <td>http://denverbeerco.com</td>
+                <td>39.777048</td>
+                <td>-105.000748</td>
+              </tr>
+              <tr>
+                <td>Great Frontier Brewing Co.</td>
+                <td>2010 S Oak, Lakewood, CO 80227</td>
+                <td>http://greatfrontierbeer.com</td>
+                <td>39.681339</td>
+                <td>-105.117719</td>
+              </tr>
+              <tr>
+                <td>Rock Cut Brewing Co.</td>
+                <td>390 W Riverside Drive, Estes Park, CO 80517</td>
+                <td>http://rockcutbrewing.com</td>
+                <td>40.371828</td>
+                <td>-105.522949</td>
+              </tr>
+              <tr>
+                <td>Station 26 Brewing Co.</td>
+                <td>7045 E. 38th Ave., Denver, CO 80207</td>
+                <td>http://station26brewing.com</td>
+                <td>39.769583</td>
+                <td>-104.905969</td>
+              </tr>
+              <tr>
+                <td>South Park Brewing</td>
+                <td>297 1/2 US Highway 285, Fairplay, CO 80440</td>
+                <td>http://www.southparkbrewingcolorado.com</td>
+                <td>39.220052</td>
+                <td>-105.993261</td>
+              </tr>
+              <tr>
+                <td>Something Brewery</td>
+                <td>117 N. Main St. A, Brighton, CO 80601</td>
+                <td>https://www.somethingbrewery.com/</td>
+                <td>39.988314</td>
+                <td>-104.821431</td>
+              </tr>
+              <tr>
+                <td>Manitou Brewing Co.</td>
+                <td>725 Manitou Ave., Manitou Springs, CO 80829</td>
+                <td>http://manitou-brewing.com</td>
+                <td>38.857117</td>
+                <td>-104.915684</td>
+              </tr>
+              <tr>
+                <td>Kokopelli Beer Co.</td>
+                <td>8931 Harlan Street, Westminster, CO 80031</td>
+                <td>http://kokopellibeerco.com</td>
+                <td>39.858327</td>
+                <td>-105.063961</td>
+              </tr>
+              <tr>
+                <td>Crafty Canary Brewery</td>
+                <td>107 E. 5th St., Walsenburg, CO 80189</td>
+                <td>http://craftycanarybrewery.com</td>
+                <td>37.624665</td>
+                <td>-104.780924</td>
+              </tr>
+              <tr>
+                <td>Westminster Brewing Co.</td>
+                <td>7655 W 108th Ave., Unit 600, Westminster, CO 80021</td>
+                <td>http://www.westminsterbrewingco.com/</td>
+                <td>39.893255</td>
+                <td>-105.083061</td>
+              </tr>
+              <tr>
+                <td>Parts and Labor Brewing Company</td>
+                <td>402 Main St b, Sterling, CO 80751</td>
+                <td>https://www.partsandlaborbrewing.com</td>
+                <td>40.624999</td>
+                <td>-103.209805</td>
+              </tr>
+              <tr>
+                <td>Call to Arms Brewing</td>
+                <td>4526 Tennyson Street, Denver, CO 80212</td>
+                <td>http://calltoarmsbrewing.com</td>
+                <td>39.778956</td>
+                <td>-105.043641</td>
+              </tr>
+              <tr>
+                <td>Asher Brewing Company</td>
+                <td>4699 Nautilus Court, Suite 104, Boulder, CO 80301</td>
+                <td>http://www.asherbrewing.com/</td>
+                <td>40.058659</td>
+                <td>-105.206043</td>
+              </tr>
+              <tr>
+                <td>Mother Tucker Brewery</td>
+                <td>2360 E 120th Ave, Thornton, CO 80233</td>
+                <td>https://www.mothertuckerbrewery.com/</td>
+                <td>39.913429</td>
+                <td>-104.956243</td>
+              </tr>
+              <tr>
+                <td>Mountain Sun Pub and Brewery</td>
+                <td>1535 Pearl Street, Boulder, CO 80302</td>
+                <td>http://www.mountainsunpub.com/</td>
+                <td>40.019011</td>
+                <td>-105.275215</td>
+              </tr>
+              <tr>
+                <td>Fiction Beer Company</td>
+                <td>7101 East Colfax Ave, Denver, CO 80220</td>
+                <td>http://www.fictionbeer.com</td>
+                <td>39.740339</td>
+                <td>-104.905594</td>
+              </tr>
+              <tr>
+                <td>Upslope Brewing</td>
+                <td>1898 S. Flatiron Ct., Boulder, CO 80301</td>
+                <td>http://upslopebrewing.com</td>
+                <td>40.020163</td>
+                <td>-105.218345</td>
+              </tr>
+              <tr>
+                <td>Lariat Lodge Brewing Co. Evergreen</td>
+                <td>27618 Fireweed Dr., Evergreen, CO 80439</td>
+                <td>https://www.lariatlodgebrewing.com</td>
+                <td>39.638411</td>
+                <td>-105.313782</td>
+              </tr>
+              <tr>
+                <td>Smiling Toad Brewing Co.</td>
+                <td>2028 Sheldon Ave., Colorado Springs, CO 80904</td>
+                <td>https://thesmilingtoad.com/</td>
+                <td>38.842081</td>
+                <td>-104.857950</td>
+              </tr>
+              <tr>
+                <td>Joyride Brewing Co.</td>
+                <td>2501 Sheridan Blvd., Edgewater, CO 80214</td>
+                <td>http://joyridebrewing.com</td>
+                <td>39.753134</td>
+                <td>-105.053452</td>
+              </tr>
+              <tr>
+                <td>Factotum Brewhouse</td>
+                <td>3845 Lipan Street, Denver, CO 80211</td>
+                <td>http://factotumbrewhouse.com</td>
+                <td>39.770215</td>
+                <td>-105.002073</td>
+              </tr>
+              <tr>
+                <td>Red Stone Meadery</td>
+                <td>4700 Pearl St. Unit 2A, Boulder, CO 80301</td>
+                <td>http://redstonemeadery.com</td>
+                <td>40.024745</td>
+                <td>-105.243433</td>
+              </tr>
+              <tr>
+                <td>Yak &amp; Yeti - Arvada</td>
+                <td>7803 Ralston Rd., Arvada, CO 80002</td>
+                <td>http://theyakandyeti.com</td>
+                <td>39.802384</td>
+                <td>-105.084192</td>
+              </tr>
+              <tr>
+                <td>Brues Alehouse Brewing Co.</td>
+                <td>120 E Riverwalk, Pueblo, CO 81003</td>
+                <td>http://bruesalehouse.com/</td>
+                <td>38.265413</td>
+                <td>-104.609719</td>
+              </tr>
+              <tr>
+                <td>Vision Quest Brewing Co.</td>
+                <td>2510 47th St. Unit A2, Boulder, CO 80301</td>
+                <td>http://visionquestbrewing.com</td>
+                <td>40.026277</td>
+                <td>-105.243694</td>
+              </tr>
+              <tr>
+                <td>Broken Plow Brewery</td>
+                <td>4731 W 10th St Unit G, Greeley, CO 80634</td>
+                <td>http://www.brokenplowbrewery.com</td>
+                <td>40.422000</td>
+                <td>-104.757335</td>
+              </tr>
+              <tr>
+                <td>Red Mountain Brewing</td>
+                <td>400 Main St., Ouray, CO 81427</td>
+                <td>https://www.redmountainbrewingouray.com</td>
+                <td>38.020930</td>
+                <td>-107.671916</td>
+              </tr>
+              <tr>
+                <td>Elevation Beer Company</td>
+                <td>115 Pahlone Parkway, Poncha Springs, CO 81242</td>
+                <td>https://elevationbeerco.com/</td>
+                <td>38.518225</td>
+                <td>-106.065442</td>
+              </tr>
+              <tr>
+                <td>WildEdge Brewing Collective</td>
+                <td>111 N Market St, Cortez, CO 81321</td>
+                <td>https://www.wildedgebrewing.com/</td>
+                <td>37.349996</td>
+                <td>-108.585436</td>
+              </tr>
+              <tr>
+                <td>Outer Range Brewing Company</td>
+                <td>182 Lusher Ct., Frisco, CO 80443</td>
+                <td>https://www.outerrange.com/</td>
+                <td>39.589334</td>
+                <td>-106.099061</td>
+              </tr>
+              <tr>
+                <td>Shamrock Brewing Company</td>
+                <td>108 West 3rd, Pueblo, CO 81003</td>
+                <td>http://www.shamrockbrewing.com/hours-location.htm</td>
+                <td>38.269484</td>
+                <td>-104.607754</td>
+              </tr>
+              <tr>
+                <td>Grist Brewing Co.</td>
+                <td>9150 Commerce Ctr. Cir. Ste 300, Highlands Ranch, CO 80129</td>
+                <td>http://gristbrewingcompany.com</td>
+                <td>39.549114</td>
+                <td>-105.033910</td>
+              </tr>
+              <tr>
+                <td>Beryl's Beer Company</td>
+                <td>3120 C Blake Street, Denver, CO 80205</td>
+                <td>http://berylsbeerco.com</td>
+                <td>39.764811</td>
+                <td>-104.980186</td>
+              </tr>
+              <tr>
+                <td>Strange Brewing</td>
+                <td>1330 Zuni, Unit M, Denver, CO 80204</td>
+                <td>http://strangecraft.com/</td>
+                <td>39.737351</td>
+                <td>-105.015661</td>
+              </tr>
+              <tr>
+                <td>CMB At The Roundhouse</td>
+                <td>600 S. 21st Street, Colorado Springs, CO 80904</td>
+                <td>http://cmbrew.com</td>
+                <td>38.839897</td>
+                <td>-104.859747</td>
+              </tr>
+              <tr>
+                <td>Trinity Brewing Company</td>
+                <td>1466 Garden of the Gods Rd, Colorado Springs, CO 80907</td>
+                <td>https://www.facebook.com/TRiNiTYBrewing/</td>
+                <td>38.897406</td>
+                <td>-104.855079</td>
+              </tr>
+              <tr>
+                <td>Three Barrel Brewing Company</td>
+                <td>475 Grand Ave., Del Norte, CO 81132</td>
+                <td>http://www.threebarrelbrew.com/</td>
+                <td>37.678671</td>
+                <td>-106.356635</td>
+              </tr>
+              <tr>
+                <td>CSU Brewery - The Ramskeller</td>
+                <td>8033 Campus Delivery, Fort Collins, CO 80523</td>
+                <td>https://lsc.colostate.edu/lory-student-centers-ramskeller-pub/</td>
+                <td>40.570263</td>
+                <td>-105.090346</td>
+              </tr>
+              <tr>
+                <td>Twelve Degree</td>
+                <td>820 Main Street, Louisville, CO 80027</td>
+                <td>http://www.twelvedegree.com/</td>
+                <td>39.978254</td>
+                <td>-105.131880</td>
+              </tr>
+              <tr>
+                <td>Yampa Valley Brewing Co.</td>
+                <td>106 E. Jefferson Ave., Unit B, Hayden, CO 81639</td>
+                <td>http://yampavalleybrew.com</td>
+                <td>40.495739</td>
+                <td>-107.257543</td>
+              </tr>
+              <tr>
+                <td>Two Rascals Brewing</td>
+                <td>147 North 1st Street, Montrose, CO 81401</td>
+                <td>http://www.tworascalsbrewing.com/</td>
+                <td>38.478816</td>
+                <td>-107.880024</td>
+              </tr>
+              <tr>
+                <td>Wibby Brewing Company</td>
+                <td>209 Emery Street, Longmont, CO 80501</td>
+                <td>http://www.wibbybrewing.com</td>
+                <td>40.162410</td>
+                <td>-105.100056</td>
+              </tr>
+              <tr>
+                <td>BrewHop Trolley</td>
+                <td>10595 Butte Drive, Longmont, CO 80504</td>
+                <td>https://brewhoptrolley.com/</td>
+                <td>40.155434</td>
+                <td>-104.989475</td>
+              </tr>
+              <tr>
+                <td>Epic Brewing Co.</td>
+                <td>3001 Walnut St., Denver, CO 80205</td>
+                <td>http://epicbrewing.com/locations/denver-brewery-and-tap-room</td>
+                <td>39.763305</td>
+                <td>-104.981464</td>
+              </tr>
+              <tr>
+                <td>Sanitas Brewing Co.</td>
+                <td>3550 Frontier Ave., Boulder, CO 80301</td>
+                <td>http://sanitasbrewing.com</td>
+                <td>40.021960</td>
+                <td>-105.247819</td>
+              </tr>
+              <tr>
+                <td>BURLY Brewing Co</td>
+                <td>680 Atchison Way, Suite 800, Castle Rock, CO 80109</td>
+                <td>https://www.burlybrewing.com/</td>
+                <td>39.375534</td>
+                <td>-104.871300</td>
+              </tr>
+              <tr>
+                <td>Rocky Mountain Brewery</td>
+                <td>625 Paonia Street, Colorado Springs, CO 80915</td>
+                <td>http://www.therockymountainbrewery.com/</td>
+                <td>38.841291</td>
+                <td>-104.716412</td>
+              </tr>
+              <tr>
+                <td>4 Noses Brewing Co.</td>
+                <td>8855 W. 116th Circle Ste 4, Broomfield, CO 80021</td>
+                <td>http://4nosesbrewing.com</td>
+                <td>39.906451</td>
+                <td>-105.098596</td>
+              </tr>
+              <tr>
+                <td>Budweiser Tour Center</td>
+                <td>2351 Busch Dr., Fort Collins, CO 80524</td>
+                <td>http://www.budweisertours.com</td>
+                <td>40.620534</td>
+                <td>-105.009445</td>
+              </tr>
+              <tr>
+                <td>Our Mutual Friend Malt &amp; Brew</td>
+                <td>2810 Larimer St., Denver, CO 80205</td>
+                <td>http://www.omfbeer.com/</td>
+                <td>39.760479</td>
+                <td>-104.982445</td>
+              </tr>
+              <tr>
+                <td>Estes Park Brewery</td>
+                <td>470 Prospect Village Dr., Estes Park, CO 80517</td>
+                <td>http://www.epbrewery.com/</td>
+                <td>40.371347</td>
+                <td>-105.526052</td>
+              </tr>
+              <tr>
+                <td>JAKs Brewing Company</td>
+                <td>7654 McLaughlin Rd., Peyton, CO 80831</td>
+                <td>http://jaksbrewing.com</td>
+                <td>38.942089</td>
+                <td>-104.604339</td>
+              </tr>
+              <tr>
+                <td>Black Project Beer</td>
+                <td>1290 S. Broadway, Denver, CO 80210</td>
+                <td>http://www.blackprojectbeer.com/</td>
+                <td>39.693394</td>
+                <td>-104.987144</td>
+              </tr>
+              <tr>
+                <td>Paonia United Brewing Co.</td>
+                <td>325 Grand Avenue, Paonia, CO 81428</td>
+                <td>https://paoniaunitedbrew.com/</td>
+                <td>38.869515</td>
+                <td>-107.597531</td>
+              </tr>
+              <tr>
+                <td>San Luis Valley Brewing</td>
+                <td>631 Main Street, Alamosa, CO 81101</td>
+                <td>http://www.slvbrewco.com/</td>
+                <td>37.468311</td>
+                <td>-105.866851</td>
+              </tr>
+              <tr>
+                <td>Copper Club Brewing Co.</td>
+                <td>233 E. Aspen Ave., Fruita, CO 81521</td>
+                <td>http://copperclubbrew.com</td>
+                <td>39.159166</td>
+                <td>-108.731488</td>
+              </tr>
+              <tr>
+                <td>Launch Pad Brewery</td>
+                <td>884 S Buckley Rd., Aurora, CO 80017</td>
+                <td>http://launchpadbrewery.com</td>
+                <td>39.700827</td>
+                <td>-104.789906</td>
+              </tr>
+              <tr>
+                <td>Bierstadt Lagerhaus</td>
+                <td>2875 Blake Street, Denver, CO 80205</td>
+                <td>https://www.facebook.com/Bierstadt-Lagerhaus-1378445749083049/</td>
+                <td>39.762923</td>
+                <td>-104.984066</td>
+              </tr>
+              <tr>
+                <td>Vine Street Pub &amp; Brewery</td>
+                <td>1700 Vine St, Denver, CO 80206</td>
+                <td>http://www.mountainsunpub.com/</td>
+                <td>39.743472</td>
+                <td>-104.961993</td>
+              </tr>
+              <tr>
+                <td>Living The Dream Brewing</td>
+                <td>12305 Dumont Way, Unit A, Littleton, CO 80125</td>
+                <td>http://livingthedreambrewing.com</td>
+                <td>39.540247</td>
+                <td>-105.039968</td>
+              </tr>
+              <tr>
+                <td>River North Brewery</td>
+                <td>6021 Washington Street, Unit A, Denver, CO 80216</td>
+                <td>http://www.rivernorthbrewery.com/</td>
+                <td>39.806543</td>
+                <td>-104.979136</td>
+              </tr>
+              <tr>
+                <td>Walter Brewing Co.</td>
+                <td>126 Oneida St., Pueblo, CO 81003</td>
+                <td>http://waltersbeer.com</td>
+                <td>38.262402</td>
+                <td>-104.610167</td>
+              </tr>
+              <tr>
+                <td>Berthound Brewing Co.</td>
+                <td>450 8th Street, Ste B, Berthoud, CO 80513</td>
+                <td>https://www.berthoudbrewing.com/</td>
+                <td>40.304496</td>
+                <td>-105.084807</td>
+              </tr>
+              <tr>
+                <td>Under the Sun Eatery &amp; Taphouse</td>
+                <td>627 A- S. Broadway St., Boulder, CO 80305</td>
+                <td>http://mountainsunpub.com</td>
+                <td>39.984318</td>
+                <td>-105.249369</td>
+              </tr>
+              <tr>
+                <td>Cb &amp; Potts</td>
+                <td>261 Kaycee Case Pl, Colorado Springs, CO 80921</td>
+                <td>http://cbpotts.com</td>
+                <td>39.021540</td>
+                <td>-104.825671</td>
+              </tr>
+              <tr>
+                <td>Industrial Revolution Brewing Co.</td>
+                <td>285 Cheesman Street, Erie, CO 80516</td>
+                <td>http://industrialrevolutionbrewingcompany.com</td>
+                <td>40.051913</td>
+                <td>-105.048641</td>
+              </tr>
+              <tr>
+                <td>Pikes Peak Brewing</td>
+                <td>1756 Lake Woodmoor Rd., Monument, CO 80132</td>
+                <td>http://www.pikespeakbrewing.com</td>
+                <td>39.095859</td>
+                <td>-104.859572</td>
+              </tr>
+              <tr>
+                <td>Grimm Brothers</td>
+                <td>623 Denver Avenue, Loveland, CO 80537</td>
+                <td>http://www.grimmbrosbrewhouse.com</td>
+                <td>40.396706</td>
+                <td>-105.046935</td>
+              </tr>
+              <tr>
+                <td>Black Sky Brewery</td>
+                <td>490 Santa Fe Drive, Denver, CO 80204</td>
+                <td>http://blackskybrewing.com</td>
+                <td>39.723922</td>
+                <td>-104.998261</td>
+              </tr>
+              <tr>
+                <td>De Steeg Brewing Co.</td>
+                <td>4342 Tennyson St., Denver, CO 80212</td>
+                <td>http://desteegbrewing.com</td>
+                <td>39.776111</td>
+                <td>-105.043732</td>
+              </tr>
+              <tr>
+                <td>Ska Brewing Company</td>
+                <td>225 Girard Street, Durango, CO 81301</td>
+                <td>http://skabrewing.com</td>
+                <td>37.238802</td>
+                <td>-107.876150</td>
+              </tr>
+              <tr>
+                <td>Pints Pub Brewery &amp; Freehouse</td>
+                <td>221 W. 13th Ave, Denver, CO 80204</td>
+                <td>http://pintspub.com</td>
+                <td>39.736973</td>
+                <td>-104.990853</td>
+              </tr>
+              <tr>
+                <td>Animas Brewing Company</td>
+                <td>1560 E 2nd Ave, Durango, CO 81301</td>
+                <td>http://animasbrewing.com</td>
+                <td>37.279972</td>
+                <td>-107.876853</td>
+              </tr>
+              <tr>
+                <td>Thirsty Monk Pub</td>
+                <td>1604 East 17th Ave, Denver, CO 80218</td>
+                <td>https://monkpub.com/denver-co/</td>
+                <td>39.743079</td>
+                <td>-104.968207</td>
+              </tr>
+              <tr>
+                <td>Telluride Brewing</td>
+                <td>156 Def Society Drive, Telluride, CO 81435</td>
+                <td>http://www.telluridebrewingco.com</td>
+                <td>37.946158</td>
+                <td>-107.876298</td>
+              </tr>
+              <tr>
+                <td>Alpine Dog Brewery</td>
+                <td>1505 Ogden St., Denver, CO 80218</td>
+                <td>http://alpinedogbrewery.com</td>
+                <td>39.740326</td>
+                <td>-104.974929</td>
+              </tr>
+              <tr>
+                <td>Horse &amp; Dragon Brewing Co.</td>
+                <td>124 Racquette Drive, Fort Collins, CO 80524</td>
+                <td>http://horseanddragonbrewing.com</td>
+                <td>40.589672</td>
+                <td>-105.045627</td>
+              </tr>
+              <tr>
+                <td>Golden Block Brewery</td>
+                <td>1227 Greene Street, Silverton, CO 81433</td>
+                <td>http://goldenblockbrewery.com</td>
+                <td>37.812136</td>
+                <td>-107.664389</td>
+              </tr>
+              <tr>
+                <td>Mancos Brewing Company</td>
+                <td>484 E. Frontage Rd, Mancos, CO 81328</td>
+                <td>http://www.mancosbrewingcompany.com/</td>
+                <td>37.348185</td>
+                <td>-108.283112</td>
+              </tr>
+              <tr>
+                <td>Ratio Beerworks</td>
+                <td>2920 Larimer St, Denver, CO 80205</td>
+                <td>http://ratiobeerworks.com</td>
+                <td>39.761486</td>
+                <td>-104.981076</td>
+              </tr>
+              <tr>
+                <td>Bristol Brewing</td>
+                <td>1604 S Cascade Ave, Colorado Springs, CO 80905</td>
+                <td>http://www.bristolbrewing.com</td>
+                <td>38.811034</td>
+                <td>-104.827495</td>
+              </tr>
+              <tr>
+                <td>Rock Bottom Brewery - Loveland</td>
+                <td>6025 Sky Pond Dr, Loveland, CO 80538</td>
+                <td>http://www.rockbottom.com/</td>
+                <td>40.410487</td>
+                <td>-104.987922</td>
+              </tr>
+              <tr>
+                <td>Rally King Brewing, Inc.</td>
+                <td>1624 S Lemay, Fort Collins, CO 80525</td>
+                <td>http://rallykingbrewing.com</td>
+                <td>40.566077</td>
+                <td>-105.056792</td>
+              </tr>
+              <tr>
+                <td>Crystal Springs Brewing</td>
+                <td>657 S. Taylor Ave., Louisville, CO 80027</td>
+                <td>http://www.crystalspringsbrewing.com</td>
+                <td>39.960583</td>
+                <td>-105.120277</td>
+              </tr>
+              <tr>
+                <td>Post Brewing Co.</td>
+                <td>105 W. Emma St., Lafayette, CO 80026</td>
+                <td>http://www.postbrewing.com/</td>
+                <td>39.994546</td>
+                <td>-105.091317</td>
+              </tr>
+              <tr>
+                <td>Oskar Blues Lyons</td>
+                <td>303 Main Street, Lyons, CO 80540</td>
+                <td>https://oskarbluesfooderies.com/oskar-blues/oskar-blues-lyons/</td>
+                <td>40.224452</td>
+                <td>-105.267711</td>
+              </tr>
+              <tr>
+                <td>Odyssey Beerwerks Brewery and Taproom</td>
+                <td>5535 W 56th Ave, Arvada, CO 80002</td>
+                <td>http://www.odysseybeerwerks.com</td>
+                <td>39.800891</td>
+                <td>-105.058938</td>
+              </tr>
+              <tr>
+                <td>Mahogany Ridge Brewery &amp; Grill</td>
+                <td>435 Lincoln Ave, Steamboat Springs, CO 80487</td>
+                <td>http://www.mahoganyridgesteamboat.com/</td>
+                <td>40.483758</td>
+                <td>-106.831363</td>
+              </tr>
+              <tr>
+                <td>Zwei Brewing Co.</td>
+                <td>4612 S Mason St., Ste 120, Fort Collins, CO 80525</td>
+                <td>http://zweibruderbrewing.com</td>
+                <td>40.522770</td>
+                <td>-105.078361</td>
+              </tr>
+              <tr>
+                <td>Verboten Brewing</td>
+                <td>1550 Taurus Ct., Loveland, CO 80537</td>
+                <td>http://www.verbotenbrewing.com</td>
+                <td>40.400546</td>
+                <td>-105.055494</td>
+              </tr>
+              <tr>
+                <td>Rock Bottom Restaurant - Colorado Springs</td>
+                <td>3316 Cinema Pt, Colorado Springs, CO 80922</td>
+                <td>http://www.rockbottom.com/</td>
+                <td>38.881190</td>
+                <td>-104.718143</td>
+              </tr>
+              <tr>
+                <td>Shoes and Brews</td>
+                <td>63 S. Pratt Parkway unit B, Longmont, CO 80501</td>
+                <td>http://shoesbrews.com</td>
+                <td>40.158089</td>
+                <td>-105.107395</td>
+              </tr>
+              <tr>
+                <td>Brew Hop Trolley</td>
+                <td>540 Main Street, Longmont, CO 80501</td>
+                <td>http://brewhoptrolley.com</td>
+                <td>40.168738</td>
+                <td>-105.102082</td>
+              </tr>
+              <tr>
+                <td>Big Thompson Brewery</td>
+                <td>114 E. 15th Street, Loveland, CO 80538</td>
+                <td>http://lovelandbrewery.com</td>
+                <td>40.407897</td>
+                <td>-105.075436</td>
+              </tr>
+              <tr>
+                <td>Aspen Brewing Company</td>
+                <td>304 E Hopkins Ave, Aspen, CO 81611</td>
+                <td>http://aspenbrewingcompany.com/</td>
+                <td>39.190323</td>
+                <td>-106.820301</td>
+              </tr>
+              <tr>
+                <td>Riff Raff Brewing Company</td>
+                <td>274 Pagosa Street, Pagosa Springs, CO 81147</td>
+                <td>http://riffraffbrewing.com/</td>
+                <td>37.268908</td>
+                <td>-107.007348</td>
+              </tr>
+              <tr>
+                <td>Kannah Creek Brewing Company</td>
+                <td>1960 N 12th Street, Grand Junction, CO 81521</td>
+                <td>https://www.kannahcreekbrewingco.com/</td>
+                <td>39.085359</td>
+                <td>-108.551905</td>
+              </tr>
+              <tr>
+                <td>Suds Brothers Brewery</td>
+                <td>127 E. Aspen, Fruita, CO 81521</td>
+                <td>http://sudsbrothers2fruita.com</td>
+                <td>39.159146</td>
+                <td>-108.732671</td>
+              </tr>
+              <tr>
+                <td>Two Mile Brewing Co</td>
+                <td>101 Harrison Ave, Leadville, CO 80461</td>
+                <td>https://twomilebrewing.com</td>
+                <td>39.244657</td>
+                <td>-106.290761</td>
+              </tr>
+              <tr>
+                <td>Colorado Boy Pizzeria</td>
+                <td>320 E. Main St., Montrose, CO 81401</td>
+                <td>https://coloradoboymontrose.com</td>
+                <td>38.478956</td>
+                <td>-107.877108</td>
+              </tr>
+              <tr>
+                <td>Copper Kettle Brewing Co</td>
+                <td>1338 South Valentia Street, Unit 100, Denver, CO 80247</td>
+                <td>http://www.copperkettledenver.com</td>
+                <td>39.692358</td>
+                <td>-104.890912</td>
+              </tr>
+              <tr>
+                <td>Breckenridge Ale House at Amatos</td>
+                <td>2501 16th Street, Denver, CO 80211</td>
+                <td>http://breckbrew.com</td>
+                <td>39.758626</td>
+                <td>-105.009217</td>
+              </tr>
+              <tr>
+                <td>Little Machine Beer</td>
+                <td>2924 W 20th Ave, Denver, CO 80211</td>
+                <td>http://littlemachinebeer.com</td>
+                <td>39.747316</td>
+                <td>-105.024345</td>
+              </tr>
+              <tr>
+                <td>Oskar Blues Longmont</td>
+                <td>1800 Pike Road, Unit B, Longmont, CO 80501</td>
+                <td>http://www.oskarblues.com</td>
+                <td>40.139188</td>
+                <td>-105.122789</td>
+              </tr>
+              <tr>
+                <td>Grandma's House</td>
+                <td>1710 S. Broadway, Denver, CO 80210</td>
+                <td>http://www.grandmasbeer.co/</td>
+                <td>39.685436</td>
+                <td>-104.987124</td>
+              </tr>
+              <tr>
+                <td>Great Divide Barrel Bar</td>
+                <td>1812 35th Street, Denver, CO 80216</td>
+                <td>https://greatdivide.com</td>
+                <td>39.770450</td>
+                <td>-104.979373</td>
+              </tr>
+              <tr>
+                <td>Wiley Roots Brewing Company</td>
+                <td>625 3rd St Unit D, Greeley, CO 80631</td>
+                <td>http://www.wileyroots.com</td>
+                <td>40.431572</td>
+                <td>-104.688346</td>
+              </tr>
+              <tr>
+                <td>Glenwood Canyon Brewpub</td>
+                <td>402 Seventh Street, Glenwood Springs, CO 81601</td>
+                <td>http://glenwoodcanyon.com</td>
+                <td>39.547575</td>
+                <td>-107.322891</td>
+              </tr>
+              <tr>
+                <td>AC Golden Brewing Co.</td>
+                <td>1301 Ford Street, Golden, CO 80401</td>
+                <td>http://acgolden.com</td>
+                <td>39.755440</td>
+                <td>-105.218111</td>
+              </tr>
+              <tr>
+                <td>Oskar Blues Grill &amp; Brew</td>
+                <td>118 N Tejon St, Colorado Springs, CO 80903</td>
+                <td>https://oskarbluesfooderies.com/oskar-blues/oskar-blues-colorado-springs/</td>
+                <td>38.836014</td>
+                <td>-104.823802</td>
+              </tr>
+              <tr>
+                <td>Storm Peak Brewing Company</td>
+                <td>1885 Elk River Plaza, Steamboat Springs, CO 80487</td>
+                <td>http://www.stormpeakbrewing.com/</td>
+                <td>40.502257</td>
+                <td>-106.855088</td>
+              </tr>
+              <tr>
+                <td>High Hops Brewery</td>
+                <td>6461 Highway 392, Windsor, CO 80550</td>
+                <td>https://highhopsbrewery.com</td>
+                <td>40.480368</td>
+                <td>-104.935783</td>
+              </tr>
+              <tr>
+                <td>Raices Brewing Company</td>
+                <td>2060 West Colfax Ave, Denver, CO 80204</td>
+                <td>https://www.raicesbrewing.com/</td>
+                <td>39.738736</td>
+                <td>-105.017343</td>
+              </tr>
+              <tr>
+                <td>Casey Brewing &amp; Blending</td>
+                <td>3421 Grand Ave., Glenwood Springs, CO 81601</td>
+                <td>http://caseybrewing.com</td>
+                <td>39.515762</td>
+                <td>-107.319496</td>
+              </tr>
+              <tr>
+                <td>Gore Range Brewery</td>
+                <td>0105 Edwards Village Boulevard, Edwards, CO 81632</td>
+                <td>http://www.gorerangebrewery.com/</td>
+                <td>39.643729</td>
+                <td>-106.596273</td>
+              </tr>
+              <tr>
+                <td>Twisted Pine Brewing Company</td>
+                <td>3201 Walnut Street, Boulder, CO 80301</td>
+                <td>http://www.twistedpinebrewing.com</td>
+                <td>40.020826</td>
+                <td>-105.251023</td>
+              </tr>
+              <tr>
+                <td>BJ's Restaurant and Brewhouse</td>
+                <td>1690 28th St, Boulder, CO 80301</td>
+                <td>http://www.bjsrestaurants.com/locations/co/boulder</td>
+                <td>40.017730</td>
+                <td>-105.257789</td>
+              </tr>
+              <tr>
+                <td>Loveland Aleworks</td>
+                <td>118 W. 4th St., Loveland, CO 80537</td>
+                <td>http://lovelandaleworks.com</td>
+                <td>40.395281</td>
+                <td>-105.077335</td>
+              </tr>
+              <tr>
+                <td>City Star Brewing</td>
+                <td>321 Mountain Avenue, Berthoud, CO 80513</td>
+                <td>http://citystarbrewing.com/</td>
+                <td>40.304865</td>
+                <td>-105.078986</td>
+              </tr>
+              <tr>
+                <td>Fossil Brewing Co.</td>
+                <td>2845 Ore Mill Rd., Colorado Springs, CO 80904</td>
+                <td>http://fossilcraftbeer.com/</td>
+                <td>38.848543</td>
+                <td>-104.870398</td>
+              </tr>
+              <tr>
+                <td>Upslope Brewing Company</td>
+                <td>1501 Lee Hill Rd, Boulder, CO 80304</td>
+                <td>http://www.upslopebrewing.com</td>
+                <td>40.062623</td>
+                <td>-105.278867</td>
+              </tr>
+              <tr>
+                <td>Spangalang Brewery</td>
+                <td>2736 Welton St., Denver, CO 80205</td>
+                <td>http://spangalangbrewery.com</td>
+                <td>39.755176</td>
+                <td>-104.976968</td>
+              </tr>
+              <tr>
+                <td>Phantom Canyon Brewing Co.</td>
+                <td>2 E. Pikes Peak Ave, Colorado Springs, CO 80903</td>
+                <td>http://phantomcanyon.com</td>
+                <td>38.834228</td>
+                <td>-104.824942</td>
+              </tr>
+              <tr>
+                <td>Odd13 Brewing</td>
+                <td>301 E. Simpson St., Lafayette, CO 80026</td>
+                <td>http://odd13brewing.com</td>
+                <td>39.998379</td>
+                <td>-105.087846</td>
+              </tr>
+              <tr>
+                <td>Three Freaks Brewery</td>
+                <td>7140 E. County Line Rd., Highlands Ranch, CO 80126</td>
+                <td>http://3freaksbrewery.com</td>
+                <td>39.564892</td>
+                <td>-104.905978</td>
+              </tr>
+              <tr>
+                <td>Mountain Tap Brewery</td>
+                <td>910 Yampa Street, Steamboat Springs, CO 80487</td>
+                <td>https://www.mountaintapbrewery.com/</td>
+                <td>40.486492</td>
+                <td>-106.836874</td>
+              </tr>
+              <tr>
+                <td>Bottom Shelf Brewery</td>
+                <td>118 E. Mill Street, Bayfield, CO 81122</td>
+                <td>http://bottomshelfbrewery.com</td>
+                <td>37.225062</td>
+                <td>-107.599083</td>
+              </tr>
+              <tr>
+                <td>Crestone Brewing Co</td>
+                <td>187 W Silver Ave, Crestone, CO 81131</td>
+                <td>https://crestonebrewing.co/</td>
+                <td>37.994476</td>
+                <td>-105.699981</td>
+              </tr>
+              <tr>
+                <td>Ouray Brewing</td>
+                <td>607 Main Street, Ouray, CO 81427</td>
+                <td>http://ouraybrewery.com/</td>
+                <td>38.022940</td>
+                <td>-107.671124</td>
+              </tr>
+              <tr>
+                <td>Nano 108 Brewing Co.</td>
+                <td>2402 Waynoka Rd., Colorado Springs, CO 80915</td>
+                <td>https://www.facebook.com/pages/Nano-108-Brewing-Company/895871877172398</td>
+                <td>38.866671</td>
+                <td>-104.717802</td>
+              </tr>
+              <tr>
+                <td>Coors Brewery Tour</td>
+                <td>1301 Ford St., Golden, CO 80401</td>
+                <td>https://www.millercoors.com/breweries/coors-brewing-company/tours</td>
+                <td>39.755440</td>
+                <td>-105.218111</td>
+              </tr>
+              <tr>
+                <td>Front Range Brewing Co.</td>
+                <td>400 W South Boulder Road, Lafayette, CO 80026</td>
+                <td>http://frontrangebrewingcompany.com</td>
+                <td>39.985807</td>
+                <td>-105.094834</td>
+              </tr>
+              <tr>
+                <td>Diebolt Brewing Co.</td>
+                <td>3855 Mariposa St., Denver, CO 80211</td>
+                <td>http://dieboltbrewing.com</td>
+                <td>39.770351</td>
+                <td>-105.003283</td>
+              </tr>
+              <tr>
+                <td>Moonlight Pizza and Brewpub</td>
+                <td>242 F Street, Salida, CO 81201</td>
+                <td>http://moonlightpizza.biz/</td>
+                <td>38.534909</td>
+                <td>-105.993560</td>
+              </tr>
+              <tr>
+                <td>Golden City Brewery</td>
+                <td>920 12th Street, Golden, CO 80401</td>
+                <td>http://www.gcbrewery.com/</td>
+                <td>39.754683</td>
+                <td>-105.223663</td>
+              </tr>
+              <tr>
+                <td>New Belgium Brewing Company</td>
+                <td>500 Linden St., Fort Collins, CO 80524</td>
+                <td>http://www.newbelgium.com/</td>
+                <td>40.593125</td>
+                <td>-105.067980</td>
+              </tr>
+              <tr>
+                <td>Denver Beer Co</td>
+                <td>1695 Platte Street, Denver, CO 80202</td>
+                <td>http://www.denverbeerco.com</td>
+                <td>39.758272</td>
+                <td>-105.007335</td>
+              </tr>
+              <tr>
+                <td>Westbound &amp; Down Brewing Company</td>
+                <td>1617 Miner St, Idaho Springs, CO 80452</td>
+                <td>http://www.westboundanddown.com/</td>
+                <td>39.741792</td>
+                <td>-105.515497</td>
+              </tr>
+              <tr>
+                <td>Roaring Fork Beer Company</td>
+                <td>1941 Dolores Way, Carbondale, CO 81623</td>
+                <td>http://roaringforkbeerco.com</td>
+                <td>39.410559</td>
+                <td>-107.223575</td>
+              </tr>
+              <tr>
+                <td>Snowbank Brewing</td>
+                <td>225 N. Lemay Ave, Fort Collins, CO 80524</td>
+                <td>https://www.snowbank.beer</td>
+                <td>40.589929</td>
+                <td>-105.058724</td>
+              </tr>
+              <tr>
+                <td>Stein Brewing</td>
+                <td>2516 49th Street, Boulder, CO 80301</td>
+                <td>https://stein-brewing.com/</td>
+                <td>40.024125</td>
+                <td>-105.237256</td>
+              </tr>
+              <tr>
+                <td>Breckenridge Brewery Farmhouse</td>
+                <td>2920 Brewery Lane, Littleton, CO 80120</td>
+                <td>http://breckbrew.com</td>
+                <td>39.593714</td>
+                <td>-105.023232</td>
+              </tr>
+              <tr>
+                <td>Anheuser Busch Tour Center and Biergarten</td>
+                <td>2351 Busch Drive, Fort Collins, CO 80525</td>
+                <td>http://www.budweisertours.com</td>
+                <td>40.617477</td>
+                <td>-105.005116</td>
+              </tr>
+              <tr>
+                <td>Brewmented Homebrew Store &amp; Brewery</td>
+                <td>900 S. Hover, Longmont, CO 80501</td>
+                <td>https://www.brewmented.com</td>
+                <td>40.151751</td>
+                <td>-105.130146</td>
+              </tr>
+              <tr>
+                <td>Crooked Stave Taproom Sunnyside</td>
+                <td>1441 W. 46th Ave. Unit 19, Denver, CO 80211</td>
+                <td>http://www.crookedstave.com/</td>
+                <td>39.780817</td>
+                <td>-105.005002</td>
+              </tr>
+              <tr>
+                <td>Pagosa Brewing Company</td>
+                <td>118 N Pagosa Blvd., Pagosa Springs, CO 81147</td>
+                <td>http://www.pagosabrewing.com</td>
+                <td>37.268749</td>
+                <td>-107.003222</td>
+              </tr>
+              <tr>
+                <td>Renegade Brewing</td>
+                <td>925 W. 9th Ave., Denver, CO 80204</td>
+                <td>http://www.renegadebrewing.com</td>
+                <td>39.730621</td>
+                <td>-104.999277</td>
+              </tr>
+              <tr>
+                <td>Goldspot Brewing</td>
+                <td>4970 Lowell Blvd., Denver, CO 80221</td>
+                <td>http://goldspotbrewing.com</td>
+                <td>39.786892</td>
+                <td>-105.034350</td>
+              </tr>
+              <tr>
+                <td>Shine Restaurant &amp; Potion Bar</td>
+                <td>2480 Canyon Blvd, Boulder, CO 80302</td>
+                <td>http://shineboulder.com</td>
+                <td>40.017058</td>
+                <td>-105.261639</td>
+              </tr>
+              <tr>
+                <td>High Alpine Brewing Company</td>
+                <td>111 N Main St, Gunnison, CO 81230</td>
+                <td>http://highalpinebrewing.com/</td>
+                <td>38.544750</td>
+                <td>-106.927306</td>
+              </tr>
+              <tr>
+                <td>Prost Brewing</td>
+                <td>2540 19th St., Denver, CO 80211</td>
+                <td>http://www.prostbrewing.com/</td>
+                <td>39.760278</td>
+                <td>-105.003967</td>
+              </tr>
+              <tr>
+                <td>LowDown Brewery &amp; Kitchen</td>
+                <td>800 Lincoln Ave., Denver, CO 80203</td>
+                <td>http://lowdownbrewery.com</td>
+                <td>39.729316</td>
+                <td>-104.985709</td>
+              </tr>
+              <tr>
+                <td>Palisade Brewing Company</td>
+                <td>200 Peach Ave, Palisade, CO 81526</td>
+                <td>http://www.palisadebrewingcompany.com/</td>
+                <td>39.111090</td>
+                <td>-108.354344</td>
+              </tr>
+              <tr>
+                <td>Liquid Mechanics Brewing Co.</td>
+                <td>297 US 287, Lafayette, CO 80026</td>
+                <td>http://liquidmechanicsbrewing.com</td>
+                <td>39.999475</td>
+                <td>-105.103532</td>
+              </tr>
+              <tr>
+                <td>Longs Peak Pub &amp; Taphouse</td>
+                <td>600 Longs Peak Ave, Longmont, CO 80501</td>
+                <td>http://mountainsunpub.com/locations.php#longsPeak</td>
+                <td>40.170897</td>
+                <td>-105.102958</td>
+              </tr>
+              <tr>
+                <td>Bootstrap Brewing</td>
+                <td>142 Pratt Street, Longmont, CO 80501</td>
+                <td>https://bootstrapbrewing.com</td>
+                <td>40.161489</td>
+                <td>-105.106302</td>
+              </tr>
+              <tr>
+                <td>Gold Camp Brewing Co.</td>
+                <td>1007 S. Tejon Street, Colorado Springs, CO 80903</td>
+                <td>https://www.facebook.com/pg/goldcampbrew/about/?ref=page_internal</td>
+                <td>38.819571</td>
+                <td>-104.823610</td>
+              </tr>
+              <tr>
+                <td>Florence Brewing Co.</td>
+                <td>200 S. Pikes Peak Avenue, Florence, CO 81226</td>
+                <td>http://www.florencebrewing.com</td>
+                <td>38.388683</td>
+                <td>-105.118358</td>
+              </tr>
+              <tr>
+                <td>New Planet Brewery</td>
+                <td>6560 Odell Pl. Unit D, Boulder, CO 80301</td>
+                <td>http://newplanetbeer.com</td>
+                <td>40.073325</td>
+                <td>-105.200878</td>
+              </tr>
+              <tr>
+                <td>Tommy Knocker Brewery and Pub</td>
+                <td>1401 Miner St., Idaho Springs, CO 80452</td>
+                <td>http://tommyknocker.com</td>
+                <td>39.741627</td>
+                <td>-105.517718</td>
+              </tr>
+              <tr>
+                <td>Carbondale Beer Works</td>
+                <td>647 Main Street, Carbondale, CO 81623</td>
+                <td>http://places.singleplatform.com/carbondale-beer-works/menu?ref=google#menu_2709655</td>
+                <td>39.400733</td>
+                <td>-107.213125</td>
+              </tr>
+              <tr>
+                <td>The Peak Bistro &amp; Brewery</td>
+                <td>78491 US Highway 40, Winter Park, CO 80482</td>
+                <td>https://www.thepeakwp.com/</td>
+                <td>39.923989</td>
+                <td>-105.786378</td>
+              </tr>
+              <tr>
+                <td>Big Choice Brewing</td>
+                <td>21 S 1st Ave, Brighton, CO 80601</td>
+                <td>http://www.bigchoicebrewing.com</td>
+                <td>39.986398</td>
+                <td>-104.822730</td>
+              </tr>
+              <tr>
+                <td>Bonfire Brewing</td>
+                <td>127 2nd Street, Eagle, CO 81631</td>
+                <td>http://www.bonfirebrewing.com</td>
+                <td>39.655405</td>
+                <td>-106.827313</td>
+              </tr>
+              <tr>
+                <td>Wynkoop Brewing Company</td>
+                <td>1634 18th Street, Denver, CO 80202</td>
+                <td>http://www.wynkoop.com/</td>
+                <td>39.753420</td>
+                <td>-104.998535</td>
+              </tr>
+              <tr>
+                <td>Avalanche Brewing Co.</td>
+                <td>1067 Blair St., Silverton, CO 81433</td>
+                <td>http://avalanchebrewing.com</td>
+                <td>37.810316</td>
+                <td>-107.664655</td>
+              </tr>
+              <tr>
+                <td>Crooked Stave Taproom FoCo</td>
+                <td>216 North College Avenue Suite 130, Fort Collins, CO 80216</td>
+                <td>http://www.crookedstave.com/</td>
+                <td>40.589498</td>
+                <td>-105.076696</td>
+              </tr>
+              <tr>
+                <td>Blue Tile Brewing</td>
+                <td>1609 E 58th Ave Unit G, Denver, CO 80205</td>
+                <td>https://www.facebook.com/bluetilebrewing/</td>
+                <td>39.803193</td>
+                <td>-104.968073</td>
+              </tr>
+              <tr>
+                <td>BJ's Restaurant and Brewery</td>
+                <td>2670 E. Harmony Road, Fort Collins, CO 80525</td>
+                <td>https://www.bjsrestaurants.com/#signup</td>
+                <td>40.523828</td>
+                <td>-105.027387</td>
+              </tr>
+              <tr>
+                <td>Coda Brewing Co.</td>
+                <td>15965 S Golden Rd., Golden, CO 80401</td>
+                <td>http://codabrewing.com</td>
+                <td>39.734348</td>
+                <td>-105.178668</td>
+              </tr>
+              <tr>
+                <td>Hideaway Park Brewery</td>
+                <td>78927 US Highway 40, Winter Park, CO 80482</td>
+                <td>https://www.facebook.com/HideawayParkBrewery/</td>
+                <td>39.918031</td>
+                <td>-105.784016</td>
+              </tr>
+              <tr>
+                <td>Chain Reaction Brewing</td>
+                <td>902 S Lipan St., Denver, CO 80223</td>
+                <td>http://chainreactionbrewingco.com</td>
+                <td>39.699585</td>
+                <td>-105.001183</td>
+              </tr>
+              <tr>
+                <td>Big Beaver Brewing Co.</td>
+                <td>2707 W. Eisenhower Blvd. Unit 9, Loveland, CO 80537</td>
+                <td>http://bigbeaverbrew.com</td>
+                <td>40.408116</td>
+                <td>-105.114570</td>
+              </tr>
+              <tr>
+                <td>Drätz Brewing Company</td>
+                <td>965 E. 11th St, Loveland, CO 80537</td>
+                <td>https://dratzbrewing.com</td>
+                <td>40.404555</td>
+                <td>-105.064600</td>
+              </tr>
+              <tr>
+                <td>Edgewater Brewery</td>
+                <td>905 Struthers Avenue, Grand Junction, CO 81501</td>
+                <td>http://kannahcreekbrewingco.com/edgewater/</td>
+                <td>39.055013</td>
+                <td>-108.557216</td>
+              </tr>
+              <tr>
+                <td>BJ's Restaurant and Brewhouse</td>
+                <td>14442 E Cedar Ave, Aurora, CO 80012</td>
+                <td>http://bjsbrewhouse.com</td>
+                <td>39.712433</td>
+                <td>-104.819797</td>
+              </tr>
+              <tr>
+                <td>Red Leg Brewing Co.</td>
+                <td>4630 Forge Rd., Colorado Springs, CO 80907</td>
+                <td>http://redlegbrewingco.com</td>
+                <td>38.898045</td>
+                <td>-104.841723</td>
+              </tr>
+              <tr>
+                <td>Dos Luces</td>
+                <td>1236 South Broadway, Denver, CO 80210</td>
+                <td>https://dosluces.com/</td>
+                <td>39.694056</td>
+                <td>-104.987055</td>
+              </tr>
+              <tr>
+                <td>Wonderland Brewing Co.</td>
+                <td>5450 W. 120th Ave., Broomfield, CO 80020</td>
+                <td>http://wonderlandbrewing.com</td>
+                <td>39.913322</td>
+                <td>-105.055857</td>
+              </tr>
+              <tr>
+                <td>Brewery Rickoli</td>
+                <td>4335 Wadsworth, Wheat Ridge, CO 80033</td>
+                <td>http://www.breweryrickoli.com/</td>
+                <td>39.775860</td>
+                <td>-105.081894</td>
+              </tr>
+              <tr>
+                <td>300 Suns Brewing</td>
+                <td>335 1st Ave., Longmont, CO 80501</td>
+                <td>http://300sunsbrewing.com/</td>
+                <td>40.159920</td>
+                <td>-105.101274</td>
+              </tr>
+              <tr>
+                <td>Finkel &amp; Garf Brewing Co.</td>
+                <td>5455 Spine Road, Boulder, CO 80301</td>
+                <td>http://finkelandgarf.com</td>
+                <td>40.073974</td>
+                <td>-105.202752</td>
+              </tr>
+              <tr>
+                <td>Pumphouse Brewery</td>
+                <td>540 Main Street, Longmont, CO 80501</td>
+                <td>http://www.pumphousebrewery.com</td>
+                <td>40.168738</td>
+                <td>-105.102082</td>
+              </tr>
+              <tr>
+                <td>BJ's Restaurant and Brewhouse</td>
+                <td>10446 E Town Center Drive, Westminster, CO 80021</td>
+                <td>http://bjbrewhouse.com</td>
+                <td>39.888121</td>
+                <td>-105.074236</td>
+              </tr>
+              <tr>
+                <td>Mockery Brewing</td>
+                <td>3501 Delgany St., Denver, CO 80216</td>
+                <td>http://mockerybrewing.com</td>
+                <td>39.771248</td>
+                <td>-104.979730</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+</body>

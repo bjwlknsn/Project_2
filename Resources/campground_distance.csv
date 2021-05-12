@@ -1,0 +1,1065 @@
+,Mountains,Distance from Campsite (miles),name
+0,Mt. Elbert,11.66798139,Baby Doe
+1,Mt. Elbert,11.65280924,Belle of Colorado
+2,Mt. Elbert,16.72520732,Chapman
+3,Mt. Elbert,6.697035225,Dexter
+4,Mt. Elbert,17.68504323,Difficult
+5,Mt. Elbert,16.55226103,Dinner Station
+6,Mt. Elbert,15.74245972,Dorchester
+7,Mt. Elbert,2.782130136,Elbert Creek
+8,Mt. Elbert,17.99367305,Elk Wallow
+9,Mt. Elbert,12.02049196,Father Dyer
+10,Mt. Elbert,19.36704303,Fourmile
+11,Mt. Elbert,19.78112293,Gold Park
+12,Mt. Elbert,3.989727092,Halfmoon East
+13,Mt. Elbert,3.800379273,Halfmoon West
+14,Mt. Elbert,4.471395429,Lakeview - Twin Lakes
+15,Mt. Elbert,13.38041411,Lincoln Gulch
+16,Mt. Elbert,9.631844408,Lost Man
+17,Mt. Elbert,10.71234103,Matchless
+18,Mt. Elbert,11.09569733,Mayqueen
+19,Mt. Elbert,11.24834393,Molly Brown
+20,Mt. Elbert,3.929811272,Parry Peak
+21,Mt. Elbert,9.388775021,Portal
+22,Mt. Elbert,19.13865964,Rivers End
+23,Mt. Elbert,10.97689587,Silver Dollar
+24,Mt. Elbert,11.86972314,Tabor
+25,Mt. Elbert,3.745939763,Twin Peaks
+26,Mt. Elbert,14.7217158,Weller
+27,Mt. Elbert,16.81694444,Weston Pass
+28,Mt. Elbert,4.621658285,White Star
+29,Mt. Massive,8.77713527,Baby Doe
+30,Mt. Massive,8.814542267,Belle of Colorado
+31,Mt. Massive,18.242936,Camp Hale Memorial
+32,Mt. Massive,12.0401091,Chapman
+33,Mt. Massive,18.45376626,Dearhamer
+34,Mt. Massive,10.42889702,Dexter
+35,Mt. Massive,16.30009582,Difficult
+36,Mt. Massive,18.36500159,Dorchester
+37,Mt. Massive,3.945835274,Elbert Creek
+38,Mt. Massive,13.04176709,Elk Wallow
+39,Mt. Massive,9.012263791,Father Dyer
+40,Mt. Massive,19.96330117,Fourmile
+41,Mt. Massive,15.10874246,Gold Park
+42,Mt. Massive,4.645119084,Halfmoon East
+43,Mt. Massive,4.68246297,Halfmoon West
+44,Mt. Massive,8.532200591,Lakeview - Twin Lakes
+45,Mt. Massive,12.71986317,Lincoln Gulch
+46,Mt. Massive,9.190759237,Lost Man
+47,Mt. Massive,7.879195439,Matchless
+48,Mt. Massive,6.695022094,Mayqueen
+49,Mt. Massive,8.430301871,Molly Brown
+50,Mt. Massive,8.97633024,Parry Peak
+51,Mt. Massive,10.61680533,Portal
+52,Mt. Massive,8.21747749,Silver Dollar
+53,Mt. Massive,8.808660829,Tabor
+54,Mt. Massive,8.826979506,Twin Peaks
+55,Mt. Massive,13.87235836,Weller
+56,Mt. Massive,19.71575494,Weston Pass
+57,Mt. Massive,8.906010779,White Star
+58,Mt. Harvard,19.40461674,Buffalo Springs
+59,Mt. Harvard,15.36410655,Cascade
+60,Mt. Harvard,15.35054541,Chalk Lake
+61,Mt. Harvard,7.701233736,Collegiate Peaks
+62,Mt. Harvard,9.959451705,Cottonwood Lake
+63,Mt. Harvard,11.58247132,Dexter
+64,Mt. Harvard,14.3791286,Dinner Station
+65,Mt. Harvard,18.60722557,Dorchester
+66,Mt. Harvard,16.57011042,Elbert Creek
+67,Mt. Harvard,16.83967747,Halfmoon East
+68,Mt. Harvard,16.65166151,Halfmoon West
+69,Mt. Harvard,14.91198044,Iron City
+70,Mt. Harvard,15.76746941,Lakeview - Almont
+71,Mt. Harvard,12.23881241,Lakeview - Twin Lakes
+72,Mt. Harvard,19.41103379,Lottis Creek
+73,Mt. Harvard,13.64273072,Mirror Lake - Almont
+74,Mt. Harvard,15.4413334,Mt. Princeton
+75,Mt. Harvard,11.01995774,Parry Peak
+76,Mt. Harvard,18.8249682,Portal
+77,Mt. Harvard,10.34382263,Railroad Bridge - Arkansas Headwaters State Rec Area
+78,Mt. Harvard,14.11939415,Rivers End
+79,Mt. Harvard,17.78555958,Ruby Mountain - Arkansas Headwaters State Rec Area
+80,Mt. Harvard,11.22887214,Twin Peaks
+81,Mt. Harvard,14.52548198,Weston Pass
+82,Mt. Harvard,11.70890874,White Star
+83,Blanca Peak,11.62180542,Pinyon Flats - Sand Dunes National Monument
+84,Blanca Peak,15.01281485,San Luis State Park
+85,La Plata Peak,17.86117364,Baby Doe
+86,La Plata Peak,17.83651012,Belle of Colorado
+87,La Plata Peak,17.16678351,Collegiate Peaks
+88,La Plata Peak,19.66739668,Cottonwood Lake
+89,La Plata Peak,9.037142586,Dexter
+90,La Plata Peak,17.89495906,Difficult
+91,La Plata Peak,10.55703167,Dinner Station
+92,La Plata Peak,11.13569503,Dorchester
+93,La Plata Peak,8.967981826,Elbert Creek
+94,La Plata Peak,18.22844432,Father Dyer
+95,La Plata Peak,9.984156417,Halfmoon East
+96,La Plata Peak,9.773337539,Halfmoon West
+97,La Plata Peak,15.70010225,Lakeview - Almont
+98,La Plata Peak,7.440153468,Lakeview - Twin Lakes
+99,La Plata Peak,13.36292093,Lincoln Gulch
+100,La Plata Peak,10.36802966,Lost Man
+101,La Plata Peak,19.37013762,Lottis Creek
+102,La Plata Peak,16.91393386,Matchless
+103,La Plata Peak,17.32287703,Mayqueen
+104,La Plata Peak,19.63576471,Mirror Lake - Almont
+105,La Plata Peak,17.43631255,Molly Brown
+106,La Plata Peak,17.3013542,Mosca
+107,La Plata Peak,4.301720094,Parry Peak
+108,La Plata Peak,8.12846473,Portal
+109,La Plata Peak,12.91976073,Rivers End
+110,La Plata Peak,17.15978416,Silver Dollar
+111,La Plata Peak,18.08856716,Tabor
+112,La Plata Peak,3.808560506,Twin Peaks
+113,La Plata Peak,14.68776781,Weller
+114,La Plata Peak,18.38574974,Weston Pass
+115,La Plata Peak,7.057810347,White Star
+116,Uncompahgre Peak,11.62540247,Amphitheater
+117,Uncompahgre Peak,13.11689919,Beaver Lake
+118,Uncompahgre Peak,10.87848945,Big Blue
+119,Uncompahgre Peak,13.63728712,Big Cimarron
+120,Uncompahgre Peak,19.77302738,Cebolla
+121,Uncompahgre Peak,15.30457215,Deer Lakes
+122,Uncompahgre Peak,18.02989635,Hidden Valley
+123,Uncompahgre Peak,12.10339903,Mill Creek - Lake City
+124,Uncompahgre Peak,17.83816713,Ridgway State Park
+125,Uncompahgre Peak,19.92390911,Rito Hondo
+126,Uncompahgre Peak,12.07797608,Silver Jack
+127,Uncompahgre Peak,14.22701841,Slumgullion
+128,Uncompahgre Peak,18.85180181,Spruce
+129,Uncompahgre Peak,16.43572321,The Gate
+130,Uncompahgre Peak,13.50754936,Thistledown
+131,Uncompahgre Peak,12.41483628,Williams Creek
+132,Uncompahgre Peak,11.71929012,Wupperman
+133,Crestone Peak,7.918531709,Alvarado
+134,Crestone Peak,6.578196173,North Crestone Creek
+135,Crestone Peak,15.94852394,Pinyon Flats - Sand Dunes National Monument
+136,Mt. Lincoln,15.21581627,Aspen
+137,Mt. Lincoln,13.98228827,Baby Doe
+138,Mt. Lincoln,13.91273898,Belle of Colorado
+139,Mt. Lincoln,15.92947866,Blodgett
+140,Mt. Lincoln,11.79943944,Camp Hale Memorial
+141,Mt. Lincoln,13.86954806,Father Dyer
+142,Mt. Lincoln,9.785260046,Fourmile
+143,Mt. Lincoln,17.70132113,Gold Park
+144,Mt. Lincoln,19.97783741,Halfmoon
+145,Mt. Lincoln,18.71869804,Hall Valley
+146,Mt. Lincoln,18.82577623,Handcart
+147,Mt. Lincoln,17.53804456,Heaton Bay
+148,Mt. Lincoln,15.92947866,Hornsilver
+149,Mt. Lincoln,10.41992054,Horseshoe
+150,Mt. Lincoln,14.91259066,Jefferson Creek
+151,Mt. Lincoln,19.21515269,Kenosha Pass
+152,Mt. Lincoln,1.784615943,Kite Lake
+153,Mt. Lincoln,15.17044849,Lodgepole - Jefferson
+154,Mt. Lincoln,19.24510654,Lowry
+155,Mt. Lincoln,14.76844036,Matchless
+156,Mt. Lincoln,17.81324771,Mayqueen
+157,Mt. Lincoln,12.88213483,Michigan Creek
+158,Mt. Lincoln,14.25158445,Molly Brown
+159,Mt. Lincoln,16.20968624,Peak One
+160,Mt. Lincoln,16.49797153,Pine Cove
+161,Mt. Lincoln,17.55535883,Prospector
+162,Mt. Lincoln,8.695484266,Selkirk
+163,Mt. Lincoln,14.41936925,Silver Dollar
+164,Mt. Lincoln,14.09375942,Tabor
+165,Mt. Lincoln,18.94232394,Weston Pass
+166,Castle Peak,12.62273368,Cement Creek
+167,Castle Peak,10.21175383,Difficult
+168,Castle Peak,16.42230233,Dinner Station
+169,Castle Peak,11.09381492,Dorchester
+170,Castle Peak,7.997317555,Gothic
+171,Castle Peak,15.95876805,Lake Irwin
+172,Castle Peak,11.60415256,Lincoln Gulch
+173,Castle Peak,14.86734846,Lost Man
+174,Castle Peak,13.16045785,Mosca
+175,Castle Peak,14.14597877,Portal
+176,Castle Peak,18.8901482,Rivers End
+177,Castle Peak,10.31809543,Silver Bar
+178,Castle Peak,9.384916102,Silver Bell
+179,Castle Peak,8.579171363,Silver Queen
+180,Castle Peak,18.64829012,Spring Creek
+181,Castle Peak,10.80186977,Weller
+182,Grays Peak,14.4970894,Aspen
+183,Grays Peak,17.83908428,Blue River
+184,Grays Peak,10.10013231,Burning Bear
+185,Grays Peak,17.2511885,Byers Creek
+186,Grays Peak,5.963852985,Clear Lake
+187,Grays Peak,19.07330155,Columbine
+188,Grays Peak,16.51593185,Deer Creek
+189,Grays Peak,12.06476036,Echo Lake - Idaho Springs
+190,Grays Peak,11.34834953,Empire City RV Parking
+191,Grays Peak,8.245775525,Geneva Park
+192,Grays Peak,9.725990666,Georgetown Lake
+193,Grays Peak,5.596649912,Guanella Pass
+194,Grays Peak,10.44788095,Hall Valley
+195,Grays Peak,10.528241,Handcart
+196,Grays Peak,14.01248321,Heaton Bay
+197,Grays Peak,19.77936472,Hideaway Park
+198,Grays Peak,18.78043859,Idlewild
+199,Grays Peak,14.0086,Jefferson Creek
+200,Grays Peak,15.49035083,Kenosha Pass
+201,Grays Peak,14.63468138,Lodgepole - Jefferson
+202,Grays Peak,11.38124549,Lowry
+203,Grays Peak,17.31538411,Meridian
+204,Grays Peak,15.79059255,Michigan Creek
+205,Grays Peak,9.912127846,Mizpah
+206,Grays Peak,13.92240477,Peak One
+207,Grays Peak,13.75255898,Pine Cove
+208,Grays Peak,12.22340261,Prospector
+209,Grays Peak,14.20788297,Robbers Roost
+210,Grays Peak,19.44310875,Selkirk
+211,Grays Peak,15.86461955,South Fork
+212,Grays Peak,15.29815983,Sugar Loaf
+213,Grays Peak,9.093612464,West Chicago Creek
+214,Grays Peak,12.38970837,Whiteside
+215,Mt. Antero,6.43976503,Angel of Shavano
+216,Mt. Antero,2.481322043,Cascade
+217,Mt. Antero,2.780428922,Chalk Lake
+218,Mt. Antero,10.30799886,Collegiate Peaks
+219,Mt. Antero,19.94367836,Comanche
+220,Mt. Antero,7.853363633,Cottonwood Lake
+221,Mt. Antero,9.284246178,Garfield
+222,Mt. Antero,17.73392331,Gold Creek
+223,Mt. Antero,10.57815009,Hecla Junction - Arkansas Headwaters State Rec Area
+224,Mt. Antero,5.506766691,Iron City
+225,Mt. Antero,10.27410582,Middle Quartz
+226,Mt. Antero,11.21249248,Mirror Lake - Almont
+227,Mt. Antero,11.72335444,Monarch Park
+228,Mt. Antero,3.00558101,Mt. Princeton
+229,Mt. Antero,5.854257008,North Fork Reservoir
+230,Mt. Antero,17.89509616,Ohaver Lake
+231,Mt. Antero,14.39502902,Pitkin
+232,Mt. Antero,12.27749059,Quartz
+233,Mt. Antero,14.58946551,Railroad Bridge - Arkansas Headwaters State Rec Area
+234,Mt. Antero,10.84752927,Ruby Mountain - Arkansas Headwaters State Rec Area
+235,Mt. Antero,13.96381605,Snowblind
+236,Torreys Peak,15.09346583,Aspen
+237,Torreys Peak,17.4472259,Blue River
+238,Torreys Peak,10.71792475,Burning Bear
+239,Torreys Peak,16.60813475,Byers Creek
+240,Torreys Peak,6.055859348,Clear Lake
+241,Torreys Peak,18.81703196,Columbine
+242,Torreys Peak,17.00726969,Deer Creek
+243,Torreys Peak,12.18538606,Echo Lake - Idaho Springs
+244,Torreys Peak,11.00118286,Empire City RV Parking
+245,Torreys Peak,8.871859337,Geneva Park
+246,Torreys Peak,9.440077441,Georgetown Lake
+247,Torreys Peak,5.96500284,Guanella Pass
+248,Torreys Peak,11.07490503,Hall Valley
+249,Torreys Peak,11.15730258,Handcart
+250,Torreys Peak,13.92732276,Heaton Bay
+251,Torreys Peak,19.18574099,Hideaway Park
+252,Torreys Peak,18.19260132,Idlewild
+253,Torreys Peak,14.59464174,Jefferson Creek
+254,Torreys Peak,16.13098338,Kenosha Pass
+255,Torreys Peak,15.23124909,Lodgepole - Jefferson
+256,Torreys Peak,11.24751467,Lowry
+257,Torreys Peak,17.79066724,Meridian
+258,Torreys Peak,16.35115253,Michigan Creek
+259,Torreys Peak,9.333291025,Mizpah
+260,Torreys Peak,13.90309697,Peak One
+261,Torreys Peak,13.722142,Pine Cove
+262,Torreys Peak,12.16929732,Prospector
+263,Torreys Peak,13.65743034,Robbers Roost
+264,Torreys Peak,19.94915874,Selkirk
+265,Torreys Peak,15.29741013,South Fork
+266,Torreys Peak,19.47515983,St. Louis Creek
+267,Torreys Peak,14.73348713,Sugar Loaf
+268,Torreys Peak,9.085059472,West Chicago Creek
+269,Torreys Peak,13.01334902,Whiteside
+270,Quandary Peak,14.19067897,Aspen
+271,Quandary Peak,15.75560369,Baby Doe
+272,Quandary Peak,15.70600992,Belle of Colorado
+273,Quandary Peak,14.78372689,Blodgett
+274,Quandary Peak,11.19309563,Camp Hale Memorial
+275,Quandary Peak,15.57252161,Father Dyer
+276,Quandary Peak,12.94196001,Fourmile
+277,Quandary Peak,17.60369539,Gold Park
+278,Quandary Peak,18.23888357,Gore Creek
+279,Quandary Peak,18.79155316,Halfmoon
+280,Quandary Peak,17.13829531,Hall Valley
+281,Quandary Peak,17.265174,Handcart
+282,Quandary Peak,14.36178699,Heaton Bay
+283,Quandary Peak,14.78372689,Hornsilver
+284,Quandary Peak,13.53808823,Horseshoe
+285,Quandary Peak,13.749487,Jefferson Creek
+286,Quandary Peak,18.47592527,Kenosha Pass
+287,Quandary Peak,4.858142917,Kite Lake
+288,Quandary Peak,14.17290301,Lodgepole - Jefferson
+289,Quandary Peak,16.10418047,Lowry
+290,Quandary Peak,16.62376127,Matchless
+291,Quandary Peak,19.20519444,Mayqueen
+292,Quandary Peak,11.96441398,Michigan Creek
+293,Quandary Peak,16.07869181,Molly Brown
+294,Quandary Peak,13.03723829,Peak One
+295,Quandary Peak,13.32629529,Pine Cove
+296,Quandary Peak,14.40750869,Prospector
+297,Quandary Peak,8.480947618,Selkirk
+298,Quandary Peak,16.2822997,Silver Dollar
+299,Quandary Peak,15.7900504,Tabor
+300,Quandary Peak,18.94396262,Tigiwon
+301,Mt. Evans,15.49439378,Aspen
+302,Mt. Evans,6.31556337,Burning Bear
+303,Mt. Evans,5.571934024,Clear Lake
+304,Mt. Evans,19.18717496,Cold Springs
+305,Mt. Evans,16.5859461,Columbine
+306,Mt. Evans,7.326189736,Deer Creek
+307,Mt. Evans,5.522847444,Echo Lake - Idaho Springs
+308,Mt. Evans,12.19056246,Empire City RV Parking
+309,Mt. Evans,6.307106881,Geneva Park
+310,Mt. Evans,10.35011995,Georgetown Lake
+311,Mt. Evans,4.205581073,Guanella Pass
+312,Mt. Evans,11.25704753,Hall Valley
+313,Mt. Evans,11.18085302,Handcart
+314,Mt. Evans,15.47579818,Jefferson Creek
+315,Mt. Evans,13.56755044,Kenosha Pass
+316,Mt. Evans,15.5954143,Lodgepole - Jefferson
+317,Mt. Evans,7.928974452,Meridian
+318,Mt. Evans,17.68357695,Michigan Creek
+319,Mt. Evans,15.1755046,Mizpah
+320,Mt. Evans,17.99345177,Robbers Roost
+321,Mt. Evans,6.306074602,West Chicago Creek
+322,Mt. Evans,7.816681207,Whiteside
+323,Longs Peak,12.0090743,Arapaho Bay
+324,Longs Peak,10.080104,Aspenglen - Rocky Mountain National Park
+325,Longs Peak,18.06118222,Buckingham
+326,Longs Peak,10.08301506,Camp Dick
+327,Longs Peak,5.278917002,Glacier Basin - Rocky Mountain National Park
+328,Longs Peak,19.02154059,Grand View
+329,Longs Peak,12.54015382,Green Ridge
+330,Longs Peak,9.693393019,Hermit Park Open Space
+331,Longs Peak,19.66297138,Long Draw
+332,Longs Peak,3.264658998,Longs Peak - Rocky Mountain National Park
+333,Longs Peak,7.748977964,Marys Lake - USBR
+334,Longs Peak,18.12612497,Meadow Park
+335,Longs Peak,4.370195132,Meeker Park Overflow
+336,Longs Peak,7.161028528,Moraine Park
+337,Longs Peak,5.843622797,Olive Ridge
+338,Longs Peak,12.40176789,Pawnee
+339,Longs Peak,10.3228838,Peaceful Valley
+340,Longs Peak,19.04976569,Pinewood Reservoir
+341,Longs Peak,17.08760306,Rainbow Lakes
+342,Longs Peak,15.2527558,Stillwater
+343,Longs Peak,15.66060643,Sunset Point
+344,Longs Peak,15.13828973,Timber Creek - Rocky Mountain National Park
+345,Longs Peak,19.31478321,Willow Creek
+346,Mt. Wilson,5.381323442,Burro Bridge
+347,Mt. Wilson,4.840473529,Cayton
+348,Mt. Wilson,6.048525657,Matterhorn
+349,Mt. Wilson,16.53221748,McClure
+350,Mt. Wilson,17.96264965,Molas Lake Public Park
+351,Mt. Wilson,17.67726457,Purgatory
+352,Mt. Wilson,15.34245506,Sig Creek
+353,Mt. Wilson,12.0408629,South Mineral
+354,Mt. Wilson,6.52698462,Sunshine
+355,Mt. Wilson,12.09701493,Telluride Town Park
+356,Mt. Wilson,19.74341936,Thistledown
+357,Mt. Wilson,19.86316888,West Dolores
+358,Mt. Wilson,4.692391518,Woods Lake
+359,Mt. Shavano,2.689328108,Angel of Shavano
+360,Mt. Shavano,6.281275802,Cascade
+361,Mt. Shavano,6.489931807,Chalk Lake
+362,Mt. Shavano,14.01433965,Collegiate Peaks
+363,Mt. Shavano,19.68627055,Comanche
+364,Mt. Shavano,11.60192037,Cottonwood Lake
+365,Mt. Shavano,6.029464534,Garfield
+366,Mt. Shavano,18.23249563,Gold Creek
+367,Mt. Shavano,10.37507638,Hecla Junction - Arkansas Headwaters State Rec Area
+368,Mt. Shavano,8.176309983,Iron City
+369,Mt. Shavano,10.02799953,Middle Quartz
+370,Mt. Shavano,13.63804813,Mirror Lake - Almont
+371,Mt. Shavano,8.501693788,Monarch Park
+372,Mt. Shavano,6.601921971,Mt. Princeton
+373,Mt. Shavano,4.385037914,North Fork Reservoir
+374,Mt. Shavano,14.19940127,Ohaver Lake
+375,Mt. Shavano,14.08887428,Pitkin
+376,Mt. Shavano,12.46635603,Quartz
+377,Mt. Shavano,18.03860866,Railroad Bridge - Arkansas Headwaters State Rec Area
+378,Mt. Shavano,12.93031329,Ruby Mountain - Arkansas Headwaters State Rec Area
+379,Mt. Shavano,11.66725522,Snowblind
+380,Mt. Princeton,11.54132711,Angel of Shavano
+381,Mt. Princeton,2.712111681,Cascade
+382,Mt. Princeton,2.552005835,Chalk Lake
+383,Mt. Princeton,5.928527056,Collegiate Peaks
+384,Mt. Princeton,3.503761386,Cottonwood Lake
+385,Mt. Princeton,14.33623252,Garfield
+386,Mt. Princeton,19.0281458,Gold Creek
+387,Mt. Princeton,12.23061096,Hecla Junction - Arkansas Headwaters State Rec Area
+388,Mt. Princeton,5.853877876,Iron City
+389,Mt. Princeton,18.79425075,Lakeview - Almont
+390,Mt. Princeton,13.15375035,Middle Quartz
+391,Mt. Princeton,10.21807493,Mirror Lake - Almont
+392,Mt. Princeton,16.71814436,Monarch Park
+393,Mt. Princeton,2.626543653,Mt. Princeton
+394,Mt. Princeton,10.36261873,North Fork Reservoir
+395,Mt. Princeton,16.8985905,Pitkin
+396,Mt. Princeton,14.43476909,Quartz
+397,Mt. Princeton,9.886211434,Railroad Bridge - Arkansas Headwaters State Rec Area
+398,Mt. Princeton,19.12511488,Rivers End
+399,Mt. Princeton,9.134005961,Ruby Mountain - Arkansas Headwaters State Rec Area
+400,Mt. Princeton,18.31355813,Snowblind
+401,Mt. Belford,18.40717826,Cascade
+402,Mt. Belford,18.44301404,Chalk Lake
+403,Mt. Belford,10.48453746,Collegiate Peaks
+404,Mt. Belford,12.88832282,Cottonwood Lake
+405,Mt. Belford,9.272224435,Dexter
+406,Mt. Belford,12.75731469,Dinner Station
+407,Mt. Belford,16.24358954,Dorchester
+408,Mt. Belford,13.57052472,Elbert Creek
+409,Mt. Belford,13.96852535,Halfmoon East
+410,Mt. Belford,13.77067643,Halfmoon West
+411,Mt. Belford,17.43384524,Iron City
+412,Mt. Belford,15.37243162,Lakeview - Almont
+413,Mt. Belford,9.490883375,Lakeview - Twin Lakes
+414,Mt. Belford,18.03836094,Lost Man
+415,Mt. Belford,19.1856772,Lottis Creek
+416,Mt. Belford,15.2556695,Mirror Lake - Almont
+417,Mt. Belford,18.5654623,Mt. Princeton
+418,Mt. Belford,7.872059069,Parry Peak
+419,Mt. Belford,15.66701165,Portal
+420,Mt. Belford,13.35597698,Railroad Bridge - Arkansas Headwaters State Rec Area
+421,Mt. Belford,13.2580308,Rivers End
+422,Mt. Belford,8.026481678,Twin Peaks
+423,Mt. Belford,14.53217305,Weston Pass
+424,Mt. Belford,8.940264219,White Star
+425,Crestone Needle,8.006086663,Alvarado
+426,Crestone Needle,7.072894754,North Crestone Creek
+427,Crestone Needle,15.67447403,Pinyon Flats - Sand Dunes National Monument
+428,Mt. Yale,18.72802348,Angel of Shavano
+429,Mt. Yale,9.985572128,Cascade
+430,Mt. Yale,10.0557668,Chalk Lake
+431,Mt. Yale,18.45888682,Cold Spring
+432,Mt. Yale,2.158985701,Collegiate Peaks
+433,Mt. Yale,4.455031184,Cottonwood Lake
+434,Mt. Yale,17.13208493,Dexter
+435,Mt. Yale,15.28440502,Dinner Station
+436,Mt. Yale,19.16983271,Gold Creek
+437,Mt. Yale,19.3273185,Hecla Junction - Arkansas Headwaters State Rec Area
+438,Mt. Yale,9.432032753,Iron City
+439,Mt. Yale,14.44188737,Lakeview - Almont
+440,Mt. Yale,17.75885702,Lakeview - Twin Lakes
+441,Mt. Yale,19.61055007,Lodgepole - Almont
+442,Mt. Yale,17.50871364,Lottis Creek
+443,Mt. Yale,16.41675866,Middle Quartz
+444,Mt. Yale,9.253079501,Mirror Lake - Almont
+445,Mt. Yale,10.21395431,Mt. Princeton
+446,Mt. Yale,16.04712897,North Fork Reservoir
+447,Mt. Yale,16.30424843,Parry Peak
+448,Mt. Yale,19.04170094,Pitkin
+449,Mt. Yale,16.52089612,Quartz
+450,Mt. Yale,9.401153189,Railroad Bridge - Arkansas Headwaters State Rec Area
+451,Mt. Yale,13.76512022,Rivers End
+452,Mt. Yale,14.38665865,Ruby Mountain - Arkansas Headwaters State Rec Area
+453,Mt. Yale,16.43642154,Twin Peaks
+454,Mt. Yale,18.76717022,Weston Pass
+455,Mt. Yale,17.22211872,White Star
+456,Mt. Bross,15.43283076,Aspen
+457,Mt. Bross,13.770713,Baby Doe
+458,Mt. Bross,13.69282987,Belle of Colorado
+459,Mt. Bross,16.71080982,Blodgett
+460,Mt. Bross,12.47268112,Camp Hale Memorial
+461,Mt. Bross,13.69076325,Father Dyer
+462,Mt. Bross,8.666659402,Fourmile
+463,Mt. Bross,18.16525574,Gold Park
+464,Mt. Bross,19.57469077,Halfmoon East
+465,Mt. Bross,19.74514889,Halfmoon West
+466,Mt. Bross,19.10841034,Hall Valley
+467,Mt. Bross,19.20760911,Handcart
+468,Mt. Bross,18.62616029,Heaton Bay
+469,Mt. Bross,16.71080982,Hornsilver
+470,Mt. Bross,9.289955807,Horseshoe
+471,Mt. Bross,15.18176548,Jefferson Creek
+472,Mt. Bross,19.2974147,Kenosha Pass
+473,Mt. Bross,1.171556041,Kite Lake
+474,Mt. Bross,15.37810434,Lodgepole - Jefferson
+475,Mt. Bross,14.51188587,Matchless
+476,Mt. Bross,17.73364229,Mayqueen
+477,Mt. Bross,13.08909083,Michigan Creek
+478,Mt. Bross,14.01282156,Molly Brown
+479,Mt. Bross,17.28800386,Peak One
+480,Mt. Bross,17.57483633,Pine Cove
+481,Mt. Bross,18.60516523,Prospector
+482,Mt. Bross,8.745566506,Selkirk
+483,Mt. Bross,14.1625477,Silver Dollar
+484,Mt. Bross,13.91558484,Tabor
+485,Mt. Bross,17.84924359,Weston Pass
+486,Kit Carson Mountain,7.273879952,Alvarado
+487,Kit Carson Mountain,19.97521339,Lake Creek
+488,Kit Carson Mountain,5.331185733,North Crestone Creek
+489,Kit Carson Mountain,17.06797321,Pinyon Flats - Sand Dunes National Monument
+490,Maroon Peak,16.21691603,Avalanche
+491,Maroon Peak,14.77969928,Bogan Flats
+492,Maroon Peak,18.65867119,Cement Creek
+493,Maroon Peak,12.5062739,Difficult
+494,Maroon Peak,18.96592618,Dorchester
+495,Maroon Peak,16.69438721,Erickson Springs
+496,Maroon Peak,6.203038636,Gothic
+497,Maroon Peak,14.58891332,Lake Irwin
+498,Maroon Peak,16.08561927,Lincoln Gulch
+499,Maroon Peak,18.19040288,Lost Lake
+500,Maroon Peak,19.83673531,Lost Man
+501,Maroon Peak,17.75817848,McClure
+502,Maroon Peak,15.69609328,Redstone
+503,Maroon Peak,8.245362642,Silver Bar
+504,Maroon Peak,7.091242183,Silver Bell
+505,Maroon Peak,6.244666838,Silver Queen
+506,Maroon Peak,14.83582915,Weller
+507,Tabeguache Peak,3.351044733,Angel of Shavano
+508,Tabeguache Peak,5.847120508,Cascade
+509,Tabeguache Peak,6.122364635,Chalk Lake
+510,Tabeguache Peak,13.42206895,Collegiate Peaks
+511,Tabeguache Peak,19.09757293,Comanche
+512,Tabeguache Peak,11.03798218,Cottonwood Lake
+513,Tabeguache Peak,6.085664163,Garfield
+514,Tabeguache Peak,17.55582691,Gold Creek
+515,Tabeguache Peak,10.90128247,Hecla Junction - Arkansas Headwaters State Rec Area
+516,Tabeguache Peak,7.440746101,Iron City
+517,Tabeguache Peak,9.399538725,Middle Quartz
+518,Tabeguache Peak,12.87928604,Mirror Lake - Almont
+519,Tabeguache Peak,8.559479861,Monarch Park
+520,Tabeguache Peak,6.284658775,Mt. Princeton
+521,Tabeguache Peak,3.845169837,North Fork Reservoir
+522,Tabeguache Peak,14.84021855,Ohaver Lake
+523,Tabeguache Peak,13.49025987,Pitkin
+524,Tabeguache Peak,11.80348793,Quartz
+525,Tabeguache Peak,17.81847873,Railroad Bridge - Arkansas Headwaters State Rec Area
+526,Tabeguache Peak,13.07210123,Ruby Mountain - Arkansas Headwaters State Rec Area
+527,Tabeguache Peak,11.432915,Snowblind
+528,Mt. Oxford (Colorado),19.45297992,Buffalo Springs
+529,Mt. Oxford (Colorado),18.3146656,Cascade
+530,Mt. Oxford (Colorado),18.3059504,Chalk Lake
+531,Mt. Oxford (Colorado),10.5599164,Collegiate Peaks
+532,Mt. Oxford (Colorado),12.8788457,Cottonwood Lake
+533,Mt. Oxford (Colorado),8.819926748,Dexter
+534,Mt. Oxford (Colorado),13.96488772,Dinner Station
+535,Mt. Oxford (Colorado),17.41693587,Dorchester
+536,Mt. Oxford (Colorado),13.61451262,Elbert Creek
+537,Mt. Oxford (Colorado),13.89924647,Halfmoon East
+538,Mt. Oxford (Colorado),13.70928977,Halfmoon West
+539,Mt. Oxford (Colorado),17.6743218,Iron City
+540,Mt. Oxford (Colorado),16.46623827,Lakeview - Almont
+541,Mt. Oxford (Colorado),9.318401999,Lakeview - Twin Lakes
+542,Mt. Oxford (Colorado),18.81102389,Lost Man
+543,Mt. Oxford (Colorado),15.86221696,Mirror Lake - Almont
+544,Mt. Oxford (Colorado),18.39723801,Mt. Princeton
+545,Mt. Oxford (Colorado),8.090365534,Parry Peak
+546,Mt. Oxford (Colorado),16.55630169,Portal
+547,Mt. Oxford (Colorado),12.47983535,Railroad Bridge - Arkansas Headwaters State Rec Area
+548,Mt. Oxford (Colorado),14.40925418,Rivers End
+549,Mt. Oxford (Colorado),8.326866217,Twin Peaks
+550,Mt. Oxford (Colorado),13.40471346,Weston Pass
+551,Mt. Oxford (Colorado),8.782008148,White Star
+552,Mt. Sneffels,7.009139311,Amphitheater
+553,Mt. Sneffels,19.03679296,Cayton
+554,Mt. Sneffels,11.98997139,Matterhorn
+555,Mt. Sneffels,5.775894574,McClure
+556,Mt. Sneffels,18.58699213,Molas Lake Public Park
+557,Mt. Sneffels,14.84260145,Ridgway State Park
+558,Mt. Sneffels,13.69931673,South Mineral
+559,Mt. Sneffels,9.552729829,Sunshine
+560,Mt. Sneffels,4.811889223,Telluride Town Park
+561,Mt. Sneffels,5.353362197,Thistledown
+562,Mt. Sneffels,16.50056782,Woods Lake
+563,Mt. Democrat,16.92324705,Aspen
+564,Mt. Democrat,12.26316686,Baby Doe
+565,Mt. Democrat,12.19242776,Belle of Colorado
+566,Mt. Democrat,15.14138205,Blodgett
+567,Mt. Democrat,10.82661358,Camp Hale Memorial
+568,Mt. Democrat,19.76741556,Dexter
+569,Mt. Democrat,19.73058374,Elbert Creek
+570,Mt. Democrat,12.15598565,Father Dyer
+571,Mt. Democrat,9.15928153,Fourmile
+572,Mt. Democrat,16.42443981,Gold Park
+573,Mt. Democrat,19.16446204,Halfmoon
+574,Mt. Democrat,18.43639555,Halfmoon East
+575,Mt. Democrat,18.61548215,Halfmoon West
+576,Mt. Democrat,18.5653581,Heaton Bay
+577,Mt. Democrat,15.14138205,Hornsilver
+578,Mt. Democrat,9.936441504,Horseshoe
+579,Mt. Democrat,16.62955045,Jefferson Creek
+580,Mt. Democrat,0.973483596,Kite Lake
+581,Mt. Democrat,16.87577571,Lodgepole - Jefferson
+582,Mt. Democrat,13.04448785,Matchless
+583,Mt. Democrat,16.12887087,Mayqueen
+584,Mt. Democrat,14.58602994,Michigan Creek
+585,Mt. Democrat,12.5291422,Molly Brown
+586,Mt. Democrat,17.28308125,Peak One
+587,Mt. Democrat,17.57587343,Pine Cove
+588,Mt. Democrat,18.72120507,Prospector
+589,Mt. Democrat,10.34253448,Selkirk
+590,Mt. Democrat,12.69532274,Silver Dollar
+591,Mt. Democrat,12.38043188,Tabor
+592,Mt. Democrat,19.6739807,Tigiwon
+593,Mt. Democrat,18.07628365,Weston Pass
+594,Capitol Peak,8.781538984,Avalanche
+595,Capitol Peak,10.20968804,Bogan Flats
+596,Capitol Peak,16.56501695,Difficult
+597,Capitol Peak,16.4607845,Erickson Springs
+598,Capitol Peak,12.33861932,Gothic
+599,Capitol Peak,18.65576604,Lake Irwin
+600,Capitol Peak,12.46467662,McClure
+601,Capitol Peak,18.15337426,Paonia State Park
+602,Capitol Peak,8.573794928,Redstone
+603,Capitol Peak,10.6701361,Silver Bar
+604,Capitol Peak,10.08119407,Silver Bell
+605,Capitol Peak,9.848352158,Silver Queen
+606,Capitol Peak,19.55400235,Weller
+607,Pikes Peak,19.00889142,Blue Mountain
+608,Pikes Peak,14.51228283,Cheyenne Mountain State Park
+609,Pikes Peak,16.76293943,Colorado
+610,Pikes Peak,4.590731498,Crags
+611,Pikes Peak,12.01829252,Farish Military - USAF Academy
+612,Pikes Peak,10.00248561,Meadow Ridge
+613,Pikes Peak,7.296298736,Mueller State Park
+614,Pikes Peak,17.13857102,Painted Rocks
+615,Pikes Peak,15.8507847,Peregrine Pines Military - USAF Academy
+616,Pikes Peak,19.61060964,Riverside
+617,Pikes Peak,15.72282081,South Meadows
+618,Pikes Peak,10.94756238,Springdale
+619,Pikes Peak,9.988855551,Thunder Ridge
+620,Pikes Peak,18.22893635,Turkey Creek Military - Fort Carson
+621,Pikes Peak,18.58874593,Wildhorn
+622,Pikes Peak,9.090248024,Wye
+623,Snowmass Mountain,10.94592435,Avalanche
+624,Snowmass Mountain,10.5615386,Bogan Flats
+625,Snowmass Mountain,15.7521151,Difficult
+626,Snowmass Mountain,15.35522987,Erickson Springs
+627,Snowmass Mountain,9.99400547,Gothic
+628,Snowmass Mountain,16.58099939,Lake Irwin
+629,Snowmass Mountain,19.91522909,Lincoln Gulch
+630,Snowmass Mountain,18.79509874,Lost Lake
+631,Snowmass Mountain,13.21825209,McClure
+632,Snowmass Mountain,17.63705514,Paonia State Park
+633,Snowmass Mountain,10.39468021,Redstone
+634,Snowmass Mountain,10.14846213,Silver Bar
+635,Snowmass Mountain,9.342680224,Silver Bell
+636,Snowmass Mountain,8.904762703,Silver Queen
+637,Snowmass Mountain,18.5747729,Weller
+638,Windom Peak,12.69023081,Florida
+639,Windom Peak,16.15784868,Graham Creek
+640,Windom Peak,13.27894729,Haviland Lake
+641,Windom Peak,16.71046732,Lost Trail
+642,Windom Peak,14.97841779,Middle Mountain - Vallecito Reservoir
+643,Windom Peak,15.41072277,Miller Creek
+644,Windom Peak,10.13837009,Molas Lake Public Park
+645,Windom Peak,15.96369984,North Canyon - Vallecito Reservoir
+646,Windom Peak,16.96314845,Old Timers - Vallecito Reservoir
+647,Windom Peak,15.59853881,Pine Point - Vallecito Reservoir
+648,Windom Peak,12.94373123,Pine River
+649,Windom Peak,11.78347403,Purgatory
+650,Windom Peak,16.0088024,Sig Creek
+651,Windom Peak,16.22335748,South Mineral
+652,Windom Peak,19.593435,Thirtymile
+653,Windom Peak,12.03424453,Transfer Park
+654,Windom Peak,10.19540618,Vallecito
+655,Mt. Eolus,12.17373628,Florida
+656,Mt. Eolus,16.57863806,Graham Creek
+657,Mt. Eolus,11.82199227,Haviland Lake
+658,Mt. Eolus,18.05434161,Lost Trail
+659,Mt. Eolus,15.45192915,Middle Mountain - Vallecito Reservoir
+660,Mt. Eolus,15.12595506,Miller Creek
+661,Mt. Eolus,9.386898043,Molas Lake Public Park
+662,Mt. Eolus,16.39457978,North Canyon - Vallecito Reservoir
+663,Mt. Eolus,17.25990126,Old Timers - Vallecito Reservoir
+664,Mt. Eolus,16.06118652,Pine Point - Vallecito Reservoir
+665,Mt. Eolus,13.69151,Pine River
+666,Mt. Eolus,10.09786399,Purgatory
+667,Mt. Eolus,14.32367928,Sig Creek
+668,Mt. Eolus,15.20779884,South Mineral
+669,Mt. Eolus,11.49392845,Transfer Park
+670,Mt. Eolus,10.76636712,Vallecito
+671,Challenger Point,7.297308701,Alvarado
+672,Challenger Point,19.8934121,Lake Creek
+673,Challenger Point,5.116576133,North Crestone Creek
+674,Challenger Point,17.18305363,Pinyon Flats - Sand Dunes National Monument
+675,Mt. Columbia,18.88302044,Buffalo Springs
+676,Mt. Columbia,13.69230468,Cascade
+677,Mt. Columbia,13.63956715,Chalk Lake
+678,Mt. Columbia,6.359037126,Collegiate Peaks
+679,Mt. Columbia,8.427769183,Cottonwood Lake
+680,Mt. Columbia,13.0802214,Dexter
+681,Mt. Columbia,15.56619901,Dinner Station
+682,Mt. Columbia,18.32182431,Elbert Creek
+683,Mt. Columbia,18.53406233,Halfmoon East
+684,Mt. Columbia,18.35106663,Halfmoon West
+685,Mt. Columbia,13.64185192,Iron City
+686,Mt. Columbia,16.31667613,Lakeview - Almont
+687,Mt. Columbia,13.90640097,Lakeview - Twin Lakes
+688,Mt. Columbia,19.81282888,Lottis Creek
+689,Mt. Columbia,13.03612984,Mirror Lake - Almont
+690,Mt. Columbia,13.70474505,Mt. Princeton
+691,Mt. Columbia,12.84772038,Parry Peak
+692,Mt. Columbia,8.703843802,Railroad Bridge - Arkansas Headwaters State Rec Area
+693,Mt. Columbia,14.9434188,Rivers End
+694,Mt. Columbia,15.91513899,Ruby Mountain - Arkansas Headwaters State Rec Area
+695,Mt. Columbia,13.07633148,Twin Peaks
+696,Mt. Columbia,14.82987312,Weston Pass
+697,Mt. Columbia,13.38905773,White Star
+698,Missouri Mountain,17.92051217,Cascade
+699,Missouri Mountain,18.0022,Chalk Lake
+700,Missouri Mountain,18.88675401,Cold Spring
+701,Missouri Mountain,9.888989068,Collegiate Peaks
+702,Missouri Mountain,12.352115,Cottonwood Lake
+703,Missouri Mountain,10.38230732,Dexter
+704,Missouri Mountain,11.58737961,Dinner Station
+705,Missouri Mountain,15.33319718,Dorchester
+706,Missouri Mountain,14.2809909,Elbert Creek
+707,Missouri Mountain,14.7745466,Halfmoon East
+708,Missouri Mountain,14.57124744,Halfmoon West
+709,Missouri Mountain,16.62935662,Iron City
+710,Missouri Mountain,14.05844752,Lakeview - Almont
+711,Missouri Mountain,10.41339172,Lakeview - Twin Lakes
+712,Missouri Mountain,19.9729135,Lodgepole - Almont
+713,Missouri Mountain,17.89481901,Lost Man
+714,Missouri Mountain,17.86956906,Lottis Creek
+715,Missouri Mountain,14.15611108,Mirror Lake - Almont
+716,Missouri Mountain,18.82406797,Mosca
+717,Missouri Mountain,18.15668459,Mt. Princeton
+718,Missouri Mountain,8.489103682,Parry Peak
+719,Missouri Mountain,15.35763698,Portal
+720,Missouri Mountain,13.82677386,Railroad Bridge - Arkansas Headwaters State Rec Area
+721,Missouri Mountain,11.9686539,Rivers End
+722,Missouri Mountain,8.559592416,Twin Peaks
+723,Missouri Mountain,15.8325949,Weston Pass
+724,Missouri Mountain,9.858347376,White Star
+725,Humboldt Peak,7.181509751,Alvarado
+726,Humboldt Peak,7.787102248,North Crestone Creek
+727,Humboldt Peak,16.20756977,Pinyon Flats - Sand Dunes National Monument
+728,Mt. Bierstadt,14.3115995,Aspen
+729,Mt. Bierstadt,5.308576702,Burning Bear
+730,Mt. Bierstadt,5.229374417,Clear Lake
+731,Mt. Bierstadt,17.40285758,Columbine
+732,Mt. Bierstadt,7.998752479,Deer Creek
+733,Mt. Bierstadt,6.589088793,Echo Lake - Idaho Springs
+734,Mt. Bierstadt,12.42181145,Empire City RV Parking
+735,Mt. Bierstadt,5.042052021,Geneva Park
+736,Mt. Bierstadt,10.51588537,Georgetown Lake
+737,Mt. Bierstadt,3.27515606,Guanella Pass
+738,Mt. Bierstadt,10.00188968,Hall Valley
+739,Mt. Bierstadt,9.934745725,Handcart
+740,Mt. Bierstadt,14.25708447,Jefferson Creek
+741,Mt. Bierstadt,12.64396148,Kenosha Pass
+742,Mt. Bierstadt,14.4171072,Lodgepole - Jefferson
+743,Mt. Bierstadt,19.48298311,Lowry
+744,Mt. Bierstadt,8.716746166,Meridian
+745,Mt. Bierstadt,16.46225856,Michigan Creek
+746,Mt. Bierstadt,14.8823725,Mizpah
+747,Mt. Bierstadt,19.96035436,Prospector
+748,Mt. Bierstadt,17.97803151,Robbers Roost
+749,Mt. Bierstadt,6.69020384,West Chicago Creek
+750,Mt. Bierstadt,7.079401926,Whiteside
+751,Sunlight Peak,13.00477366,Florida
+752,Sunlight Peak,16.61871014,Graham Creek
+753,Sunlight Peak,13.2864151,Haviland Lake
+754,Sunlight Peak,16.63051685,Lost Trail
+755,Sunlight Peak,15.44307559,Middle Mountain - Vallecito Reservoir
+756,Sunlight Peak,15.77526322,Miller Creek
+757,Sunlight Peak,9.657718915,Molas Lake Public Park
+758,Sunlight Peak,16.42533184,North Canyon - Vallecito Reservoir
+759,Sunlight Peak,17.41271225,Old Timers - Vallecito Reservoir
+760,Sunlight Peak,16.06259454,Pine Point - Vallecito Reservoir
+761,Sunlight Peak,13.42270046,Pine River
+762,Sunlight Peak,11.55229422,Purgatory
+763,Sunlight Peak,15.77140237,Sig Creek
+764,Sunlight Peak,15.75134052,South Mineral
+765,Sunlight Peak,19.64711959,Thirtymile
+766,Sunlight Peak,12.34251123,Transfer Park
+767,Sunlight Peak,10.66453033,Vallecito
+768,Handies Peak,11.40929089,Amphitheater
+769,Handies Peak,18.80828723,Deer Lakes
+770,Handies Peak,13.12530359,Lost Trail
+771,Handies Peak,6.255129327,Mill Creek - Lake City
+772,Handies Peak,14.94647041,Molas Lake Public Park
+773,Handies Peak,17.91430454,Rito Hondo
+774,Handies Peak,19.60029848,River Hill
+775,Handies Peak,19.88959066,Silver Thread
+776,Handies Peak,16.01527065,Slumgullion
+777,Handies Peak,16.50937098,South Mineral
+778,Handies Peak,16.50831012,Telluride Town Park
+779,Handies Peak,18.74574126,Thirtymile
+780,Handies Peak,12.02103243,Thistledown
+781,Handies Peak,9.200199641,Williams Creek
+782,Handies Peak,12.55040889,Wupperman
+783,Culebra Peak,14.26327725,Bear Lake
+784,Culebra Peak,13.41872852,Blue Lake
+785,Culebra Peak,9.621642628,Monument Lake Park
+786,Culebra Peak,9.941610609,Purgatoire
+787,Ellingwood Point,11.24103055,Pinyon Flats - Sand Dunes National Monument
+788,Ellingwood Point,14.51325,San Luis State Park
+789,Mt. Lindsey,11.61954459,Pinyon Flats - Sand Dunes National Monument
+790,Mt. Lindsey,16.91008135,San Luis State Park
+791,Little Bear Peak,12.33376872,Pinyon Flats - Sand Dunes National Monument
+792,Little Bear Peak,14.78071207,San Luis State Park
+793,Mt. Sherman,10.17687143,Baby Doe
+794,Mt. Sherman,10.05398265,Belle of Colorado
+795,Mt. Sherman,16.55078247,Buffalo Springs
+796,Mt. Sherman,15.51951349,Camp Hale Memorial
+797,Mt. Sherman,12.38936569,Dexter
+798,Mt. Sherman,14.21163317,Elbert Creek
+799,Mt. Sherman,10.36099801,Father Dyer
+800,Mt. Sherman,3.676771338,Fourmile
+801,Mt. Sherman,18.84963427,Gold Park
+802,Mt. Sherman,12.88977522,Halfmoon East
+803,Mt. Sherman,13.01262318,Halfmoon West
+804,Mt. Sherman,4.764334474,Horseshoe
+805,Mt. Sherman,7.527134717,Kite Lake
+806,Mt. Sherman,13.68832717,Lakeview - Twin Lakes
+807,Mt. Sherman,10.42511261,Matchless
+808,Mt. Sherman,14.44208639,Mayqueen
+809,Mt. Sherman,10.16151115,Molly Brown
+810,Mt. Sherman,16.82856284,Parry Peak
+811,Mt. Sherman,15.49686235,Selkirk
+812,Mt. Sherman,10.14397159,Silver Dollar
+813,Mt. Sherman,10.53973046,Tabor
+814,Mt. Sherman,17.32689393,Twin Peaks
+815,Mt. Sherman,10.31797105,Weston Pass
+816,Mt. Sherman,14.08963375,White Star
+817,Redcloud Peak,14.29451206,Amphitheater
+818,Redcloud Peak,19.17528305,Big Blue
+819,Redcloud Peak,17.37579135,Bristol Head
+820,Redcloud Peak,18.9964966,Cebolla
+821,Redcloud Peak,13.91356543,Deer Lakes
+822,Redcloud Peak,17.18208228,Hidden Valley
+823,Redcloud Peak,12.5975267,Lost Trail
+824,Redcloud Peak,2.978439489,Mill Creek - Lake City
+825,Redcloud Peak,19.4663446,Molas Lake Public Park
+826,Redcloud Peak,17.04720467,North Clear Creek
+827,Redcloud Peak,13.78907955,Rito Hondo
+828,Redcloud Peak,17.94993548,River Hill
+829,Redcloud Peak,17.92003829,Road Canyon
+830,Redcloud Peak,16.468594,Silver Thread
+831,Redcloud Peak,11.14851791,Slumgullion
+832,Redcloud Peak,18.14589925,Spruce
+833,Redcloud Peak,17.4585461,Thirtymile
+834,Redcloud Peak,15.40839296,Thistledown
+835,Redcloud Peak,4.861941617,Williams Creek
+836,Redcloud Peak,7.674578139,Wupperman
+837,Pyramid Peak,17.71405793,Avalanche
+838,Pyramid Peak,16.83606676,Bogan Flats
+839,Pyramid Peak,17.90321965,Cement Creek
+840,Pyramid Peak,10.59119535,Difficult
+841,Pyramid Peak,17.08952188,Dorchester
+842,Pyramid Peak,18.58803298,Erickson Springs
+843,Pyramid Peak,6.883506745,Gothic
+844,Pyramid Peak,15.66707727,Lake Irwin
+845,Pyramid Peak,14.03834485,Lincoln Gulch
+846,Pyramid Peak,19.64694231,Lost Lake
+847,Pyramid Peak,17.78102189,Lost Man
+848,Pyramid Peak,19.78676823,McClure
+849,Pyramid Peak,19.50562456,Mosca
+850,Pyramid Peak,18.14350625,Portal
+851,Pyramid Peak,17.40876653,Redstone
+852,Pyramid Peak,6.939019261,Silver Bar
+853,Pyramid Peak,5.747025829,Silver Bell
+854,Pyramid Peak,4.815159508,Silver Queen
+855,Pyramid Peak,12.80537891,Weller
+856,Wilson Peak,6.681551123,Burro Bridge
+857,Wilson Peak,6.253337037,Cayton
+858,Wilson Peak,5.755387782,Matterhorn
+859,Wilson Peak,15.0392545,McClure
+860,Wilson Peak,18.17714698,Molas Lake Public Park
+861,Wilson Peak,18.6994036,Purgatory
+862,Wilson Peak,16.57565563,Sig Creek
+863,Wilson Peak,12.04277099,South Mineral
+864,Wilson Peak,5.53251292,Sunshine
+865,Wilson Peak,11.02586225,Telluride Town Park
+866,Wilson Peak,18.62371094,Thistledown
+867,Wilson Peak,4.196911483,Woods Lake
+868,San Luis Peak,16.44688944,Bristol Head
+869,San Luis Peak,10.08116719,Cebolla
+870,San Luis Peak,14.18571821,Deer Lakes
+871,San Luis Peak,16.01331803,Hansons Mill
+872,San Luis Peak,11.60092389,Hidden Valley
+873,San Luis Peak,13.98852272,Marshall Park
+874,San Luis Peak,15.3869154,North Clear Creek
+875,San Luis Peak,18.64721928,Palisade - South Fork
+876,San Luis Peak,16.07744256,Rio Grande
+877,San Luis Peak,14.93559849,Rito Hondo
+878,San Luis Peak,16.44510385,Silver Thread
+879,San Luis Peak,15.9946024,Slumgullion
+880,San Luis Peak,10.93078155,Spruce
+881,San Luis Peak,14.02290867,Stone Cellar
+882,San Luis Peak,19.39550513,Wupperman
+883,Wetterhorn Peak,8.866874515,Amphitheater
+884,Wetterhorn Peak,13.2100765,Beaver Lake
+885,Wetterhorn Peak,12.78429549,Big Blue
+886,Wetterhorn Peak,13.75757072,Big Cimarron
+887,Wetterhorn Peak,17.77326826,Deer Lakes
+888,Wetterhorn Peak,19.64505439,McClure
+889,Wetterhorn Peak,12.55397342,Mill Creek - Lake City
+890,Wetterhorn Peak,16.18144604,Ridgway State Park
+891,Wetterhorn Peak,12.20137594,Silver Jack
+892,Wetterhorn Peak,16.41699604,Slumgullion
+893,Wetterhorn Peak,18.26481488,Telluride Town Park
+894,Wetterhorn Peak,18.83589268,The Gate
+895,Wetterhorn Peak,10.7587229,Thistledown
+896,Wetterhorn Peak,13.51091523,Williams Creek
+897,Wetterhorn Peak,13.61109386,Wupperman
+898,Mt. of the Holy Cross,15.28521555,Baby Doe
+899,Mt. of the Holy Cross,15.39562989,Belle of Colorado
+900,Mt. of the Holy Cross,6.181675482,Blodgett
+901,Mt. of the Holy Cross,9.514493081,Camp Hale Memorial
+902,Mt. of the Holy Cross,13.69861316,Chapman
+903,Mt. of the Holy Cross,15.51195327,Dearhamer
+904,Mt. of the Holy Cross,10.97186502,Elk Wallow
+905,Mt. of the Holy Cross,14.89255934,Father Dyer
+906,Mt. of the Holy Cross,9.562028603,Fulford Cave
+907,Mt. of the Holy Cross,4.977483557,Gold Park
+908,Mt. of the Holy Cross,15.61407821,Gore Creek
+909,Mt. of the Holy Cross,3.550807175,Halfmoon
+910,Mt. of the Holy Cross,6.181675482,Hornsilver
+911,Mt. of the Holy Cross,18.36449068,Little Mattie
+912,Mt. of the Holy Cross,18.78638344,Little Maud
+913,Mt. of the Holy Cross,15.82402283,Matchless
+914,Mt. of the Holy Cross,13.32307833,Mayqueen
+915,Mt. of the Holy Cross,18.63573893,Mollie B
+916,Mt. of the Holy Cross,15.6079387,Molly Brown
+917,Mt. of the Holy Cross,15.83352444,Silver Dollar
+918,Mt. of the Holy Cross,13.48731369,Sylvan Lake State Park
+919,Mt. of the Holy Cross,14.85600592,Tabor
+920,Mt. of the Holy Cross,5.021018939,Tigiwon
+921,Mt. of the Holy Cross,19.14868763,Wolcott
+922,Mt. of the Holy Cross,10.74684387,Yeoman Park
+923,Huron Peak,19.30803486,Cascade
+924,Huron Peak,19.49196866,Chalk Lake
+925,Huron Peak,16.5066565,Cold Spring
+926,Huron Peak,11.26699433,Collegiate Peaks
+927,Huron Peak,13.76228972,Cottonwood Lake
+928,Huron Peak,11.80351006,Dexter
+929,Huron Peak,8.478879366,Dinner Station
+930,Huron Peak,12.15878629,Dorchester
+931,Huron Peak,14.30863746,Elbert Creek
+932,Huron Peak,15.06014989,Halfmoon East
+933,Huron Peak,14.84718784,Halfmoon West
+934,Huron Peak,17.20614973,Iron City
+935,Huron Peak,11.65580366,Lakeview - Almont
+936,Huron Peak,11.22516957,Lakeview - Twin Lakes
+937,Huron Peak,18.1806197,Lincoln Gulch
+938,Huron Peak,17.53993013,Lodgepole - Almont
+939,Huron Peak,15.79056514,Lost Man
+940,Huron Peak,15.50636249,Lottis Creek
+941,Huron Peak,13.71910541,Mirror Lake - Almont
+942,Huron Peak,15.76846358,Mosca
+943,Huron Peak,19.7142159,Mt. Princeton
+944,Huron Peak,8.597440122,Parry Peak
+945,Huron Peak,12.97958382,Portal
+946,Huron Peak,16.77477606,Railroad Bridge - Arkansas Headwaters State Rec Area
+947,Huron Peak,9.278603942,Rivers End
+948,Huron Peak,8.444989146,Twin Peaks
+949,Huron Peak,19.38947148,Weller
+950,Huron Peak,18.62435031,Weston Pass
+951,Huron Peak,10.68879984,White Star
+952,Sunshine Peak,14.63610831,Amphitheater
+953,Sunshine Peak,16.98059803,Bristol Head
+954,Sunshine Peak,19.69896823,Cebolla
+955,Sunshine Peak,14.64445378,Deer Lakes
+956,Sunshine Peak,17.90601232,Hidden Valley
+957,Sunshine Peak,11.48332849,Lost Trail
+958,Sunshine Peak,2.261243505,Mill Creek - Lake City
+959,Sunshine Peak,18.47952957,Molas Lake Public Park
+960,Sunshine Peak,16.74121533,North Clear Creek
+961,Sunshine Peak,13.72960987,Rito Hondo
+962,Sunshine Peak,17.07081843,River Hill
+963,Sunshine Peak,17.19040451,Road Canyon
+964,Sunshine Peak,16.09674283,Silver Thread
+965,Sunshine Peak,11.74354188,Slumgullion
+966,Sunshine Peak,18.86995538,Spruce
+967,Sunshine Peak,16.50292923,Thirtymile
+968,Sunshine Peak,15.61153266,Thistledown
+969,Sunshine Peak,4.883911579,Williams Creek
+970,Sunshine Peak,8.310160134,Wupperman
+971,Mt. Cameron,15.66440803,Aspen
+972,Mt. Cameron,13.52491455,Baby Doe
+973,Mt. Cameron,13.4543836,Belle of Colorado
+974,Mt. Cameron,15.77866542,Blodgett
+975,Mt. Cameron,11.58998509,Camp Hale Memorial
+976,Mt. Cameron,13.41614971,Father Dyer
+977,Mt. Cameron,9.50897297,Fourmile
+978,Mt. Cameron,17.40637024,Gold Park
+979,Mt. Cameron,19.82292114,Halfmoon
+980,Mt. Cameron,19.64399336,Halfmoon East
+981,Mt. Cameron,19.82077175,Halfmoon West
+982,Mt. Cameron,19.18677421,Hall Valley
+983,Mt. Cameron,19.29325256,Handcart
+984,Mt. Cameron,17.87676124,Heaton Bay
+985,Mt. Cameron,15.77866542,Hornsilver
+986,Mt. Cameron,10.17957626,Horseshoe
+987,Mt. Cameron,15.36793355,Jefferson Creek
+988,Mt. Cameron,19.64327135,Kenosha Pass
+989,Mt. Cameron,1.353858778,Kite Lake
+990,Mt. Cameron,15.61770303,Lodgepole - Jefferson
+991,Mt. Cameron,19.62145119,Lowry
+992,Mt. Cameron,14.30640311,Matchless
+993,Mt. Cameron,17.37571304,Mayqueen
+994,Mt. Cameron,13.328408,Michigan Creek
+995,Mt. Cameron,13.79125508,Molly Brown
+996,Mt. Cameron,16.5588981,Peak One
+997,Mt. Cameron,16.8484501,Pine Cove
+998,Mt. Cameron,17.92750697,Prospector
+999,Mt. Cameron,9.111321784,Selkirk
+1000,Mt. Cameron,13.95721325,Silver Dollar
+1001,Mt. Cameron,13.64052072,Tabor
+1002,Mt. Cameron,18.621291,Weston Pass
+1003,El Diente Peak,4.85486248,Burro Bridge
+1004,El Diente Peak,5.037336715,Cayton
+1005,El Diente Peak,6.795287199,Matterhorn
+1006,El Diente Peak,16.82359078,McClure
+1007,El Diente Peak,18.67440105,Molas Lake Public Park
+1008,El Diente Peak,18.13168904,Purgatory
+1009,El Diente Peak,15.6631328,Sig Creek
+1010,El Diente Peak,12.78113399,South Mineral
+1011,El Diente Peak,7.164675416,Sunshine
+1012,El Diente Peak,12.72006948,Telluride Town Park
+1013,El Diente Peak,19.29441166,West Dolores
+1014,El Diente Peak,4.156188291,Woods Lake
+1015,Conundrum Peak,13.04137915,Cement Creek
+1016,Conundrum Peak,9.880949952,Difficult
+1017,Conundrum Peak,16.67233496,Dinner Station
+1018,Conundrum Peak,11.28432951,Dorchester
+1019,Conundrum Peak,8.036497529,Gothic
+1020,Conundrum Peak,16.13298623,Lake Irwin
+1021,Conundrum Peak,11.40127802,Lincoln Gulch
+1022,Conundrum Peak,14.71807624,Lost Man
+1023,Conundrum Peak,13.53137993,Mosca
+1024,Conundrum Peak,14.08617855,Portal
+1025,Conundrum Peak,19.18166022,Rivers End
+1026,Conundrum Peak,9.899159026,Silver Bar
+1027,Conundrum Peak,8.965382457,Silver Bell
+1028,Conundrum Peak,8.160844926,Silver Queen
+1029,Conundrum Peak,19.06574051,Spring Creek
+1030,Conundrum Peak,10.56373088,Weller
+1031,North Eolus,12.42171789,Florida
+1032,North Eolus,16.78199009,Graham Creek
+1033,North Eolus,12.01421678,Haviland Lake
+1034,North Eolus,17.85498105,Lost Trail
+1035,North Eolus,15.65013858,Middle Mountain - Vallecito Reservoir
+1036,North Eolus,15.36963479,Miller Creek
+1037,North Eolus,9.19788349,Molas Lake Public Park
+1038,North Eolus,16.5969863,North Canyon - Vallecito Reservoir
+1039,North Eolus,17.47351311,Old Timers - Vallecito Reservoir
+1040,North Eolus,16.2606491,Pine Point - Vallecito Reservoir
+1041,North Eolus,13.86035379,Pine River
+1042,North Eolus,10.17157094,Purgatory
+1043,North Eolus,14.39419124,Sig Creek
+1044,North Eolus,15.05811688,South Mineral
+1045,North Eolus,11.7420869,Transfer Park
+1046,North Eolus,10.95196519,Vallecito
+1047,North Maroon Peak,16.04065969,Avalanche
+1048,North Maroon Peak,14.83785294,Bogan Flats
+1049,North Maroon Peak,18.93800571,Cement Creek
+1050,North Maroon Peak,12.27383163,Difficult
+1051,North Maroon Peak,19.01145535,Dorchester
+1052,North Maroon Peak,16.95620691,Erickson Springs
+1053,North Maroon Peak,6.574417345,Gothic
+1054,North Maroon Peak,14.95805176,Lake Irwin
+1055,North Maroon Peak,15.91504852,Lincoln Gulch
+1056,North Maroon Peak,18.53262786,Lost Lake
+1057,North Maroon Peak,19.67226115,Lost Man
+1058,North Maroon Peak,17.7888755,McClure
+1059,North Maroon Peak,15.57881473,Redstone
+1060,North Maroon Peak,7.913071734,Silver Bar
+1061,North Maroon Peak,6.76647479,Silver Bell
+1062,North Maroon Peak,5.933690105,Silver Queen
+1063,North Maroon Peak,14.65356415,Weller
